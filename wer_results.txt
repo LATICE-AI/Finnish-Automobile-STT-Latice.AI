@@ -1,0 +1,2284 @@
+resultat attendu : "CCK 060"
+deepgram-nova-3 = "CCK060" -> 0.000
+gladia = "CCK 060" -> 0.000
+google-latest_long = "cck060" -> 0.000
+groq-whisper-large-v3 = "CCK 060" -> 0.000
+groq-whisper-large-v3-turbo = "CCK 060" -> 0.000
+elevenlabs = "CCK 060." -> 0.000
+fal = "cck060" -> 0.000
+openai-gpt-4o-transcribe = "CCK060." -> 0.000
+latice = "CCK-060" -> 0.000
+deepgram-nova-3 = "CCK kuusikymmenta" -> 0.000
+gladia = "CCK 060" -> 0.000
+google-latest_long = "cck060" -> 0.000
+groq-whisper-large-v3 = "CCK 060" -> 0.000
+groq-whisper-large-v3-turbo = "CCK 060" -> 0.000
+elevenlabs = "CCK060." -> 0.000
+fal = "CCK 060" -> 0.000
+openai-gpt-4o-transcribe = "CCK 060." -> 0.000
+latice = "CCK-060" -> 0.000
+deepgram-nova-3 = "CCK060" -> 0.000
+gladia = "CCK 060" -> 0.000
+google-latest_long = "cck060" -> 0.000
+groq-whisper-large-v3 = "CCK 060" -> 0.000
+groq-whisper-large-v3-turbo = "CCK 060" -> 0.000
+elevenlabs = "CCK 060." -> 0.000
+fal = "cck060" -> 0.000
+openai-gpt-4o-transcribe = "CCK060." -> 0.000
+latice = "CCK-060" -> 0.000
+deepgram-nova-3 = "CCK kuusikymmenta" -> 0.000
+gladia = "CCK 060" -> 0.000
+google-latest_long = "cck060" -> 0.000
+groq-whisper-large-v3 = "CCK 060" -> 0.000
+groq-whisper-large-v3-turbo = "CCK 060" -> 0.000
+elevenlabs = "CCK060." -> 0.000
+fal = "CCK 060" -> 0.000
+openai-gpt-4o-transcribe = "CSK-060." -> 1.000
+latice = "CCK-060" -> 0.000
+
+resultat attendu : "Mika on kotiosoitteesi? Joo, mu osoite on Rantakatu 45 Oulu. Okei, eli se oli Rantakatu 45 Oulu. Joo, oikein meni."
+deepgram-nova-3 = "Mika on kotiosoitteesi? Mulla sote on Rantakatu neljakymmentaviisi Oulu. Okei, eli se oli Rantakatu neljakymmentaviisi Oulu? Joo oikein meni." -> 0.100
+gladia = "Mika on votiosoitteesi? Joo, mua osoite on Rantakatu 45 Oulu. Okei, eli se oli Rantakatu 45 Oulu. Joo, oikein meni." -> 0.133
+google-latest_long = "Mika on kotiosoitteesi? joo, mua on sote on Rantakatu 45, Oulu Okei eli se oli Rantakatu 45 ollut Joo oikein meni." -> 0.250
+groq-whisper-large-v3 = "Mika on potiosoitteesi? Joo, mua osoite on Rantakatu 45 Oulu. Okei, eli se oli Rantakatu 45 Oulu. Joo, oikein meni." -> 0.133
+groq-whisper-large-v3-turbo = "Mika on votiosoitteesi? Joo, mua osoite on Rantakatu 45 Oulu. Okei, eli se oli Rantakatu 45 Oulu? Joo, oikein meni." -> 0.133
+elevenlabs = "Mika on kotiosoitteesi? Joo, mun osoite on Rantakatu nelkytviis, Oulu. Okei, eli se oli Rantakatu nelkytviis, Oulu. Joo, oikein meni." -> 0.233
+fal = "Mika on kotiosoitteesi? Joo, mua osoite on Rantakatu 45 Oulu. Okei, eli se oli Rantakatu 45 Oulu. Joo, oikein meni." -> 0.050
+openai-gpt-4o-transcribe = "Mika on kotiosoitteesi? Ja mun osoite on Rantakatu 45, Oulu. Okei, eli se oli Rantakatu 45, Oulu. Joo, oikein meni." -> 0.100
+latice = "Mika on votiosoitteesi? Joo, muu on Soteo Rantakatu, 45 Oulu. Okei, eli se oli Rantakatu 45 Oulu. Joo, oikein meni." -> 0.233
+
+resultat attendu : "Kaksi tonnia. 80 tonnia, 90 tonnia, 100 tonnia, 150 tonnia, 200 tonnia, 300 tonnia, 2 400 tonnia"
+deepgram-nova-3 = "Kaksi tonnia kolme tonnia nelja tonnia viisi tonnia kymmenen tonnia viisitoista tonnia kaksikymmenta tonnia kolmekymmenta tonnia neljakymmenta tonnia viisikymmenta tonnia kuusikymmenta tonnia seitsemankymmenta tonnia kahdeksankymmenta tonnia yhdeksankymmenta tonnia sata tonnia sataviisikymmenta tonnia kaksisataa tonnia kolmesataa tonnia kaksi tonnia neljasataa" -> 1.000
+gladia = "2 tonnia, 3 tonnia, 4 tonnia, 5 tonnia, 10 tonnia, 15 tonnia, 20 tonnia, 30 tonnia, 40 tonnia, 50 tonnia, 60 tonnia, 70 tonnia, 80 tonnia, 90 tonnia. 100 000, 100 000, 150 000, 200 000, 300 000, 2 400 000." -> 1.000
+google-latest_long = "K tonnia kol tonnia 4 tonnia 5 tonnia 10 tonnia 15 tonnia. 20 tonnia 30 tonnia 40 tonnia 50 tonnia 60 tonnia. 70 tonnia 80 tonnia 90 tonnia 100 tonnia. 150 tonnia 200 tonnia 300 tonnia 400" -> 1.000
+groq-whisper-large-v3 = "1 000, 2 000, 3 000, 4 000, 5 000, 10 000, 15 000, 20 000, 30 000, 40 000, 50 000, 60 000, 70 000, 80 000 90 000 100 000 150 000 200 000 300 000 2 400" -> 1.000
+groq-whisper-large-v3-turbo = "2 tonnia, 3 tonnia, 4 tonnia, 5 tonnia, 10 tonnia, 15 tonnia, 20 tonnia, 30 tonnia, 40 tonnia 50 000, 60 000, 70 000, 80 000, 90 000, 100 000, 150 000, 200 000, 300 000, 200 000, 400 000," -> 1.000
+elevenlabs = "(laitteen piippausta) Kaks tonnii, kolme tonnii, nelja tonnii, viis tonnii, kymmenen tonnii, viistoist tonnii. Kakskymment tonnii, kolkyt tonnii, nelkkyt tonnii, viiskyt tonnii, kuuskyt tonnii, seitkyt tonnii, kasikyt tonnii, yheksankyt tonnii, sata tonnii, sataviiskyt tonnii, kakssataa tonnii, kolmesataa tonnii, kakstonnii neljasataa." -> 1.000
+fal = "2 tonnia 3 tonnia 4 tonnia 5 tonnia 10 tonnia 15 tonnia 20 tonnia 30 tonnia 40 tonnia 50 tonnia 60 tonnia 70 tonnia 80 tonnia 90 tonnia 100 tonnia 150 tonnia 200 tonnia 300 tonnia 2400" -> 1.000
+openai-gpt-4o-transcribe = "Kaks tonnii, kolme tonnii, nelja tonnii, viis tonnii, kymmenen tonnii, viistoist tonnii, kakskymment tonnii, kolkyt tonnii, nelkyt tonnii, viiskyt tonnii, kuuskyt tonnii, seitkyt tonnii, kasikyt tonnii, yhekskyt tonnii, sata tonnii, sataviiskyt tonnii, kaksataa tonnii, kolmesataa tonnii, kakstonnia neljasataa." -> 1.000
+latice = "2 tonnia... 3 tonnia... 4 tonnia... 5 tonnia... 10 tonnia... 15 tonnia... 20 tonnia... 30 tonnia... 40 tonnia... 50 tonnia... 60 tonnia... 70 tonnia" -> 1.000
+
+resultat attendu : "SZC 404"
+deepgram-nova-3 = "SZC neljakymmentanelja" -> 1.000
+gladia = "SZC 404" -> 0.000
+google-latest_long = "sz404" -> 1.000
+groq-whisper-large-v3 = "SZC 404" -> 0.000
+groq-whisper-large-v3-turbo = "SZC404" -> 0.000
+elevenlabs = "No joo. SZC nelja nolla nelja." -> 1.000
+fal = "SZC 404" -> 0.000
+openai-gpt-4o-transcribe = "STC404." -> 1.000
+latice = "SZC-404" -> 0.000
+deepgram-nova-3 = "SZ244" -> 1.000
+gladia = "SZC 404." -> 0.000
+google-latest_long = "Assa z c 404" -> 1.000
+groq-whisper-large-v3 = "SZC 404" -> 0.000
+groq-whisper-large-v3-turbo = "SZC 404." -> 0.000
+elevenlabs = "Assa zeta seee, nelja nolla nelja." -> 1.000
+fal = "SZC 404" -> 0.000
+openai-gpt-4o-transcribe = "Sszczc 404." -> 1.000
+latice = "SZC-404" -> 0.000
+deepgram-nova-3 = "SZC neljakymmentanelja" -> 1.000
+gladia = "SZC404" -> 0.000
+google-latest_long = "sz c40" -> 1.000
+groq-whisper-large-v3 = "SZC 404" -> 0.000
+groq-whisper-large-v3-turbo = "SZC404" -> 0.000
+elevenlabs = "Szcz 404." -> 1.000
+fal = "SZC404" -> 0.000
+openai-gpt-4o-transcribe = "SCC404." -> 1.000
+latice = "SZC-404" -> 0.000
+deepgram-nova-3 = "SZC neljakymmentanelja" -> 1.000
+gladia = "SZC404" -> 0.000
+google-latest_long = "sz c40" -> 1.000
+groq-whisper-large-v3 = "SZC 404" -> 0.000
+groq-whisper-large-v3-turbo = "SZC404" -> 0.000
+elevenlabs = "Szcz 404." -> 1.000
+fal = "SZC404" -> 0.000
+openai-gpt-4o-transcribe = "SCC404." -> 1.000
+latice = "SZC-404" -> 0.000
+deepgram-nova-3 = "SZZ neljakymmentanelja" -> 1.000
+gladia = "SZC 404" -> 0.000
+google-latest_long = "c40" -> 1.000
+groq-whisper-large-v3 = "SZC 404" -> 0.000
+groq-whisper-large-v3-turbo = "SZC404" -> 0.000
+elevenlabs = "Assa tsat see nelja nolla nelja." -> 1.000
+fal = "SZC 404" -> 0.000
+openai-gpt-4o-transcribe = "SCC404." -> 1.000
+latice = "SZC-404" -> 0.000
+deepgram-nova-3 = "SZC neljakymmentanelja." -> 1.000
+gladia = "SZC 404" -> 0.000
+google-latest_long = "szc404" -> 0.000
+groq-whisper-large-v3 = "SZC 404" -> 0.000
+groq-whisper-large-v3-turbo = "SZC Neljana Neljana Neljana" -> 1.000
+elevenlabs = "Szcz 404." -> 1.000
+fal = "SZC 404" -> 0.000
+openai-gpt-4o-transcribe = "HCC404." -> 1.000
+latice = "SZC-404" -> 0.000
+deepgram-nova-3 = "S-Z-C neljakymmentanelja" -> 1.000
+gladia = "SZC 404" -> 0.000
+google-latest_long = "Assat C 4004" -> 1.000
+groq-whisper-large-v3 = "SZC 404" -> 0.000
+groq-whisper-large-v3-turbo = "SZC404" -> 0.000
+elevenlabs = "Assa zet see nelja nolla nelja." -> 1.000
+fal = "SZC 404" -> 0.000
+openai-gpt-4o-transcribe = "SHZC404." -> 1.000
+latice = "SZC-404" -> 0.000
+deepgram-nova-3 = "SZZ neljakymmentanelja" -> 1.000
+gladia = "SJC404" -> 1.000
+google-latest_long = "c404" -> 1.000
+groq-whisper-large-v3 = "SJC404" -> 1.000
+groq-whisper-large-v3-turbo = "SZC404." -> 0.000
+elevenlabs = "SJC nelja nolla nelja." -> 1.000
+fal = "SJC404" -> 1.000
+openai-gpt-4o-transcribe = "STC404." -> 1.000
+latice = "...SZC-404." -> 0.000
+deepgram-nova-3 = "SZC neljakymmentanelja" -> 1.000
+gladia = "SZC 404" -> 0.000
+google-latest_long = "sz404" -> 1.000
+groq-whisper-large-v3 = "SZC 404" -> 0.000
+groq-whisper-large-v3-turbo = "SZC404" -> 0.000
+elevenlabs = "No joo. SZC nelja nolla nelja." -> 1.000
+fal = "SZC 404" -> 0.000
+openai-gpt-4o-transcribe = "HTC 404." -> 1.000
+latice = "SZC-404" -> 0.000
+deepgram-nova-3 = "S-Z-C neljakymmentanelja" -> 1.000
+gladia = "SZC 404" -> 0.000
+google-latest_long = "Assat C 4004" -> 1.000
+groq-whisper-large-v3 = "SZC 404" -> 0.000
+groq-whisper-large-v3-turbo = "SZC404" -> 0.000
+elevenlabs = "Assa zet see nelja nolla nelja." -> 1.000
+fal = "SZC 404" -> 0.000
+openai-gpt-4o-transcribe = "SZC404." -> 0.000
+latice = "SZC-404" -> 0.000
+deepgram-nova-3 = "SZZ neljakymmentanelja" -> 1.000
+gladia = "SJC404" -> 1.000
+google-latest_long = "c404" -> 1.000
+groq-whisper-large-v3 = "SJC404" -> 1.000
+groq-whisper-large-v3-turbo = "SZC404." -> 0.000
+elevenlabs = "SJC nelja nolla nelja." -> 1.000
+fal = "SJC404" -> 1.000
+openai-gpt-4o-transcribe = "STC404." -> 1.000
+latice = "...SZC-404." -> 0.000
+deepgram-nova-3 = "SZC neljakymmentanelja." -> 1.000
+gladia = "SZC 404" -> 0.000
+google-latest_long = "szc404" -> 0.000
+groq-whisper-large-v3 = "SZC 404" -> 0.000
+groq-whisper-large-v3-turbo = "SZC Neljana Neljana Neljana" -> 1.000
+elevenlabs = "Szcz 404." -> 1.000
+fal = "SZC 404" -> 0.000
+openai-gpt-4o-transcribe = "HC-C404." -> 1.000
+latice = "SZC-404" -> 0.000
+deepgram-nova-3 = "SZ244" -> 1.000
+gladia = "SZC 404." -> 0.000
+google-latest_long = "Assa z c 404" -> 1.000
+groq-whisper-large-v3 = "SZC 404" -> 0.000
+groq-whisper-large-v3-turbo = "SZC 404." -> 0.000
+elevenlabs = "Assa zeta seee, nelja nolla nelja." -> 1.000
+fal = "SZC 404" -> 0.000
+openai-gpt-4o-transcribe = "Sszcace404." -> 1.000
+latice = "SZC-404" -> 0.000
+deepgram-nova-3 = "SZZ neljakymmentanelja" -> 1.000
+gladia = "SZC 404" -> 0.000
+google-latest_long = "c40" -> 1.000
+groq-whisper-large-v3 = "SZC 404" -> 0.000
+groq-whisper-large-v3-turbo = "SZC404" -> 0.000
+elevenlabs = "Assa tsat see nelja nolla nelja." -> 1.000
+fal = "SZC 404" -> 0.000
+openai-gpt-4o-transcribe = "SCC404" -> 1.000
+latice = "SZC-404" -> 0.000
+
+resultat attendu : "BVB808"
+deepgram-nova-3 = "B, E, B, kahdeksantuhatta kahdeksan" -> 1.000
+gladia = "B, B, B, 8, 0, 8." -> 1.000
+google-latest_long = "B b808" -> 1.000
+groq-whisper-large-v3 = "BBB808" -> 1.000
+groq-whisper-large-v3-turbo = "B, B, B, 808." -> 1.000
+elevenlabs = "VVB 808." -> 1.000
+fal = "B-B-B-8-0-8" -> 1.000
+openai-gpt-4o-transcribe = "BEB808." -> 1.000
+latice = "B-b-b... 8 0 8" -> 1.000
+deepgram-nova-3 = "B, E, B, kahdeksantuhatta kahdeksan" -> 1.000
+gladia = "B, B, B, 8, 0, 8." -> 1.000
+google-latest_long = "B b808" -> 1.000
+groq-whisper-large-v3 = "BBB808" -> 1.000
+groq-whisper-large-v3-turbo = "B, B, B, 808." -> 1.000
+elevenlabs = "VVB 808." -> 1.000
+fal = "B-B-B-8-0-8" -> 1.000
+openai-gpt-4o-transcribe = "BEB808." -> 1.000
+latice = "B-b-b... 8 0 8" -> 1.000
+
+resultat attendu : "MNN 111"
+deepgram-nova-3 = "MNN satayksitoista" -> 1.000
+gladia = "MNN 111" -> 0.000
+google-latest_long = "mnn11" -> 1.000
+groq-whisper-large-v3 = "MNN 111" -> 0.000
+groq-whisper-large-v3-turbo = "MNN111" -> 0.000
+elevenlabs = "MNN 111." -> 0.000
+fal = "MNN111" -> 0.000
+openai-gpt-4o-transcribe = "MNn 111." -> 0.000
+latice = "MNN-111" -> 0.000
+deepgram-nova-3 = "MNN satayksitoista" -> 1.000
+gladia = "MNN 111" -> 0.000
+google-latest_long = "mnn11" -> 1.000
+groq-whisper-large-v3 = "MNN 111" -> 0.000
+groq-whisper-large-v3-turbo = "MNN111" -> 0.000
+elevenlabs = "MNN 111." -> 0.000
+fal = "MNN111" -> 0.000
+openai-gpt-4o-transcribe = "MN-111." -> 1.000
+latice = "MNN-111" -> 0.000
+deepgram-nova-3 = "MNN111" -> 0.000
+gladia = "MNN111" -> 0.000
+google-latest_long = "mn11" -> 1.000
+groq-whisper-large-v3 = "MNN 111" -> 0.000
+groq-whisper-large-v3-turbo = "MNN111" -> 0.000
+elevenlabs = "Mnn yks yks yks." -> 0.000
+fal = "MNN1111" -> 1.000
+openai-gpt-4o-transcribe = "MNN111." -> 0.000
+latice = "MNN-111" -> 0.000
+deepgram-nova-3 = "MNN111" -> 0.000
+gladia = "MNN111" -> 0.000
+google-latest_long = "mn11" -> 1.000
+groq-whisper-large-v3 = "MNN 111" -> 0.000
+groq-whisper-large-v3-turbo = "MNN111" -> 0.000
+elevenlabs = "Mnn 111." -> 0.000
+fal = "MNN1111" -> 1.000
+openai-gpt-4o-transcribe = "MNN111" -> 0.000
+latice = "MNN-111" -> 0.000
+
+resultat attendu : "SZC404"
+deepgram-nova-3 = "S, Z, Z, nelja, nelja." -> 1.000
+gladia = "SZC404" -> 0.000
+google-latest_long = "Assa Z c404" -> 1.000
+groq-whisper-large-v3 = "SZC404" -> 0.000
+groq-whisper-large-v3-turbo = "S Z C 404" -> 0.000
+elevenlabs = "Assa, zeta, seee, nelja nolla nelja." -> 1.000
+fal = "SZC404" -> 0.000
+openai-gpt-4o-transcribe = "SZC404." -> 0.000
+latice = "SZC-404" -> 0.000
+deepgram-nova-3 = "S, Z, Z, nelja, nelja." -> 1.000
+gladia = "SZC404" -> 0.000
+google-latest_long = "Assa Z c404" -> 1.000
+groq-whisper-large-v3 = "SZC404" -> 0.000
+groq-whisper-large-v3-turbo = "S Z C 404" -> 0.000
+elevenlabs = "Assa, zeta, seee, nelja nolla nelja." -> 1.000
+fal = "SZC404" -> 0.000
+openai-gpt-4o-transcribe = "SzcC404." -> 1.000
+latice = "SZC-404" -> 0.000
+deepgram-nova-3 = "S, Z, C, neljakymmentanelja." -> 1.000
+gladia = "SZC404" -> 0.000
+google-latest_long = "s z c404" -> 0.000
+groq-whisper-large-v3 = "SZC404" -> 0.000
+groq-whisper-large-v3-turbo = "SZC404" -> 0.000
+elevenlabs = "Ass, zett, c nelja nolla nelja." -> 1.000
+fal = "SZC404" -> 0.000
+openai-gpt-4o-transcribe = "SZC404." -> 0.000
+latice = "SZC-404" -> 0.000
+deepgram-nova-3 = "S, Z, C, neljakymmentanelja." -> 1.000
+gladia = "SZC404" -> 0.000
+google-latest_long = "s z c404" -> 0.000
+groq-whisper-large-v3 = "SZC404" -> 0.000
+groq-whisper-large-v3-turbo = "SZC404" -> 0.000
+elevenlabs = "Ass, zett, c nelja nolla nelja." -> 1.000
+fal = "SZC404" -> 0.000
+openai-gpt-4o-transcribe = "Szc404." -> 0.000
+latice = "SZC-404" -> 0.000
+
+resultat attendu : "Mikas sinun sahkopostiosoitteesi oli? Juu, se on jukka.koskinen at saunalahti.fi Oliko se jukka.koskinen at saunalahti.fi? Oli, oli."
+deepgram-nova-3 = "Mikas sinun sahkopostiosoitteesi oli? Juu, se on jukka. Koskinensaunalahti. Fi Oliko se jukka. Koskinensaunalahti. Fi? Oli, oli." -> 0.286
+gladia = "Mikas sinun sahkopostiosoitteesi oli? Juu, se on jukka.koskinen at saunalahti.fi. Oliko se jukka.koskinen at saunalahti.fi? Oli, oli." -> 0.000
+google-latest_long = "Mika sinun sahkopostiosoitteesi oli? se on jukka.koskinen saunalahti.fi Oliko se jukka.koskin saunalahti.fi oli oli" -> 0.200
+groq-whisper-large-v3 = "Mikas sinun sahkopostiosoitteesi oli? Juu, se on jukka.koskinen at saunalahti.fi Oliko se jukka.koskinen at saunalahti.fi? Oli, oli." -> 0.000
+groq-whisper-large-v3-turbo = "Mikas sinun sahkopostiosoitteesi oli? Juu, se on jukka.koskinen at saunalahti.fi Oliko se jukka.koskinen at saunalahti.fi? Oli, oli." -> 0.000
+elevenlabs = "Mikas sinun sahkopostiosoitteesi oli? Juu, se on jukka piste koskinen at saunalahti piste fi. Oliko se jukka piste koskinen at saunalahti piste fi? Oli, oli. (kohinaa)" -> 0.250
+fal = "Mikas sinun sahkopostiosoitteesi oli? Juu, se on jukka.koskinen@saunalahti.fi. Oliko se jukka.koskinen@saunalahti.fi? Oli, oli." -> 0.000
+openai-gpt-4o-transcribe = "Mika sinun sahkopostiosoitteesi oli? Joo, se on jukka.koskinen@saunalahti.fi. Oliko se jukka.koskinen@saunalahti.fi? Oli, oli." -> 0.050
+latice = "Mikas sinun sahkopostiosoitteensi oli? Juu, se on jukka.koskinen at saunalahti.fi. Oliko se jukka.koskinen at saunalahti.fi? Oli, oli." -> 0.050
+
+resultat attendu : "Mika sun nimi oli? Timo Malkasaari. Timo Malkasaari. Joo, anteeks kuulinko oikein? Sanoitko Timo Malkasaari? Joo."
+deepgram-nova-3 = "Mika sun nimi oli? Timo Malkasaari. Malkasaari. Joo, anteeksi kuulinko oikein? Sanoitko Timo Malkasaari? Joo." -> 0.139
+gladia = "Mika sun nimi oli? Timo Malkasaari. Timo Malkasaari. Joo, anteeksi, kuulinko oikein? Sanoitko Timo Malkasaari? Joo." -> 0.056
+google-latest_long = "Mika sun nimi oli? Timo Malkasaari Timo Malkasaari joo" -> 0.429
+groq-whisper-large-v3 = "Mika sun nimi oli? Timo Malkasaari. Timo Malkasaari. Joo, anteeks kuulinko oikein? Sanoitko Timo Malkasaari? Joo." -> 0.000
+groq-whisper-large-v3-turbo = "Mika sun nimi oli? Timo Malkasaari. Timo Malkasaari. Timo Malkasaari. Joo, anteeks kuulinko oikein sanoitko Timo Malkasaari? Joo." -> 0.333
+elevenlabs = "Mika sun nimi oli? Timo Malkasaari. (kohii) Timo Malkasaari. Joo, anteeks. Kuulinko oikein? Sanoitko Timo Malkasaari? Joo." -> 0.071
+fal = "Mika sun nimi oli? Timo Malkasaari. Timo Malkasaari. Joo, anteeks kuulin ku oikein sanoit ku Timo Malkasaari. Joo." -> 0.286
+openai-gpt-4o-transcribe = "Mika sun nimi oli? Timo Malkasaari." -> 0.571
+latice = "Mika sun nimi oli? Timo Malkasaari. Ohom, Timo Malkasaari. Joo, anteeksi, kuulinko oikein, sanoitko Timo Malkasaari? Joo." -> 0.143
+
+resultat attendu : "Mika on sinun autorekisterin rooli? WPK845 Okei, sano WPG845 W kuten Wasabi, P kuten Pekka, K kari 845 Okei, eli siis WPK845"
+deepgram-nova-3 = "Mika heidan sun autorekisterin rooli? Tupla V, P, K, kahdeksan, neljakymmentaviisi. Sanotko tupla V, P, G, kahdeksansataaneljakymmentaviisi V niinku Vasabi P P P kahdeksansataaneljakymmentaviisi Joo" -> 0.850
+gladia = "Jes, mika heto on sun autorekisteriman rooli? WPK845 Okei, sanotko WPG845? Ei ku V niin ku Wasabi, P niin ku Pekka, K niin Kari 845 Okei, eli siis WPK845? Joo" -> 0.750
+google-latest_long = "Jes mika toi sun auto rekisteri maro oli Tupla vpk845 okei g845 eiku v niinku wasabi p niinku Pekka koonikari 845 845 joo" -> 0.950
+groq-whisper-large-v3 = "Jes, mika heto on sun autorekisterimaara oli? WPK 845 Okei, sanotko WPG 845? Ei ku V niinku Wasabi, P niinku Pekka, K niinku Kari 845 Okei, eli siis WPK 845? Joo" -> 0.500
+groq-whisper-large-v3-turbo = "Mika on autorekisterilmaa rooli? WPK845 Okei, sanotko WPG845? V niin kuin Wasabi, P niin kuin Pekka, K niin kuin Kari 845 Okei, eli siis WPK845? Joo" -> 0.600
+elevenlabs = "Jees, mika hiton sun auton rekisterinumero oli? WPK845. Okei, sanoitko WPG845. Eiku W niinku wasabi, P niinku Pekka, K niinku Kari, kahdeksan nelja viis. Okei eli siis WPK845. Joo." -> 0.500
+fal = "Jes, mika heto on sun autorekisterimaaraoli? WPK845 Okei, sanotko WPG845? Ei ku V niin ku Wasabi, P niin ku Pekka, K niin ku Kari, 845 Okei, eli siis WPK845? Joo" -> 0.850
+openai-gpt-4o-transcribe = "Jes, mika se autosi rekisterinumero oli?" -> 1.000
+latice = "Jee, mika heikoisu-autorekisterin rooli? WPK-845. Okei, sanotko WPG-845? Eiku, W niinkuin Wasabi, P niinkuin Pekka, K niinkuin Kari... 845. Okei, eli siis WPK-845. Joo." -> 0.500
+
+resultat attendu : "Maija Tarmo Aapo, 942."
+deepgram-nova-3 = "Maija Tarmo, Aapo, yhdeksan, neljakymmentakaksi" -> 1.000
+gladia = "Maija Tarmo Aapo, 942." -> 0.000
+google-latest_long = "Maija Tarmo Aapo 942" -> 0.000
+groq-whisper-large-v3 = "Maija Tarmo Aapo, 942." -> 0.000
+groq-whisper-large-v3-turbo = "Maija Tarmo Aapo 942" -> 0.000
+elevenlabs = "Maija Tarmo Aapo yheksan nelja kaks." -> 1.000
+fal = "Maija Tarmo Aapo, 942." -> 0.000
+openai-gpt-4o-transcribe = "Maija Tarmo Aapo yhdeksan nelja kaksi." -> 0.000
+latice = "Maija-Tarmo Aapo 9 4 2" -> 0.000
+
+resultat attendu : "XFX 707"
+deepgram-nova-3 = "XFX seitsemantuhatta seitseman" -> 1.000
+gladia = "XFX 707" -> 0.000
+google-latest_long = "xfx 707" -> 0.000
+groq-whisper-large-v3 = "XFX 707" -> 0.000
+groq-whisper-large-v3-turbo = "XFX 707." -> 0.000
+elevenlabs = "XFX seitseman nolla seitteman." -> 1.000
+fal = "XFX 707" -> 0.000
+openai-gpt-4o-transcribe = "XFX 307." -> 1.000
+latice = "XFX-707" -> 0.000
+deepgram-nova-3 = "XFX7007" -> 1.000
+gladia = "XFX707" -> 0.000
+google-latest_long = "XF 707" -> 1.000
+groq-whisper-large-v3 = "XF X707" -> 1.000
+groq-whisper-large-v3-turbo = "xfx707" -> 0.000
+elevenlabs = "Aksa affa aksa seitteman nolla seitteman." -> 1.000
+fal = "XF X707" -> 1.000
+openai-gpt-4o-transcribe = "XFXF707." -> 1.000
+latice = "XFX-707" -> 0.000
+deepgram-nova-3 = "XFX seitsemantuhatta seitseman." -> 1.000
+gladia = "XFX 707" -> 0.000
+google-latest_long = "xfx 707" -> 0.000
+groq-whisper-large-v3 = "XFX 707" -> 0.000
+groq-whisper-large-v3-turbo = "XFX707." -> 0.000
+elevenlabs = "XFX 707." -> 0.000
+fal = "XFX707" -> 0.000
+openai-gpt-4o-transcribe = "XF-X707." -> 1.000
+latice = "XFX-707" -> 0.000
+deepgram-nova-3 = "XFX seitsemantuhatta seitseman" -> 1.000
+gladia = "XFX 707" -> 0.000
+google-latest_long = "xfx 707" -> 0.000
+groq-whisper-large-v3 = "XFX 707" -> 0.000
+groq-whisper-large-v3-turbo = "XFX 707." -> 0.000
+elevenlabs = "XFX seitseman nolla seitteman." -> 1.000
+fal = "XFX 707" -> 0.000
+openai-gpt-4o-transcribe = "XFx 7.07." -> 0.000
+latice = "XFX-707" -> 0.000
+deepgram-nova-3 = "XFX seitsemantuhatta seitseman" -> 1.000
+gladia = "XFX707" -> 0.000
+google-latest_long = "xfx707" -> 0.000
+groq-whisper-large-v3 = "XFX707" -> 0.000
+groq-whisper-large-v3-turbo = "XFx707" -> 0.000
+elevenlabs = "(mikrofonin kahinaa) XFX 707. (mikrofonin kahinaa)" -> 1.000
+fal = "XFX707" -> 0.000
+openai-gpt-4o-transcribe = "XFX707." -> 0.000
+latice = "XFX-707" -> 0.000
+deepgram-nova-3 = "XFX seitsemantuhatta seitseman" -> 1.000
+gladia = "XFX707" -> 0.000
+google-latest_long = "xfx707" -> 0.000
+groq-whisper-large-v3 = "XFX707" -> 0.000
+groq-whisper-large-v3-turbo = "XFx707" -> 0.000
+elevenlabs = "(mikrofonin kahinaa) XFX 707. (mikrofonin kahinaa)" -> 1.000
+fal = "XFX707" -> 0.000
+openai-gpt-4o-transcribe = "XFX707." -> 0.000
+latice = "XFX-707" -> 0.000
+deepgram-nova-3 = "XFX seitsemantuhatta seitseman." -> 1.000
+gladia = "XFX 707" -> 0.000
+google-latest_long = "xfx 707" -> 0.000
+groq-whisper-large-v3 = "XFX 707" -> 0.000
+groq-whisper-large-v3-turbo = "XFX707." -> 0.000
+elevenlabs = "XFX 707." -> 0.000
+fal = "XFX707" -> 0.000
+openai-gpt-4o-transcribe = "XFX707." -> 0.000
+latice = "XFX-707" -> 0.000
+
+resultat attendu : "Paljonko autolla sina olet ajettu? 46 000."
+deepgram-nova-3 = "Paljonko autollasi on ajettu? Neljakymmentakuusi nolla." -> 0.800
+gladia = "Paljonko autolla sina olet ajettu? 46 000" -> 0.000
+google-latest_long = "Paljonko autollasi on ajettu 46 000?" -> 0.600
+groq-whisper-large-v3 = "Paljonko autolla sina on ajettu? 46 000." -> 0.100
+groq-whisper-large-v3-turbo = "Paljonko autolasio on ajettu? 40 000." -> 0.800
+elevenlabs = "Paljonko autollasi on ajettu? Nelkyt kuus tuhatta. (kovenevaa nopeaa musiikkia)" -> 1.000
+fal = "Paljonko autolla sina olet ajettu? 46 000." -> 0.000
+openai-gpt-4o-transcribe = "Paljonko autollasi on ajettu? Neljakymmentakuusituhatta." -> 0.300
+latice = "Paljonko autolla sijon on ajettu? 46 000." -> 0.200
+
+resultat attendu : "pbp808"
+deepgram-nova-3 = "PPP kahdeksantuhatta kahdeksan" -> 1.000
+gladia = "ppp808" -> 1.000
+google-latest_long = "PPP 808" -> 1.000
+groq-whisper-large-v3 = "ppp808" -> 1.000
+groq-whisper-large-v3-turbo = "PPP808." -> 1.000
+elevenlabs = "PPP, 808." -> 1.000
+fal = "ppp808" -> 1.000
+openai-gpt-4o-transcribe = "BPB808." -> 1.000
+latice = "PPP-808" -> 1.000
+deepgram-nova-3 = "PBP kahdeksantuhatta kahdeksan" -> 1.000
+gladia = "PBB 808" -> 1.000
+google-latest_long = "pbp808" -> 0.000
+groq-whisper-large-v3 = "pbp808" -> 0.000
+groq-whisper-large-v3-turbo = "PPP808." -> 1.000
+elevenlabs = "PBP kasinollakasi." -> 1.000
+fal = "pbp808" -> 0.000
+openai-gpt-4o-transcribe = "PBP 08." -> 1.000
+latice = "PBP-808" -> 0.000
+deepgram-nova-3 = "PBP kahdeksankymmentakahdeksan" -> 1.000
+gladia = "pbb808" -> 1.000
+google-latest_long = "PPP 808" -> 1.000
+groq-whisper-large-v3 = "pbb808" -> 1.000
+groq-whisper-large-v3-turbo = "PPP808" -> 1.000
+elevenlabs = "PBP 808" -> 0.000
+fal = "pbb808" -> 1.000
+openai-gpt-4o-transcribe = "BBP808." -> 1.000
+latice = "Pbp 8 0 8" -> 0.000
+deepgram-nova-3 = "PBP kahdeksantuhatta kahdeksan" -> 1.000
+gladia = "PBB 808" -> 1.000
+google-latest_long = "pbp808" -> 0.000
+groq-whisper-large-v3 = "pbp808" -> 0.000
+groq-whisper-large-v3-turbo = "PPP808." -> 1.000
+elevenlabs = "PBP kasinollakasi." -> 1.000
+fal = "pbp808" -> 0.000
+openai-gpt-4o-transcribe = "PBP 08." -> 1.000
+latice = "PBP-808" -> 0.000
+deepgram-nova-3 = "PPP kahdeksantuhatta kahdeksan" -> 1.000
+gladia = "ppp808" -> 1.000
+google-latest_long = "PPP 808" -> 1.000
+groq-whisper-large-v3 = "ppp808" -> 1.000
+groq-whisper-large-v3-turbo = "PPP808." -> 1.000
+elevenlabs = "PPP, 808." -> 1.000
+fal = "ppp808" -> 1.000
+openai-gpt-4o-transcribe = "BPB 808." -> 1.000
+latice = "PPP-808" -> 1.000
+deepgram-nova-3 = "PBP kahdeksankymmentakahdeksan" -> 1.000
+gladia = "pbb808" -> 1.000
+google-latest_long = "PPP 808" -> 1.000
+groq-whisper-large-v3 = "pbb808" -> 1.000
+groq-whisper-large-v3-turbo = "PPP808" -> 1.000
+elevenlabs = "PBP 808" -> 0.000
+fal = "pbb808" -> 1.000
+openai-gpt-4o-transcribe = "PBP808." -> 0.000
+latice = "Pbp 8 0 8" -> 0.000
+
+resultat attendu : "Saisinko sinun kotiosoitteesi? Joo, huvilatie 9B Vaasa. Varmista viela, eli huvilatie 9B Vaasa. Kylla."
+deepgram-nova-3 = "Saisinko sinun kotiosoitteesi? Joo, Uvilatie yhdeksan B-vaasa. Varmista viela, eli Uvilatie yhdeksan B-vaasa. Kylla." -> 0.125
+gladia = "Saisinko sinun kotiosoitteesi? Joo, Huvilatie 9B Vaasa. Varmista viela, eli Huvilatie 9B Vaasa. Kylla." -> 0.000
+google-latest_long = "Se olis niinku sinun kotiosoitteesi. Joo Huvilatie 9 B Vaasa Varmista viela Eli Huvilatie 9 kylla." -> 0.308
+groq-whisper-large-v3 = "Saisinko sinun kotiosoitteesi? Joo, huvilatie 9B Vaasa. Varmista viela, eli huvilatie 9B Vaasa. Kylla." -> 0.000
+groq-whisper-large-v3-turbo = "Saisinko sinun kotiosoitteesi? Joo, Huvilatie 9B Vaasa. Varmista viela, eli Huvilatie 9B Vaasa. Kylla." -> 0.000
+elevenlabs = "Saisinko sinun kotiosoitteesi? Joo, Huvilatie 9B, Vaasa. Varmista viela. Eli Huvilatie 9B, Vaasa. Kylla." -> 0.000
+fal = "Saisinko sinun kotiosoitteesi? Joo, huvilatie 9B Vaasa. Varmista viela, eli huvilatie 9B Vaasa. Kylla." -> 0.000
+openai-gpt-4o-transcribe = "Saisinko sinun kotiosoitteesi?" -> 0.769
+latice = "Saisinko sinun koti osoitteesi? Joo, huvilatie 9B Vaasa. Varmistan viela, eli huvilatie 9B Vaasa? Kylla." -> 0.208
+
+resultat attendu : "Luuleksa et sun auto tarvitsee.. tai, ilmastontilaite tarvitsee huoltoo? Ei tarvi."
+deepgram-nova-3 = "" -> 1.000
+gladia = "Luulen se, etta sinun auto parvitsee tai ilmastonmulat parvitsee huolta. Ei tarvitse." -> 0.818
+google-latest_long = "Luulis auto tarvitsee tai ilmastointilaitoksen huoltoon. Ei tarvi." -> 0.545
+groq-whisper-large-v3 = "Luuleks sa et sun autotarvitse tai ilmastonmulaat tarvitse huoltoon? Ei tarvi." -> 0.636
+groq-whisper-large-v3-turbo = "Luuletko sina, etta sinulla auto tarvitsee tai juhlustumulaattoriksi huolta? Ei tarvitse." -> 0.727
+elevenlabs = "Luuleks sa et sun auto tarvitsee, tai ilmastoinnin laitteet tarvitsee huoltoa? Ei tarvi." -> 0.455
+fal = "Luulen se, etta sinun autotarvitset tai ilmastonmulaat tarvitse huoltaa. Ei tarvitse." -> 0.818
+openai-gpt-4o-transcribe = "Voisaitko odottaa nyt se aiemman kerroksen ruoka?" -> 1.000
+latice = "Kuuleeko se, etta se auto tarvitsee tai juhlastimulat tarvitsisi huoltoa? Ei tarvi." -> 0.636
+
+resultat attendu : "Onko autossa aania moottorista? On."
+deepgram-nova-3 = "" -> 1.000
+gladia = "Onko audossa aania luokkaista? On." -> 0.250
+google-latest_long = "Onko autossa aania moottorista on?" -> 0.000
+groq-whisper-large-v3 = "Onko audossa aania luokkaista? On." -> 0.250
+groq-whisper-large-v3-turbo = "Onko aulussa aania muottaista? On." -> 0.250
+elevenlabs = "(puheensorinaa) Milta Aldus nayttaa? Aa, niin joo. Se on tota, huono." -> 1.000
+fal = "Onko Aalussa aania luokkaista? On." -> 0.250
+openai-gpt-4o-transcribe = "Olen ollut saan aania paljon." -> 1.000
+latice = "Onko autossa aania moottorista? on" -> 0.000
+
+resultat attendu : "Saisinko sinun kotiosoitteesi? Joo, pieni hetki. Peltotie 22, 11130 Riihimaki. Okei, eli se oli Peltotie 22, 11130 Riihimaki. Joo."
+deepgram-nova-3 = "Saisinko sinun kotiosoitteesi? Joo, pieni hetki. Peltotie kaksituhatta kaksisataayksitoistatuhatta kolmesataa Riihimaki. Okei. Eli se oli Peltotin kaksituhatta kaksikymmentayksi satakolmekymmenta, Riihimaki. Joo." -> 0.308
+gladia = "Saisinko sinun kotiosoitteesi? Joo, pieni hetki. Peltotie 2211130 Riihimaki. Okei, eli se oli Peltotie 2211130 Riihimaki. Joo." -> 0.000
+google-latest_long = "Saisinko sinun kotiosoitteesi? Joo pieni hetki Peltotie 22 1130, Riihimaki Okei eli se oli peltotin 2211130 Riihimaki joo" -> 0.154
+groq-whisper-large-v3 = "Saisinko sinun kotiosoitteesi? Joo, pieni hetki. Peltotie 2211130 Riihimaki. Okei, eli se oli Peltotie 2211130 Riihimaki. Joo." -> 0.000
+groq-whisper-large-v3-turbo = "Saisitko sinun kotiosoitteesi? Joo, pieni hetki. Peltotie 2211130 Riihimaki. Okei, eli se oli Peltotie 2211130 Riihimaki? Joo." -> 0.067
+elevenlabs = "Saisinko sinun kotiosoitteesi? Joo, pieni hetki. Peltotie kakskaksyksyksykskolme nolla, Riihimaki. Okei eli se oli Peltotie kakskykaksyksyksykskolme nolla Riihimaki. Joo. (televisio taustalla)" -> 0.462
+fal = "Saisinko sinun kotiosoitteesi? Joo, pieni hetki. Peltotie 2211130 Riihimaki. Okei, eli se oli Peltotie 2211130 Riihimaki. Joo." -> 0.000
+openai-gpt-4o-transcribe = "Saisinko sinun kotiosoitteesi?" -> 0.769
+latice = "Saisinko sinun kotiosoitteesi? Joo, pieni hetki. Peltotie 22 11 1 30 Riihimaki. Okei, eli se oli peltotikasvi 21 1 1 30 Riihimaki? Joo." -> 0.033
+
+resultat attendu : "ZZZ 999"
+deepgram-nova-3 = "ZZZ, yhdeksankymmentayhdeksan, yhdeksankymmentayhdeksan." -> 1.000
+gladia = "Tset tset tset. Yhdeksan" -> 1.000
+google-latest_long = "ZZ" -> 1.000
+groq-whisper-large-v3 = "Tset tset tset. Yhdeksan yhdeksan yhdeksan." -> 1.000
+groq-whisper-large-v3-turbo = "ZZZ9999" -> 1.000
+elevenlabs = "Zzz 999." -> 0.000
+fal = "Tset tset tset. Yhdeksa yhdeksa yhdeksa." -> 1.000
+openai-gpt-4o-transcribe = "Tset tset tset yhdeksan yhdeksan yhdeksan." -> 1.000
+latice = "Zzzz... 999" -> 0.000
+deepgram-nova-3 = "Z-Z-Z-999" -> 1.000
+gladia = "Zzz 999" -> 0.000
+google-latest_long = "999" -> 1.000
+groq-whisper-large-v3 = "Tset tset tset, ysi ysi ysi." -> 1.000
+groq-whisper-large-v3-turbo = "Tset, tset, tset. Uusi, uusi, uusi." -> 1.000
+elevenlabs = "Z, Z, Z, ysi, ysi, ysi." -> 1.000
+fal = "Tset tset tset. Ysi ysi ysi." -> 1.000
+openai-gpt-4o-transcribe = "Tat tat tat, ysi ysi ysi." -> 1.000
+latice = "ZZZ-999" -> 0.000
+deepgram-nova-3 = "Z-Z-Z-999" -> 1.000
+gladia = "Zzz 999" -> 0.000
+google-latest_long = "999" -> 1.000
+groq-whisper-large-v3 = "Tset tset tset, ysi ysi ysi." -> 1.000
+groq-whisper-large-v3-turbo = "Tset, tset, tset. Uusi, uusi, uusi." -> 1.000
+elevenlabs = "Z, Z, Z, ysi, ysi, ysi." -> 1.000
+fal = "Tset tset tset. Ysi ysi ysi." -> 1.000
+openai-gpt-4o-transcribe = "Tat tat tat, ysi ysi ysi." -> 1.000
+latice = "ZZZ-999" -> 0.000
+deepgram-nova-3 = "Z-Z-Z-999." -> 1.000
+gladia = "Tatatat, ysi" -> 1.000
+google-latest_long = "z99" -> 1.000
+groq-whisper-large-v3 = "Tatatat, ysi ysi ysi." -> 1.000
+groq-whisper-large-v3-turbo = "Tat, tat, tat, usi, usi, usi." -> 1.000
+elevenlabs = "ZZZ 999." -> 0.000
+fal = "Tatatat, ysi ysi ysi." -> 1.000
+openai-gpt-4o-transcribe = "Tset tset tset 999." -> 1.000
+latice = "ZZZ 999" -> 0.000
+deepgram-nova-3 = "Z-Z-Z-999-." -> 1.000
+gladia = "Tset, tset, tset, yhdeksan," -> 1.000
+google-latest_long = "z z 99" -> 1.000
+groq-whisper-large-v3 = "ZZZ999" -> 0.000
+groq-whisper-large-v3-turbo = "Tset, tset, tset, yhdeksan, yhdeksan, yhdeksan." -> 1.000
+elevenlabs = "Kaksi zed, zed, yheksan, yheksan, yheksan." -> 1.000
+fal = "ZZZ 999" -> 0.000
+openai-gpt-4o-transcribe = "Zet zet zet yhdeksan yhdeksan yhdeksan." -> 1.000
+latice = "ZZZZ 999" -> 0.000
+deepgram-nova-3 = "Z-Z-Z-999-." -> 1.000
+gladia = "Tset, tset, tset, yhdeksan," -> 1.000
+google-latest_long = "z z 99" -> 1.000
+groq-whisper-large-v3 = "ZZZ999" -> 0.000
+groq-whisper-large-v3-turbo = "Tset, tset, tset, yhdeksan, yhdeksan, yhdeksan." -> 1.000
+elevenlabs = "Kaksi, kaksi. Z, z, z, yheksan, yheksan, yheksan." -> 1.000
+fal = "ZZZ 999" -> 0.000
+openai-gpt-4o-transcribe = "Zet zet zet yhdeksan yhdeksan yhdeksan." -> 1.000
+latice = "ZZZZ 999" -> 0.000
+deepgram-nova-3 = "Z-Z-Z-999." -> 1.000
+gladia = "Tatatat, ysi" -> 1.000
+google-latest_long = "z99" -> 1.000
+groq-whisper-large-v3 = "Tatatatt, ysii ysi ysi." -> 1.000
+groq-whisper-large-v3-turbo = "Tat, tat, tat, usi, usi, usi." -> 1.000
+elevenlabs = "ZZZ 999." -> 0.000
+fal = "Tatatat, ysi ysi ysi." -> 1.000
+openai-gpt-4o-transcribe = "Tset tset tset ysi ysi ysi." -> 1.000
+latice = "ZZZ 999" -> 0.000
+deepgram-nova-3 = "ZZZ, yhdeksankymmentayhdeksan, yhdeksankymmentayhdeksan." -> 1.000
+gladia = "Tset tset tset. Yhdeksan" -> 1.000
+google-latest_long = "ZZ" -> 1.000
+groq-whisper-large-v3 = "Tset tset tset. Yhdeksan yhdeksan yhdeksan." -> 1.000
+groq-whisper-large-v3-turbo = "ZZZ9999" -> 1.000
+elevenlabs = "Zzz 999." -> 0.000
+fal = "Tset tset tset. Yhdeksa yhdeksa yhdeksa." -> 1.000
+openai-gpt-4o-transcribe = "Tset tset tset, yhdeksan yhdeksan yhdeksan." -> 1.000
+latice = "Zzzz... 999" -> 0.000
+deepgram-nova-3 = "Zetat Zetat Zetat Ysi Ysi Ysi Ysi" -> 1.000
+gladia = "ZZZ999" -> 0.000
+google-latest_long = "z z 999" -> 1.000
+groq-whisper-large-v3 = "ZZZZ 999" -> 0.000
+groq-whisper-large-v3-turbo = "ZZZZ 999" -> 0.000
+elevenlabs = "Z z z ysi ysi ysi." -> 1.000
+fal = "ZZZZ999" -> 0.000
+openai-gpt-4o-transcribe = "Zeta zeta zeta yhdeksan yhdeksan yhdeksan." -> 1.000
+latice = "ZZZZ 999" -> 0.000
+
+resultat attendu : "Mikas sinun sahkopostiosoitteesi oli? No, mun sahkoposti on allulaine1 at gmail.com Oliko se allulaine1 at gmail.com? Joo, joo."
+deepgram-nova-3 = "Mika sinun sahkopostiosoitteesi oli? Mun sahkoposti on allulainen1gmail piste com Oliko se allulainen1gmail piste com? Juu juu." -> 0.444
+gladia = "Mikas sinun sahkopostiosoitteesi oli? No, mun sahkoposti on allulainen1 at gmail.com. Oliko se allulainen1 at gmail.com? Joo, joo." -> 0.111
+google-latest_long = "Mika sinun sahkopostiosoitteesi oli? Oo no mun sahkoposti on allulainen yksi gmail.com Oliko se allulainen yksi ja gmail.com juu juu?" -> 0.278
+groq-whisper-large-v3 = "Mikas sinun sahkopostiosoitteesi oli? No, mun sahkoposti on allulainen1 at gmail.com Oliko se allulainen1 at gmail.com? Joo, joo." -> 0.062
+groq-whisper-large-v3-turbo = "Mika sinun sahkopostiosoitteesi oli? No mun sahkoposti on allulaine1 at gmail.com Oliko se allulaine1 at gmail.com? Joo, joo." -> 0.050
+elevenlabs = "Mikas sinun sahkopostiosoitteesi oli? Aa, no mun sahkoposti on allulainen1 at gmail piste com. Oliko se Allulainen yksi@gmail.com? Juu juu. (musiikki jatkuu)" -> 0.278
+fal = "Mikas sinun sahkopostiosoitteesi oli? No, mun sahkoposti on allulainen1 at gmail.com. Oliko se allulainen1 at gmail.com? Joo, joo." -> 0.111
+openai-gpt-4o-transcribe = "Mikas sinun sahkopostiosoitteesi oli?" -> 0.778
+latice = "Mikas sinun sahkopostiosoitteesi oli? Ooo, no mun sahkoposti on allulaine1 at gmail.com. Oliko se allulaine1 at gmail.com? Juu, juu." -> 0.056
+
+resultat attendu : "Haluutko, etta varataan huolto heti? Ei."
+deepgram-nova-3 = "" -> 1.000
+gladia = "Valuttuu, etta me otetaan huoltohapea? Ei." -> 0.400
+google-latest_long = "haluut huolto heti Ei" -> 0.500
+groq-whisper-large-v3 = "Valutkoon, etta me otetaan huoltohati? Ei." -> 0.400
+groq-whisper-large-v3-turbo = "Palutkoitin, menetaan huolto heti." -> 0.667
+elevenlabs = "(musiikki soi taustalla) Ma luulen et ne odottaa mua vahan hetken. Ei." -> 1.000
+fal = "Valuttuu, etta me otetaan huoltohati. Ei." -> 0.400
+openai-gpt-4o-transcribe = "Naukoidaanhan uudestaan." -> 1.000
+latice = "Valuuttuu, etta me jatamme huokosateita. Ei." -> 0.400
+
+resultat attendu : "Z niin kuin Zorro, X niin kuin Extra, W niin kuin Wasabi, 613."
+deepgram-nova-3 = "Zzorro, X niinku Extra tupla V niinku Wasabi, kuusisataakolmetoista" -> 0.833
+gladia = "Z niin kuin Zorro, X niin kuin Extra, W niin kuin Wasabi, 6, 1, 3." -> 0.000
+google-latest_long = "se et niinku Zorro x niinku xtro tupla v niinku wasabi 613" -> 0.750
+groq-whisper-large-v3 = "Z niin kuin Zorro, X niin kuin Extra, W niin kuin Wasabi, 613." -> 0.000
+groq-whisper-large-v3-turbo = "Z niinku Goro, X niinku Extra, W niinku Wasabi 613," -> 0.583
+elevenlabs = "Z niinku Zorro, X niinku Xtra, W niinku wasabi. Kuus, yks, kolme." -> 0.667
+fal = "Z niin kuin Zorro, X niin kuin Extra, W niin kuin Wasabi, 6, 1, 3." -> 0.000
+openai-gpt-4o-transcribe = "Z niin kuin Zorro, X niin kuin extra, W niin kuin wasabi, kuusi, yksi, kolme." -> 0.000
+latice = "Z niin kuin Zorro, X niin kuin Xtra, W niin kuin Wasabi613" -> 0.083
+
+resultat attendu : "Jakohihna."
+deepgram-nova-3 = "Jakohihna." -> 0.000
+gladia = "Jakohihna." -> 0.000
+google-latest_long = "jakohihna" -> 0.000
+groq-whisper-large-v3 = "Jakohihna." -> 0.000
+groq-whisper-large-v3-turbo = "Jakohihna." -> 0.000
+elevenlabs = "Jako hihna." -> 1.000
+fal = "Jakohihna." -> 0.000
+openai-gpt-4o-transcribe = "Jakohihna." -> 0.000
+latice = "Jakohihna" -> 0.000
+
+resultat attendu : "QWZ 100"
+deepgram-nova-3 = "Kuu tuplavetset yksi nolla" -> 1.000
+gladia = "QW-chat 100" -> 1.000
+google-latest_long = "QP Z 10" -> 1.000
+groq-whisper-large-v3 = "QWChat 100" -> 1.000
+groq-whisper-large-v3-turbo = "QWJ100" -> 1.000
+elevenlabs = "QWZ 100." -> 0.000
+fal = "QWChat100" -> 1.000
+openai-gpt-4o-transcribe = "QWERTY100." -> 1.000
+latice = "KWZ-100" -> 1.000
+deepgram-nova-3 = "Guutublavet Z sata." -> 1.000
+gladia = "G-W-Z-100" -> 1.000
+google-latest_long = "Go tupla v Z1" -> 1.000
+groq-whisper-large-v3 = "Youtube-laveet set sata." -> 1.000
+groq-whisper-large-v3-turbo = "Gu tupla veet set sata." -> 1.000
+elevenlabs = "GWZ100." -> 1.000
+fal = "G, W, Z, 100." -> 1.000
+openai-gpt-4o-transcribe = "Guutoplavet Z100." -> 1.000
+latice = "...GWZ-100" -> 1.000
+deepgram-nova-3 = "Kuu tuplavetset yksi nolla" -> 1.000
+gladia = "QW-chat 100" -> 1.000
+google-latest_long = "QP Z 10" -> 1.000
+groq-whisper-large-v3 = "QWChat 100" -> 1.000
+groq-whisper-large-v3-turbo = "QWJ100" -> 1.000
+elevenlabs = "QWZ 100." -> 0.000
+fal = "QWChat100" -> 1.000
+openai-gpt-4o-transcribe = "QWchat 1.0." -> 1.000
+latice = "KWZ-100" -> 1.000
+deepgram-nova-3 = "Guutublavet Z sata." -> 1.000
+gladia = "G-W-Z-100" -> 1.000
+google-latest_long = "Go tupla v z." -> 1.000
+groq-whisper-large-v3 = "Youtube-laveet set sata." -> 1.000
+groq-whisper-large-v3-turbo = "Gu tupla veet set sata." -> 1.000
+elevenlabs = "GWZ100." -> 1.000
+fal = "G, W, Z, 100." -> 1.000
+openai-gpt-4o-transcribe = "GoToPlanetZ100." -> 1.000
+latice = "...GWZ-100" -> 1.000
+
+resultat attendu : "Onks su autoo katastettu viimesen vuoden aikana? Ei oo."
+deepgram-nova-3 = "" -> 1.000
+gladia = "Onks sun autoa katsostettu viimeisen vuoden aikaa? Ei oo." -> 0.357
+google-latest_long = "Onko sulla autoa katsastettu viimeisen vuoden aikana ei oo." -> 0.625
+groq-whisper-large-v3 = "Onks sun autoa katsostettu viimeisen vuoden ajan? Ei oo." -> 0.357
+groq-whisper-large-v3-turbo = "Onko sinua autoa katsas, etta te viivat sinua aina? Ei ole." -> 1.000
+elevenlabs = "Onks sun autoa katsastettu viimesen vuoden aikana? Ei oo." -> 0.214
+fal = "Onks sun autoa katsossa, etta viimeisen vuoden ajan? Ei oo." -> 0.429
+openai-gpt-4o-transcribe = "Onko se auto 25 vuoden ajan?" -> 0.875
+latice = "Onko sua autoa katsastettu viivansa vuodenaan? Ei oo." -> 0.500
+
+resultat attendu : "Moottorin vikavalo palaa, mutta todennakoisesti siella ei ole mitaan rikki, se pitaa vaan nollata."
+deepgram-nova-3 = "Moottorin vikavalo palaa, mut todennakoisesti siella ei oo mitaan rikki. Se pitaa vaan nollata." -> 0.143
+gladia = "Moottorin vikavalopala, mutta todennakoisesti siella ei ole mitaan rikki. Se pitaa vaan nollata." -> 0.143
+google-latest_long = "Moottorivikavalo palaa mut todennakoisesti siella ei oo mitaan rikki. Se pitaa vaan nollata." -> 0.286
+groq-whisper-large-v3 = "Moottorin vikavalo palaa, mutta todennakoisesti siella ei ole mitaan rikki. Se pitaa vaan nollata." -> 0.000
+groq-whisper-large-v3-turbo = "Moottorin vikavalo palaa, mutta todennakoisesti siella ei ole mitaan rikki. Se pitaa vain nollata." -> 0.071
+elevenlabs = "Moottorin vikavalo palaa, mut todennakoisesti siella ei oo mitaan rikki. Se pitaa vaan nollata." -> 0.143
+fal = "Moottorin vikavalo palaa, mutta todennakoisesti siella ei ole mitaan rikki. Se pitaa vaan nollata." -> 0.000
+openai-gpt-4o-transcribe = "Moottorivikavalo palaa, mut todennakoisesti siella ei ole mitaan rikki, se pitaa vaan nollata." -> 0.214
+latice = "Moottorin vikavalo palaa, mutta todennakoisesti siella ei ole mitaan rikki, se pitaa vaan nollata." -> 0.000
+
+resultat attendu : "IIL 117"
+deepgram-nova-3 = "IIL-yksitoistaseitseman" -> 1.000
+gladia = "IIL 117" -> 0.000
+google-latest_long = "i i l 117" -> 0.000
+groq-whisper-large-v3 = "IIL 117" -> 0.000
+groq-whisper-large-v3-turbo = "ii ii l 117" -> 1.000
+elevenlabs = "IIL117." -> 0.000
+fal = "IIL117" -> 0.000
+openai-gpt-4o-transcribe = "EIL117." -> 1.000
+latice = "IIL-117" -> 0.000
+deepgram-nova-3 = "IIL117" -> 0.000
+gladia = "IIL 117" -> 0.000
+google-latest_long = "117" -> 1.000
+groq-whisper-large-v3 = "IIL 117" -> 0.000
+groq-whisper-large-v3-turbo = "IIL 117" -> 0.000
+elevenlabs = "IIL 117." -> 0.000
+fal = "IIL 117" -> 0.000
+openai-gpt-4o-transcribe = "EIL117." -> 1.000
+latice = "IIL-117" -> 0.000
+deepgram-nova-3 = "IIL117" -> 0.000
+gladia = "IIL 117" -> 0.000
+google-latest_long = "iel 117" -> 1.000
+groq-whisper-large-v3 = "IIL 117" -> 0.000
+groq-whisper-large-v3-turbo = "IIL 117" -> 0.000
+elevenlabs = "IIL117." -> 0.000
+fal = "IIL 117" -> 0.000
+openai-gpt-4o-transcribe = "EEL117." -> 1.000
+latice = "IIL-117" -> 0.000
+deepgram-nova-3 = "IIL-yksitoistaseitseman" -> 1.000
+gladia = "IIL 117" -> 0.000
+google-latest_long = "i i l 117" -> 0.000
+groq-whisper-large-v3 = "IIL 117" -> 0.000
+groq-whisper-large-v3-turbo = "ii ii l 117" -> 1.000
+elevenlabs = "IIL117." -> 0.000
+fal = "IIL117" -> 0.000
+openai-gpt-4o-transcribe = "EIL117." -> 1.000
+latice = "IIL-117" -> 0.000
+deepgram-nova-3 = "IIL117" -> 0.000
+gladia = "IIL 117" -> 0.000
+google-latest_long = "117" -> 1.000
+groq-whisper-large-v3 = "IIL 117" -> 0.000
+groq-whisper-large-v3-turbo = "IIL 117" -> 0.000
+elevenlabs = "IIL 117." -> 0.000
+fal = "IIL 117" -> 0.000
+openai-gpt-4o-transcribe = "EEL117." -> 1.000
+latice = "IIL-117" -> 0.000
+deepgram-nova-3 = "IIL117" -> 0.000
+gladia = "IIL 117" -> 0.000
+google-latest_long = "iel 117" -> 1.000
+groq-whisper-large-v3 = "IIL 117" -> 0.000
+groq-whisper-large-v3-turbo = "IIL 117" -> 0.000
+elevenlabs = "IIL117." -> 0.000
+fal = "IIL 117" -> 0.000
+openai-gpt-4o-transcribe = "IIL117." -> 0.000
+latice = "IIL-117" -> 0.000
+
+resultat attendu : "Hei, olisiko vaihteiston tarkastus mahdollista torstaina 7.8. kello 15? No joo, otetaan vaan."
+deepgram-nova-3 = "Hei olisiko vaihteiston tarkastus mahdollista torstaina seitsemansataakahdeksan. Klo viisitoista? No joo, otetaan vaan." -> 0.300
+gladia = "Hei, olisiko vaihteiston tarkastus mahdollista torstaina 7.8. kello 15? No joo, otetaan vaan." -> 0.000
+google-latest_long = "Hei Olisko vaihteiston tarkastus mahdollista torstaina 7.8. KL 15. No Joo otetaan vaan." -> 0.292
+groq-whisper-large-v3 = "Hei, olisiko vaihteiston tarkastus mahdollista torstaina 7.8. kello 15? No joo, otetaan vaan." -> 0.000
+groq-whisper-large-v3-turbo = "Hei, olisiko vaihteiston tarkastus mahdollista torstaina 7.8. kello 15? No joo, otetaan vaan." -> 0.000
+elevenlabs = "Hei, olisko vaihteiston tarkastus mahdollista torstaina seittemas kaheksatta kello viistoista? No joo, laitetaan vaan. (kovaa puhetta taustalla)" -> 1.000
+fal = "Hei, olisiko vaihteiston tarkastus mahdollista torstaina 7.8. kello 15? No joo, otetaan vaan." -> 0.000
+openai-gpt-4o-transcribe = "Hei, olisiko vaihteiston tarkastus mahdollista torstaina 7.8. kello 15?" -> 0.300
+latice = "Hei, olisiko vaihteiston tarkastusmahdollista torstaina 7.8. kello 15? No joo, otetaan vaan." -> 0.083
+
+resultat attendu : "Mika sinun sahkopostiosoite olikaan? adelina_r97 at gmail.com Eli adelina_r97 at gmail.com Joo, ja tosiaan adelina yhden iilla. Okei, kiitos."
+deepgram-nova-3 = "Mika sun sahkopostiosoite olikaan? Adeliina-r97kiema piste com Eli adelinaar97gmail piste com Joo, tosiaan adelinayheli-i:lla Okei, kiitos!" -> 0.545
+gladia = "Mika se sahkopostiosoite olikaan? adelina-r97-atgm.com Eli adelina-r97-atgm.com Joo, ja tosiaan adelina yhden iilla. Okei, kiitos." -> 0.217
+google-latest_long = "Mika sun sahkopostiosoite olikaan oo Adeliina alaviiva r97.3 eli Adeliina alaviiva r97@gmail.com Joo Ja tosiaan Adeliina yhdella. Okei kiitos." -> 0.500
+groq-whisper-large-v3 = "Mika sun sahkopostiosoite olikaan? Adelina-r97-atgma.com Eli Adelina-r97-atgma.com Joo, ja tosiaan Adelina yhden iilla. Okei, kiitos." -> 0.217
+groq-whisper-large-v3-turbo = "Mikas on sahkopostiosate oli? Adeliina-R97.gm.3 Adeliina-R97.gm.3 Joo, tosiaan Adeliina 1i. Okei, kiitos." -> 0.773
+elevenlabs = "Mika sun sahkopostiosoitte olikaan? Aa. Adelina_alaviiva_r97@gmail.com. Eli adelina_alaviiva_r97@gmail.com. Joo ja tosiaan Adelina yhdella i:lla. Okei, kiitos." -> 0.318
+fal = "Mika sun sahkopostiosoite olikaan? adeliina-r97@gmail.com Eli adeliina-r97@gmail.com Joo, ja tosiaan adeliina yhden i:lla. Okei, kiitos." -> 0.233
+openai-gpt-4o-transcribe = "Mikas sun sahkopostiosoite olikaan? Adeliina_r97@gmail.com. Eli Adeliina_r97@gmail.com. Joo, tosiaan Adeliina yhdella i:lla. Okei, kiitos." -> 0.409
+latice = "Mika sun sahkopostiosoite olikaa? CouncillADELINA-R97-GMM-STECKO!!]Eli Adelina-R97-GMM-stekko [?Joo, ja tosiaan Adelina yha liilla.Okei, kiitos." -> 0.450
+
+resultat attendu : "TXR 118"
+deepgram-nova-3 = "TXR118" -> 0.000
+gladia = "TXR118" -> 0.000
+google-latest_long = "txr11" -> 1.000
+groq-whisper-large-v3 = "TXR 118." -> 0.000
+groq-whisper-large-v3-turbo = "TxR118." -> 0.000
+elevenlabs = "TXR118." -> 0.000
+fal = "TXR 118." -> 0.000
+openai-gpt-4o-transcribe = "DXR118" -> 1.000
+latice = "TXR-118" -> 0.000
+deepgram-nova-3 = "TXR satakaksitoista" -> 1.000
+gladia = "TXR 118" -> 0.000
+google-latest_long = "txr 118" -> 0.000
+groq-whisper-large-v3 = "TXR 118" -> 0.000
+groq-whisper-large-v3-turbo = "TXR 118." -> 0.000
+elevenlabs = "TXR118." -> 0.000
+fal = "TXR 118" -> 0.000
+openai-gpt-4o-transcribe = "TXR118." -> 0.000
+latice = "TXR-118" -> 0.000
+
+resultat attendu : "Saisinko ma sun sahkopostiosoitteen viela? Joo, eli laura.nieminen92 at outlook.com Ma sain laura.nieminen92 at outlook.com Joo oikein."
+deepgram-nova-3 = "Saisinko ma sun sahkopostiosoitteen viela? Joo eli toi laura. Nieminen92soutloot piste com Ma sain laura. Nieminen92soutloot Ma sain yhdeksankymmentakaksi at outlook piste com" -> 0.421
+gladia = "Saisinko ma sun sahkopostiosoitteen viela? Joo, eli toi laura.nieminen92atoutlook.com Ma sain laura.nieminen92atoutlook.com Joo oikein." -> 0.306
+google-latest_long = "Saisinko ma sun sahkopostiosoitteen viela? Joo eli toi ma sain laura.nieminen 92 outlook.com Joo oikein" -> 0.316
+groq-whisper-large-v3 = "Saisinko ma sun sahkopostiosoitteen viela? Joo, eli toi laura.nieminen92atoutlook.com Ma sain laura.nieminen92atoutlook.com Joo, oikein." -> 0.306
+groq-whisper-large-v3-turbo = "Saisinko ma sun sahkopostiosoitteen viela? Joo, eli toi laura.nieminen92.outloop.com Ma sain laura.nieminen92.outloop.com Joo, oikein." -> 0.263
+elevenlabs = "Saisinks ma sun sahkopostiosoitteen viela? Joo eli toi laura piste nieminen92 at outlook piste com. Ma sain laura piste nieminen92 at outlook pisteh com. Joo oikein." -> 0.316
+fal = "Saisinko ma sun sahkopostiosoitteen viela? Joo, eli toi laura.nieminen92atoutlook.com Ma sain laura.nieminen92atoutlook.com Joo, oikein." -> 0.306
+openai-gpt-4o-transcribe = "Saisinko sahkopostiosoitteen viela?" -> 0.842
+latice = "Saisinko ma sun sahkopostiosoitteen viela? Joo, eli toi laura.nieminen92 at outwood.com. Ma sain laura.nieminen92 at outwood.com. Joo, oikein." -> 0.158
+
+resultat attendu : "CCK 606"
+deepgram-nova-3 = "CCK kuusikymmentaneljakuusi" -> 1.000
+gladia = "CCK606" -> 0.000
+google-latest_long = "cck 606" -> 0.000
+groq-whisper-large-v3 = "CCK 606" -> 0.000
+groq-whisper-large-v3-turbo = "CCK 606" -> 0.000
+elevenlabs = "CCK 606." -> 0.000
+fal = "CCK 606" -> 0.000
+openai-gpt-4o-transcribe = "CCK606." -> 0.000
+latice = "CCK-606" -> 0.000
+deepgram-nova-3 = "CCK kuusikymmentaneljakuusi" -> 1.000
+gladia = "CCK606" -> 0.000
+google-latest_long = "cck 606" -> 0.000
+groq-whisper-large-v3 = "CCK 606" -> 0.000
+groq-whisper-large-v3-turbo = "CCK 606" -> 0.000
+elevenlabs = "CCK 606." -> 0.000
+fal = "CCK 606" -> 0.000
+openai-gpt-4o-transcribe = "CCK606." -> 0.000
+latice = "CCK-606" -> 0.000
+
+resultat attendu : "ZFX334 eli Zorro Felix Extra 334"
+deepgram-nova-3 = "ZFX334 eli Zorro Felix Xtra334" -> 0.200
+gladia = "ZFX 334 eli Zorro Felix Extra 334." -> 0.000
+google-latest_long = "Z FX 334 eli Zorro Felix Xtra 334" -> 0.600
+groq-whisper-large-v3 = "ZFX334 eli Zorro Felix Extra 334" -> 0.000
+groq-whisper-large-v3-turbo = "ZFX334 eli Zorro Felix Extra 334" -> 0.000
+elevenlabs = "Ja ZFX334 eli Zorro Felix Xtra 334." -> 0.400
+fal = "ZFX334 eli Zorro Felix Extra 334" -> 0.000
+openai-gpt-4o-transcribe = "ZFX334 eli Zorro Felix Extra 334." -> 0.000
+latice = "ZFX-334 eli Zorro Felix Extra 334" -> 0.000
+
+resultat attendu : "Voitaisiin varata kuulokasen aivonen maanantaja 4. marraskuuta, sopisiko tama sinulle? Ei. Okei, voisitko 30. tai 50. marraskuuta menna paremmin? Joo."
+deepgram-nova-3 = "" -> 1.000
+gladia = "" -> 1.000
+google-latest_long = "Ulkoisen maanantaina neljas marraskuuta, niin sopisiko taa sulle ei okei. Voisko tiistai viidesta harrastettua nyt paremmin? Niin" -> 0.875
+groq-whisper-large-v3 = "Voitais varata puolukasen alueelle maanantajan 5. marraskuuta, sopisiko taa sinulle? Ei. Okei, voisitko 3. tai 5. marraskuutta tehda paremmin? Joo." -> 0.460
+groq-whisper-large-v3-turbo = "Voitais parata, kuulukasen aivonen mananen ja uudesta marraskuutta, niin sotisiko taalla sinne? Ei. Okei, voisiko insta-aivuudesta marraskuutta uudesta paremmin? Joo." -> 1.000
+elevenlabs = "(puhelin halyttaa) Voitais varata huolto sun autolle maanantaina 4.3., niin sopisko taa sulle? Ei. Okei. Voisko tiistai 5.3. olla vahan parempi? Juu. (jai aani paalle)" -> 1.000
+fal = "Voitais varata 30. aamuuden maanantaion 4. marraskuuta, niin sopisiko taa sinne? Ei. Okei, voisitko 30. tai 5. marraskuuta menna paremmin? Joo." -> 0.562
+openai-gpt-4o-transcribe = "Voiko parata huomisen alueen maailman mielesta?" -> 1.000
+latice = "Voisiko parata ulkosyn alueen mananvalinen smart-scootani, sopisiko tama sinulle? Ei. Okei, voisiko Instagramin smart-scootani paremmin? Juu." -> 0.688
+
+resultat attendu : "Laakeri."
+deepgram-nova-3 = "Laakeri" -> 0.000
+gladia = "Laakeri." -> 0.000
+google-latest_long = "laakeri" -> 0.000
+groq-whisper-large-v3 = "Laakari." -> 1.000
+groq-whisper-large-v3-turbo = "Laa, keri." -> 1.000
+elevenlabs = "Laakeri." -> 0.000
+fal = "Laakeri." -> 0.000
+openai-gpt-4o-transcribe = "Laakeri." -> 0.000
+latice = "Laakeri" -> 0.000
+
+resultat attendu : "Tehdaan ensin vikakoodien luku ja katsotaan sitten mita toi ohjaajanlaite sanoo."
+deepgram-nova-3 = "Tehdaan ensin vikakoodien lukuja katotaan sitten mita toi ohjaajan laite sanoo." -> 0.455
+gladia = "Tehdaan ensin vikakoodien luku ja katsotaan sitten mita toi ohjaajan laite sanoo." -> 0.182
+google-latest_long = "Tehdaan ensin vikakoodien lukuja. Katsotaan sitten mita toi ohjainlaite sanoo." -> 0.273
+groq-whisper-large-v3 = "Tehdaan ensin vikakoodien luku ja katsotaan sitten mita toi ohjaajan laite sanoo." -> 0.182
+groq-whisper-large-v3-turbo = "Tehdaan ensin vikakoodien luku ja katsotaan sitten, mita tuo ohjaajanlaite sanoi." -> 0.182
+elevenlabs = "Tehaan ensin vikakoodien luku ja katotaan sit et mita toi ohjainlaite sanoo." -> 0.455
+fal = "Tehdaan ensin vikakoodien luku ja katsotaan mita ohjaajan laite sanoo." -> 0.273
+openai-gpt-4o-transcribe = "Tehdaan ensin vikakoodien luku ja katsotaan sitten, mita toi ohjainlaite sanoo." -> 0.091
+latice = "Tehdaan ensin vikakoodien luku ja katsotaan sitten, mita toi ohjeenlaite sanoo." -> 0.091
+
+resultat attendu : "FxC520 eli Felix Extra C-vitamiini 520"
+deepgram-nova-3 = "FXC viisisataakaksikymmenta eli Felix extra C-vitamiini viisisataakaksikymmenta" -> 0.000
+gladia = "FxC 520 eli Felix Extra C-vitamiini 520." -> 0.000
+google-latest_long = "fxc 520 eli Felix Xtra c-vitamiini 520" -> 0.167
+groq-whisper-large-v3 = "FxC520 eli Felix Extra C-vitamiini 520" -> 0.000
+groq-whisper-large-v3-turbo = "FXC520 eli Felix Extra C-vitamiini 520" -> 0.000
+elevenlabs = "Ah, FXC 520 eli Felix Xtra C-vitamiini 520." -> 0.333
+fal = "FXC 520 eli Felix Extra C-vitamiini 520" -> 0.000
+openai-gpt-4o-transcribe = "FXC520 eli Felix Extra C-vitamiini 520." -> 0.000
+latice = "FXC-520, eli Felix Extra C-vitamiini 520." -> 0.000
+
+resultat attendu : "Mika sun nimi on? Inari Leppanen. Inari Leppanen."
+deepgram-nova-3 = "Mika sun nimi on? Inari Leppainen. Inari Leppainen? Joo." -> 0.250
+gladia = "Mika sun nimi on? Inori Leppanen. Inori Leppanen. Joo." -> 0.250
+google-latest_long = "Mika sun nimi on? Inari Leppanen joo" -> 0.250
+groq-whisper-large-v3 = "Mika sun nimi on? Inori Leppanen. Inori Leppanen." -> 0.333
+groq-whisper-large-v3-turbo = "Mika sun nimi on? Inori Leppanen. Inori Leppanen. Joo." -> 0.250
+elevenlabs = "Mika sun nimi on? (kohisee) Inari Leppanen. Inari, Leppanen. Joo. Joo." -> 0.125
+fal = "Mika sun nimi on? Inori Leppanen. Inori Leppanen. Joo." -> 0.250
+openai-gpt-4o-transcribe = "Mika sun nimi on?" -> 0.500
+latice = "Mika sun nimi on? Inari Leppanen. Inari Leppanen." -> 0.000
+
+resultat attendu : "Saisinko sinun potiosoitteesi? Joo, Satamakatu 17, Tampere ja posti numero 33 200. Okei, eli se oli Satamakatu 17 33 200, Tampere. Oikein meni, joo."
+deepgram-nova-3 = "Saisinko sinun koti osoitteeseen? Joo, satamakatu seitsemantoista, Tampere ja postinumero kolmekymmentakolme kaksisataa. Okei, eli se oli sata mankatu seitsemantoista kolmesataakolmekymmentakaksituhatta Tampereella. Oikein meni, joo." -> 0.396
+gladia = "Saisinko sinun potiosoitteesi? Joo, Satamakatu 17, Tampere ja postinumero 33200. Okei, eli se oli Satamankatu 17, 33200, Tampere. Oikein meni, joo." -> 0.104
+google-latest_long = "Saisinko sinun kotiosoitteesi? Joo Satamakatu 17 Tampere ja postinumero 33 200 Okei eli se oli Satamankatu 1733200 Tampere Oikein meni joo." -> 0.200
+groq-whisper-large-v3 = "Saisinko sinun potiosoitteesi? Joo, Satamankatu 17, Tampere ja posti numero 33 200. Okei, eli se oli Satamankatu 17 33 200, Tampere. Oikein meni, joo." -> 0.104
+groq-whisper-large-v3-turbo = "Saisinko sinun poti osoitteesi? Joo, Satamankatu 17 Tampere ja posti numero 33200. Okei, eli se oli Satamankatu 17 33200 Tampere? Oikein meni, joo." -> 0.271
+elevenlabs = "Saisinko sinun kotiosoitteesi? Joo, Satamankatu seittemantoista, Tampere, ja postinumero kolme, kolme, kakssataa. Okei, eli se oli Satamankatu seitsemantoista, kolme, kolme, kaksi, nolla, nolla, Tampere. Oikein meni. Joo. (kohinaa)" -> 0.467
+fal = "Saisinko sinun potiosoitteesi? Joo, Satamankatu 17, Tampere ja posti numero 33 200. Okei, eli se oli Satamankatu 17 33 200, Tampere. Oikein meni, joo." -> 0.104
+openai-gpt-4o-transcribe = "Okei, eli se oli Satamakatu 17, 33200 Tampere?" -> 0.600
+latice = "Saisinko sinun koti osoitteeseen? Joo, Satamakatu 17 Tampere ja posti numero 33 200. Okei, eli se oli Satamankatu 17 33 200 Tampere. Oikein meni, joo." -> 0.208
+
+resultat attendu : "HLM 983"
+deepgram-nova-3 = "HLM, yhdeksan, yhdeksan," -> 1.000
+gladia = "HLM 983" -> 0.000
+google-latest_long = "hlm983" -> 0.000
+groq-whisper-large-v3 = "HLM 983" -> 0.000
+groq-whisper-large-v3-turbo = "HLM 983" -> 0.000
+elevenlabs = "HLM ysi kasi kolme." -> 1.000
+fal = "HLM 983" -> 0.000
+openai-gpt-4o-transcribe = "OLM983." -> 1.000
+latice = "HLM-983" -> 0.000
+deepgram-nova-3 = "HLM-yhdeksankymmentakahdeksankolme" -> 1.000
+gladia = "HLM 983." -> 0.000
+google-latest_long = "hlm983" -> 0.000
+groq-whisper-large-v3 = "HLM 983." -> 0.000
+groq-whisper-large-v3-turbo = "HLM983" -> 0.000
+elevenlabs = "HLM 983." -> 0.000
+fal = "HLM 983." -> 0.000
+openai-gpt-4o-transcribe = "HLM 983." -> 0.000
+latice = "HLM-983" -> 0.000
+deepgram-nova-3 = "HLM-yhdeksankymmentakahdeksan kolme" -> 1.000
+gladia = "HLM 983" -> 0.000
+google-latest_long = "hlm983" -> 0.000
+groq-whisper-large-v3 = "HLM 983" -> 0.000
+groq-whisper-large-v3-turbo = "HLM-YSI-KASI-KOLME" -> 1.000
+elevenlabs = "Hlm ysikasi kolme." -> 1.000
+fal = "HLM 983" -> 0.000
+openai-gpt-4o-transcribe = "HLM983." -> 0.000
+latice = "...HLM-983." -> 0.000
+
+resultat attendu : "LHR 245"
+deepgram-nova-3 = "LHR245" -> 0.000
+gladia = "LHR 245" -> 0.000
+google-latest_long = "lhr 245" -> 0.000
+groq-whisper-large-v3 = "LHR245" -> 0.000
+groq-whisper-large-v3-turbo = "LHR245." -> 0.000
+elevenlabs = "LHR245." -> 0.000
+fal = "LHR 245." -> 0.000
+openai-gpt-4o-transcribe = "LHR245." -> 0.000
+latice = "LHR-245" -> 0.000
+deepgram-nova-3 = "LHR245" -> 0.000
+gladia = "LHR245" -> 0.000
+google-latest_long = "lhr245" -> 0.000
+groq-whisper-large-v3 = "LHR 245." -> 0.000
+groq-whisper-large-v3-turbo = "LHR245" -> 0.000
+elevenlabs = "LHR kaks nelja viisi." -> 1.000
+fal = "LHR245." -> 0.000
+openai-gpt-4o-transcribe = "LHR245." -> 0.000
+latice = "LHR-245" -> 0.000
+
+resultat attendu : "renkaiden kulutuspinta on tasainen eli pyoran kulmat ja aurauskulmat on kunnossa."
+deepgram-nova-3 = "Erenkaiden kulutuspinta on tasainen eli pyoran kulmat ja aurauskulmat on kunnossa" -> 0.091
+gladia = "Erenkaiden kulutuspinta on tasainen eli pyoran kulmat ja aurauskulmat on kunnossa." -> 0.091
+google-latest_long = "Renkaiden kulutuspinta on tasainen, eli pyoran kulmat ja aurauskulmat on kunnossa." -> 0.000
+groq-whisper-large-v3 = "ja erhengainen kulutuspinta on tasainen eli pyoran kulmat ja aurauskulmat on kunnossa." -> 0.182
+groq-whisper-large-v3-turbo = "Erhenkaiden kulutuspinta on tasainen, eli pyoran kulmat ja aurauskulmat on kunnossa." -> 0.091
+elevenlabs = "Renkaiden kulutuspinta on tasainen eli pyoran kulmat ja aurauskulmat on kunnossa." -> 0.000
+fal = "erhengaiden kulutuspinta on tasainen eli pyoran kulmat ja aurauskulmat on kunnossa." -> 0.091
+openai-gpt-4o-transcribe = "Renkaiden kulutuspinta on tasainen eli pyoran kulmat ja aurauskulmat on kunnossa." -> 0.000
+latice = "Renkaiden kulutuspinta on tasainen, eli pyoran kulmat ja jaurauskulmat on kunnossa." -> 0.091
+
+resultat attendu : "Mikas sinun sahkopostiosoitteesi oli? Se on timo.jarvinen01atoutlook.fi Oliko se timo.jarvinen01atoutlook.fi? Joo, kylla oli."
+deepgram-nova-3 = "Mikas sinun sahkopostiosoitteesi oli? Se on timo. Jarvinen. Fi Oliko se timo. Jarvinen-yksioutlook. Fi? Juu kylla oli." -> 0.286
+gladia = "Mikas sinun sahkopostiosoitteesi oli? Se on timo.jarvinen01atoutlook.fi. Oliko se timo.jarvinen01atoutlook.fi? Juu, kylla oli." -> 0.000
+google-latest_long = "Mika sinun sahkopostiosoitteesi oli? Se on Timo piste Jarvinen 01 outlook.fi. Oliko se timo. Jarvinen 01 outlook.fi? Juu kylla oli." -> 0.429
+groq-whisper-large-v3 = "Mikas sinun sahkopostiosoitteesi oli? Se on timo.jarvinen01atoutlook.fi Oliko se timo.jarvinen01atoutlook.fi? Joo, kylla oli." -> 0.000
+groq-whisper-large-v3-turbo = "Mikas sinun sahkopostiosoitteesi oli? Se on timo.jarvinen01atoutlook.fi Oliko se timo.jarvinen01atoutlook.fi? Juu, kylla oli." -> 0.000
+elevenlabs = "Mikas sinun sahkopostiosoitteesi oli? Se on Timo piste Jarvinen (yskii) nolla yks at outlook piste fi. Oliks se Timo piste Jarvinen nolla yksi at outlook piste fi. Juu, kylla oli." -> 0.611
+fal = "Mikas sinun sahkopostiosoitteesi oli? Se on timo.jarvinen01atoutlook.fi. Oliko se timo.jarvinen01atoutlook.fi? Joo, kylla oli." -> 0.000
+openai-gpt-4o-transcribe = "Mikas sinun sahkopostiosoitteesi oli? Se on timo.jarvinen01@outlook.fi. Oliko se timo.jarvinen01@outlook.fi? Joo, kylla oli." -> 0.222
+latice = "Mikas sinun sahkopostiosoitteesi oli? Se on timo.jarvinen01 at outlook.fi. Oliko se timo.jarvinen01 at outlook.fi? Juu, kylla oli." -> 0.222
+
+resultat attendu : "Extra Zorro Yrjo 914"
+deepgram-nova-3 = "Ekstrazorro Yrjo yhdeksantuhatta yhdeksansataayhdeksankymmentanelja" -> 1.000
+gladia = "Extra Zorro Yrjo 914" -> 0.000
+google-latest_long = "extra Zorro Yrjo 914" -> 0.000
+groq-whisper-large-v3 = "Extra Zorro Yrjo 914" -> 0.000
+groq-whisper-large-v3-turbo = "Extra Zorro Yrjo 914" -> 0.000
+elevenlabs = "Extra Zorro Yrjo 914." -> 0.000
+fal = "Extra Zorro Yrjo 914" -> 0.000
+openai-gpt-4o-transcribe = "Ekstra Zorro Yrjo yhdeksan yksi nelja." -> 0.333
+latice = "Extra Zorro Yrjo914" -> 0.000
+
+resultat attendu : "Katsotaan samalla noi jarrulevyjen paksuudet, niis alkaa olee kylla kulumaa naissa kilometreissa."
+deepgram-nova-3 = "Katotaan samalla noi jarrulevyjen paksuudet niissa alkaa olee kyl kulumaa naissa kilometreissa" -> 0.250
+gladia = "Katsotaan samalla nuo jarrulevyjen paksuudet, niin se alkaa olemaan kylla kulmaa naissa kilometreissa." -> 0.417
+google-latest_long = "Katsotaan samalla noi jarrulevyjen paksuudet niissa alkaa olea kylla kulumaan naissa kilometreissa." -> 0.250
+groq-whisper-large-v3 = "Katsotaan samalla noin jarrulevyjen paksuudet, niin se alkaa kylla kulumaan naissa kilometreissa." -> 0.417
+groq-whisper-large-v3-turbo = "Katsotaan samalla nuo jarrulevyjen paksuudet. Niissa alkaa olemaan kulmaa naissa kilometreissa." -> 0.417
+elevenlabs = "Katotaan samalla noi jarrulevyjen paksuudet. Niissa alkaa olee kyl kulumaan nais kilometreissa." -> 0.417
+fal = "Katsotaan samalla nuo jarrulevyjen paksuudet, niin se alkaa kylla kulumaan naissa kilometreissa." -> 0.417
+openai-gpt-4o-transcribe = "Katotaan samalla noi jarrulevyjen paksuudet, niissa alkaa oleen kylla kulumaa naissa kilometreissa." -> 0.250
+latice = "Katsotaan samalla nuo jarrulevyjen paksuudet, niin se alkaa olemaan kylla kulmaa naissa kilometreissa." -> 0.417
+
+resultat attendu : "Saisinko sinun autosi kilometrin aanen? Joo, 52 000."
+deepgram-nova-3 = "Saisinko sinun autosi kilometrin maaran? Joo, viisikymmentakaksi nolla." -> 0.600
+gladia = "Saisinko sinun autosi kilometrin aanen? Joo, 52 000." -> 0.000
+google-latest_long = "Saisinko sinun autosi kilometrimaarat Joo 52 000." -> 0.400
+groq-whisper-large-v3 = "Saisinko sinun autosi kilometrin aanen? Joo, 52 000." -> 0.000
+groq-whisper-large-v3-turbo = "Saisinko sinun autosi kilometrin maaran? Joo, 52 000." -> 0.100
+elevenlabs = "(musiikki vaimenee) Saisinko sinun autosi kilometrin maaran. Jaa, viiskytkakstuhatta. (kovenevaa musiikkia)" -> 1.000
+fal = "Saisinko sinun autosi kilometrin aanen? Joo, 52 000." -> 0.000
+openai-gpt-4o-transcribe = "Saisinko sinun autosi kilometrimaaran?" -> 0.400
+latice = "Saisinko sinun autosi kilometrin maaran? Joo, 52 000." -> 0.100
+
+resultat attendu : "Huoltokirja on leimattu merkkiliikkeessa eli historia on kunnossa."
+deepgram-nova-3 = "Huoltokirja on leimattu merkkiliikkeessa eli historia on kunnossa" -> 0.000
+gladia = "Huoltokirja on leimattu merkkiliikkeessa eli historia on kunnossa." -> 0.000
+google-latest_long = "Huoltokirja on leimattu merkkiliikkeessa, eli historia on kunnossa." -> 0.000
+groq-whisper-large-v3 = "Huoltokirja on leimattu merkkiliikkeessa eli historia on kunnossa." -> 0.000
+groq-whisper-large-v3-turbo = "Huoltokirja on leimattu merkkiliikkeessa eli historia on kunnossa." -> 0.000
+elevenlabs = "Huoltokirja on leimattu merkkiliikkeessa eli historia on kunnossa." -> 0.000
+fal = "Huoltokirja on leimattu merkkiliikkeessa eli historia on kunnossa." -> 0.000
+openai-gpt-4o-transcribe = "Huoltokirja on leimattu merkkiliikkeessa eli historia on kunnossa." -> 0.000
+latice = "Huoltokirja on leimattu merkkiliikkeessa, eli historia on kunnossa." -> 0.000
+
+resultat attendu : "Tama kay vahan rikkaalla seoksella. Lambda-arvois on vahan heittoa."
+deepgram-nova-3 = "Taa kay vahan rikkaalla seoksella, lampda arvos on vahan heittoo." -> 0.400
+gladia = "Tama kay vahan rikkaalla seoksella. Lambda-arvoissa on vahan heittoa." -> 0.100
+google-latest_long = "Taa kay vahan rikkaalla seoksella lambdaar vois on vahan heitto." -> 0.400
+groq-whisper-large-v3 = "Tama kay vahan rikkaalla seoksella. Lambda-arvois on vahan heitto." -> 0.100
+groq-whisper-large-v3-turbo = "Tama kay vahan rikkaalla sehoksella. Lambda-arvois on vahan heitto." -> 0.200
+elevenlabs = "Taa kay vahan rikkaalla seoksella. Lambda-arvois on vahan heittoo." -> 0.200
+fal = "Taa kay vahan rikkaalla seoksella. Lambda-arvois on vahan heitto." -> 0.200
+openai-gpt-4o-transcribe = "Taa kay vahan rikkaalla seoksella, lambda-arvoissa on vahan heittoa." -> 0.200
+latice = "Taa kay vahan rikkaalla seauksella, lambda-arvois on vahan heitto." -> 0.300
+
+resultat attendu : "Mika on kotiosoitteesi? Kauppakatu 8B24 40100 Jyvaskyla. Okei, eli se oli Kauppakatu 8B24 40100 Jyvaskyla. Joo, oikein meni."
+deepgram-nova-3 = "Mika on kotiosoitteesi? Kauppakatu kahdeksan Jyvaskyla. Okei, eli se oli Kauppakatu kahdeksankymmentamiljoonaa kaksikymmentanelja neljakymmenta yksitoista Jyvaskyla. Juu oikein meni." -> 0.155
+gladia = "Mika on kotiosoitteesi? Kauppakatu 8B24 4100 Jyvaskyla. Okei, eli se oli Kauppakatu 8B24 440100 Jyvaskyla. Joo, oikein meni." -> 0.119
+google-latest_long = "Mika on kotiosoitteesi? Kauppakatu 8 B 24 41, Jyvaskyla Okei eli se oli Kauppakatu 8v 2440100 Jyvaskyla Juu oikein meni." -> 0.133
+groq-whisper-large-v3 = "Mika on kotiosoitteesi? Kauppakatu 8B24 4100 Jyvaskyla. Okei, eli se oli Kauppakatu 8B24 440100 Jyvaskyla. Joo, oikein meni." -> 0.119
+groq-whisper-large-v3-turbo = "Mika on kotiosoitteesi? Kauppakatu 8B24 4100 Jyvaskyla. Okei, eli se oli Kauppakatu 8B20 440100 Jyvaskyla. Ju, oikein meni." -> 0.244
+elevenlabs = "Mika on kotiosoitteesi? Oo, Kauppakatu kahdeksan B kakskytnelja, neljatuhattasata, Jyvaskyla. Okei, eli se oli Kauppakatu kahdeksan B kakskymmentanelja nelja nolla yks nolla nolla Jyvaskyla? Juu, oikein meni. (kohinaa)" -> 0.400
+fal = "Mika on kotiosoitteesi? Kauppakatu 8B24 4100 Jyvaskyla. Okei, eli se oli Kauppakatu 8B24 440100 Jyvaskyla. Joo, oikein meni." -> 0.119
+openai-gpt-4o-transcribe = "Mika on kotiosoitteesi? Kauppakatu 8 B 24 40100 Jyvaskyla." -> 0.600
+latice = "Mika on kotiosoitteesi?yyKauppakatu 8 B 24 4100 Jyvaskyla.Okei, eli se oli Kauppakatu 80 24 40 100 Jyvaskyla.!!]Juu, oikein meni." -> 0.238
+
+resultat attendu : "Mikas sun nimi onkaan? Sanna Korhonen. Ma sain ylos, etta Sanna Korhonen. Joo."
+deepgram-nova-3 = "Mikas sun nimi onkaan? Sanna Korhonen. Ma sain ylos, etta Sanna Korhonen. Joo." -> 0.000
+gladia = "Mikas sun nimi onkaan? Sanna Korhonen. Ma sain ylos, etta Sanna Korhonen. Joo." -> 0.000
+google-latest_long = "Mikas sun nimi onkaan Sanna korh? Onen ma sain ylos, et Sanna Korhonen joo." -> 0.250
+groq-whisper-large-v3 = "Mikas sun nimi onkaan? Sanna Korhonen. Ma sain ylos, etta Sanna Korhonen. Joo." -> 0.000
+groq-whisper-large-v3-turbo = "Mikas sun nimi onkaan? Sanna Korhonen. Ma sain ylos, etta Sanna Korhonen. Joo." -> 0.000
+elevenlabs = "Mikas sun nimi onkaa? (khmm, khmm) Sanna Korhonen. Ma sain ylos, etta Sanna Korhonen. Joo." -> 0.312
+fal = "Mikas sun nimi onkaan? Sanna Korhonen. Ma sain ylos, etta Sanna Korhonen. Joo." -> 0.000
+openai-gpt-4o-transcribe = "Mika sun nimi onkaan? Sanna Korhonen." -> 0.583
+latice = "Mikas sun nimi onkaan? Sanna Korhonen. Ma sain ylos, etta Sanna Korhonen. Joo." -> 0.000
+
+resultat attendu : "Tarvitseeko ilmastolaite huoltoa? Noh, kylla sen vois huoltaa."
+deepgram-nova-3 = "" -> 1.000
+gladia = "Tarvitseeko ilmastonverta huolta?" -> 0.857
+google-latest_long = "Tarvitseeko ilmastointilaite huomaa han voisi tuolta?" -> 0.857
+groq-whisper-large-v3 = "Tarvitseeko ilmastonveraita huomaa? Kylla, han voi pyoria." -> 0.708
+groq-whisper-large-v3-turbo = "Tarvitsiiko ilmastonviraita huomioon? Kylla, han voi syoltaa." -> 0.875
+elevenlabs = "(taustahalya) Tarvitseeko ilmastointia yhtaan huolta? No vahan voisi, lyottaa." -> 1.000
+fal = "Tarvitseeko ilmastonveraita huomaa? - Hyvammin voisi." -> 0.833
+openai-gpt-4o-transcribe = "Tarvitseeko Ilveskantaraata hoitaa?" -> 0.857
+latice = "Tarvitseeko ilmastonvaraan huoltoa? Han voisi tyottaa." -> 0.667
+
+resultat attendu : "QXZ771"
+deepgram-nova-3 = "GXZ771" -> 1.000
+gladia = "GuXZ771" -> 1.000
+google-latest_long = "qxz 771" -> 0.000
+groq-whisper-large-v3 = "GuXZ771" -> 1.000
+groq-whisper-large-v3-turbo = "QXZ 771" -> 0.000
+elevenlabs = "Kuu XZ 771." -> 1.000
+fal = "GuXZ771" -> 1.000
+openai-gpt-4o-transcribe = "GUXZ771" -> 1.000
+latice = "GXZ-771" -> 1.000
+
+resultat attendu : "Haluatko varata huollon heti? Juu."
+deepgram-nova-3 = "" -> 1.000
+gladia = "Kaupungilta huomaa, etta ei." -> 1.000
+google-latest_long = "Haluatko varata huonon heti Juu" -> 0.250
+groq-whisper-large-v3 = "Kauppavuoron on heti. Joo." -> 0.375
+groq-whisper-large-v3-turbo = "Aukkuva on aattive this..." -> 1.000
+elevenlabs = "(taustahalya) Haluutko laittaa suuron heti? Joo." -> 0.500
+fal = "Kauppakauppa kuuluu nyt. Joo." -> 0.500
+openai-gpt-4o-transcribe = "Autolla on helmi." -> 1.000
+latice = "Haluatko vaikka huonon heti? Juu." -> 0.250
+
+resultat attendu : "Haluuks et me tarkastetaan sun auton akun kunto? Nope."
+deepgram-nova-3 = "" -> 1.000
+gladia = "Haluatko, etta me tarkastetaan sinua auton apuvuoron? Nope." -> 0.312
+google-latest_long = "Haluuko joku nope?" -> 0.889
+groq-whisper-large-v3 = "Haluatko, etta me tarkastetaan sinua ottaa? Nope." -> 0.375
+groq-whisper-large-v3-turbo = "Haluatko se, etta tarkastetaan saatoa puhutaan? Nope." -> 0.438
+elevenlabs = "(kone parisee) (melua) I don't think we got. We got a lot of water in there. No." -> 1.000
+fal = "Haluatko, etta me tarkastetaan sinua autoon? Nope." -> 0.375
+openai-gpt-4o-transcribe = "Halusin tavata kanssasi oikein?" -> 1.000
+latice = "Haluaako joku tarkastaa taas autoa apimintaan? Nope." -> 0.500
+
+resultat attendu : "Tama on se facelift-malli. Tassa on uudempi valotekniikka."
+deepgram-nova-3 = "Taa on se facelift-malli, tas on uudempi valotekniikka." -> 0.222
+gladia = "Tama on se facelift-malli. Tassa on uudempi valotekniikka." -> 0.000
+google-latest_long = "Taa on se Face Lift malli Tassa on uudempi valotekniikka." -> 0.333
+groq-whisper-large-v3 = "Tama on se facelift-malli. Tassa on uudempi valotekniikka." -> 0.000
+groq-whisper-large-v3-turbo = "Tama on se facelift-malli. Tassa on uudempi valotekniikka." -> 0.000
+elevenlabs = "Taa on se facelift-malli. Tas on uudempi valotekniikka." -> 0.225
+fal = "Tama on se facelift-malli. Tassa on uudempi valotekniikka." -> 0.000
+openai-gpt-4o-transcribe = "Tama on se facelift-malli. Tassa on uudempi valotekniikka." -> 0.000
+latice = "Taa on se facelift-malli, tassa on uudempi valotekniikka." -> 0.111
+
+resultat attendu : "gwz100"
+deepgram-nova-3 = "" -> 1.000
+gladia = "" -> 1.000
+google-latest_long = "Go Tupla V z100." -> 1.000
+groq-whisper-large-v3 = "gwz100" -> 0.000
+groq-whisper-large-v3-turbo = "GWZ100" -> 0.000
+elevenlabs = "(kohinaa) Guo WZ-100." -> 1.000
+fal = "gwz100" -> 0.000
+openai-gpt-4o-transcribe = "Guutoplave Z100." -> 1.000
+latice = "GWZ-100" -> 0.000
+deepgram-nova-3 = "" -> 1.000
+gladia = "" -> 1.000
+google-latest_long = "Go Tupla V z100." -> 1.000
+groq-whisper-large-v3 = "gwz100" -> 0.000
+groq-whisper-large-v3-turbo = "GWZ100" -> 0.000
+elevenlabs = "(kohinaa) Guo WZ-100." -> 1.000
+fal = "gwz100" -> 0.000
+openai-gpt-4o-transcribe = "Guuto plavee Z100." -> 1.000
+latice = "GWZ-100" -> 0.000
+
+resultat attendu : "KOS 719"
+deepgram-nova-3 = "KOS seitseman yhdeksantoista." -> 1.000
+gladia = "KOS 719" -> 0.000
+google-latest_long = "K os 719" -> 1.000
+groq-whisper-large-v3 = "KOS 719" -> 0.000
+groq-whisper-large-v3-turbo = "KOS 719" -> 0.000
+elevenlabs = "KOS seitteman yheksantoista." -> 1.000
+fal = "KOS 719" -> 0.000
+openai-gpt-4o-transcribe = "Koos 719." -> 1.000
+latice = "KOS-719" -> 0.000
+
+resultat attendu : "Starttimoottori"
+deepgram-nova-3 = "Starttimoottori" -> 0.000
+gladia = "Starttimoottori." -> 0.000
+google-latest_long = "starttimoottori" -> 0.000
+groq-whisper-large-v3 = "Starttimoottori." -> 0.000
+groq-whisper-large-v3-turbo = "Starttimoottori." -> 0.000
+elevenlabs = "Starttimoottori." -> 0.000
+fal = "starttimoottori" -> 0.000
+openai-gpt-4o-transcribe = "Starttimoottori." -> 0.000
+latice = "Starttimoottori" -> 0.000
+
+resultat attendu : "Jakohina pitaisi vaihtaa. Se on tehty viimeksi 90 000 km sitten."
+deepgram-nova-3 = "Jakohihina pitais vaihtaa, se on tehty viimeksi yhdeksankymmenta nolla kilsaa sitten" -> 0.444
+gladia = "Jakohihna pitaisi vaihtaa. Se on tehty viimeksi 90 000 km sitten." -> 0.167
+google-latest_long = "Jakohihna pitaisi vaihtaa se on tehty viimeksi 90 000 kilsaa sitten." -> 0.222
+groq-whisper-large-v3 = "Ja kohina pitaisi vaihtaa. Se on tehty viimeksi 90 000 kilsaa sitten." -> 0.417
+groq-whisper-large-v3-turbo = "Ja koihina pitaisi vaihtaa. Se on tehty viimeksi 90 000 kilsaa sitten." -> 0.417
+elevenlabs = "Jako hihna pitas vaihtaa. Se on tehty viimeks yheksankyttuhat kilsaa sitte." -> 0.833
+fal = "Jakohihna pitaisi vaihtaa. Se on tehty viimeksi 90 000 km sitten." -> 0.167
+openai-gpt-4o-transcribe = "Jakohihna pitais vaihtaa, se on tehty viimeks yhdeksankyt tuhat kilsaa sitten." -> 0.556
+latice = "Jakohihna pitaisi vaihtaa, se on tehty viimeksi 90 000 kilometria sitten." -> 0.222
+
+resultat attendu : "Mika sun nimi on? Mun nimi on Matti Virtanen. Anteeksi, kuulenko oikein? Sanoitko Matti Virtanen? Kylla."
+deepgram-nova-3 = "Mika sun nimi on? Mun nimi on Matti Virtanen. Anteeksi, kuulenko oikein, sanoitko Matti Virtanen? Kylla." -> 0.000
+gladia = "Mika sun nimi on? Nimi on Matti Virtanen. Anteeksi, kuulenko oikein? Sanoitko Matti Virtanen? Kylla." -> 0.040
+google-latest_long = "Mika sun nimi on? Mun nimi on Matti Virtanen Anteeksi kuulinko oikein. Sanoitko Matti Virtanen kylla?" -> 0.062
+groq-whisper-large-v3 = "Mika sun nimi on? Mun nimi on Matti Virtanen. Kuuleeko oikein, sanoitko Matti Virtanen? Kylla." -> 0.125
+groq-whisper-large-v3-turbo = "Mika sun nimi on? Mun nimi on Matti Virtanen. Anteeksi, kuuleeko oikein sanoitko Matti Virtanen? Kylla." -> 0.062
+elevenlabs = "Mika sun nimi on? Mun nimi on Matti Virtanen. Anteeks, kuulinko oikein? Sanoitko Matti Virtanen? Kylla. (kovaa musiikkia ja puhetta taustalla)" -> 0.438
+fal = "Mika sun nimi on? Mun nimi on Matti Virtanen. Anteeksi, kuulenko oikein? Sanoitko Matti Virtanen? Kylla." -> 0.000
+openai-gpt-4o-transcribe = "Mika sun nimi on?" -> 0.750
+latice = "Mika sun nimi on? Mun nimi on Matti Virtanen. Anteeksi, kuulenko oikein, sanoitko Matti Virtanen? Kylla." -> 0.000
+
+resultat attendu : "Nokkaakseli."
+deepgram-nova-3 = "Nokka-akseli." -> 1.000
+gladia = "Nokkaakseli." -> 0.000
+google-latest_long = "nokka-akseli" -> 1.000
+groq-whisper-large-v3 = "Nokkaakseli." -> 0.000
+groq-whisper-large-v3-turbo = "Nokkaakseli." -> 0.000
+elevenlabs = "Nokka-akseli." -> 1.000
+fal = "Nokkaakseli." -> 0.000
+openai-gpt-4o-transcribe = "Nokka-akseli." -> 1.000
+latice = "Nokkaakseli" -> 0.000
+
+resultat attendu : "Tarvitseeko autosi oljynvaihdon? Juu."
+deepgram-nova-3 = "" -> 1.000
+gladia = "Miten teilla on koko perhe?" -> 1.000
+google-latest_long = "Tarvitseeko autot juu?" -> 0.667
+groq-whisper-large-v3 = "Hyvaa paivan jatkoa!" -> 1.000
+groq-whisper-large-v3-turbo = "Kylla." -> 1.000
+elevenlabs = "(puheensorinaa)" -> 1.000
+fal = "Ma ytse aivan autotooria painan. Joo." -> 0.833
+openai-gpt-4o-transcribe = "Tama on todella hyva." -> 1.000
+latice = "Tarvitseeko autotoorean paivan? Juu..." -> 0.333
+
+resultat attendu : "MNU 384"
+deepgram-nova-3 = "MNU kolme kahdeksan nelja" -> 0.000
+gladia = "MNU 384" -> 0.000
+google-latest_long = "MMO 384" -> 1.000
+groq-whisper-large-v3 = "MNU 384" -> 0.000
+groq-whisper-large-v3-turbo = "MNU 384" -> 0.000
+elevenlabs = "MNU kolme kasi nelja." -> 1.000
+fal = "mnu384" -> 0.000
+openai-gpt-4o-transcribe = "MNO384." -> 1.000
+latice = "MNU-384" -> 0.000
+deepgram-nova-3 = "MNU, kolme kahdeksan nelja" -> 0.000
+gladia = "MNU 384" -> 0.000
+google-latest_long = "MMO 384" -> 1.000
+groq-whisper-large-v3 = "MNU 384" -> 0.000
+groq-whisper-large-v3-turbo = "MNU 384" -> 0.000
+elevenlabs = "(laatikkovalinen) MNU 384." -> 1.000
+fal = "MNU 384" -> 0.000
+openai-gpt-4o-transcribe = "MHU 384." -> 1.000
+latice = "MNU-384" -> 0.000
+deepgram-nova-3 = "" -> 1.000
+gladia = "MNU 384" -> 0.000
+google-latest_long = "MM u38" -> 1.000
+groq-whisper-large-v3 = "MNU 384" -> 0.000
+groq-whisper-large-v3-turbo = "MNU 384" -> 0.000
+elevenlabs = "MNU 384." -> 0.000
+fal = "MNU 384" -> 0.000
+openai-gpt-4o-transcribe = "MNO384." -> 1.000
+latice = "MNU-384" -> 0.000
+
+resultat attendu : "Tarvitseekohan sinun auto vaihteiston tarkastusta? Ei tarvii."
+deepgram-nova-3 = "" -> 1.000
+gladia = "Arvitsetko sinulla auton vaihteistoimintaa? Ei tarvitse." -> 0.750
+google-latest_long = "tarvitseekohan sun auto vaihteisto ei tarvi" -> 0.571
+groq-whisper-large-v3 = "Varoitko sina viela sinun auton vaihteistoimintaa? Ei tarvitse." -> 0.850
+groq-whisper-large-v3-turbo = "Arvoitko sinulla auton vaihteista? Ei tarvi." -> 0.750
+elevenlabs = "(puheensorinaa) Tarvitseeko sun auto vaihtaa tuolta? Ei tarvi." -> 0.750
+fal = "-Avetko sina viela sinun auton vaihteistoimintaa? -Ei tarvi." -> 0.850
+openai-gpt-4o-transcribe = "Ei tarvi." -> 0.857
+latice = "Ma arvon itseani, kun asuin auton vaihteeseen tyoajattuneena. Ei tarvii." -> 0.800
+
+resultat attendu : "Kampiakseliin asentoanturi."
+deepgram-nova-3 = "Kampiakselin asentoanturi." -> 0.500
+gladia = "Kampiakseliin asentoanturi." -> 0.000
+google-latest_long = "kampiakselin asentoanturi" -> 0.500
+groq-whisper-large-v3 = "Kampiakseliin asentoanturi." -> 0.000
+groq-whisper-large-v3-turbo = "Kampiakseli asentoanturi." -> 0.500
+elevenlabs = "Kampiakseli, asentoanturi." -> 0.500
+fal = "Kampiakseliin asentoanturi." -> 0.000
+openai-gpt-4o-transcribe = "Kampiakselin asentoanturi." -> 0.500
+latice = "Kampiakseliin asentoanturi." -> 0.000
+
+resultat attendu : "etta paivakoulua sinulla ei ole."
+deepgram-nova-3 = "" -> 1.000
+gladia = "Ei ole kyljypaa." -> 0.800
+google-latest_long = "Ei ollut maan paalla. Joo kyll se kay." -> 1.000
+groq-whisper-large-v3 = "Ei, no loppuksi, ma arvaan, etta enka olekaan maailman yksikoista, jos ei olekaan yksikoista. Joo, tietysti ei." -> 1.000
+groq-whisper-large-v3-turbo = "Mutta jos juantasjoupa muihin niin maailmassa" -> 1.000
+elevenlabs = "(auton kohinaa) Ei ollut tuskin paljon (kolinaa) mennykaan valttamatta noin tai mitenkaan itse asiassa toista kautta. (kolinaa) Eiko niin? Joo, tietysti se teki." -> 1.000
+fal = "- Ei luultavasti ole eniten aikaa, kun olen itse asiassa kaynyt palveluiden suualla. - Joo, tietysti." -> 1.000
+openai-gpt-4o-transcribe = "Ei olisi paha viivata puolta." -> 1.000
+latice = "Ei no, mutta sitten mina olen lehdinvaamattomasti maahdittanut yksi kasitysta taiteesta. Joo, kiitos." -> 1.000
+
+resultat attendu : "0, 1, 2, 3, 4, 5, 6, 7, 8, 9"
+deepgram-nova-3 = "Nolla, yksi, kaksi, kolme, nelja, viisi, kuusi, seitseman, kahdeksan, yhdeksan" -> 0.000
+gladia = "0, 1, 2, 3, 4, 5, 6, 7, 8, 9." -> 0.000
+google-latest_long = "nolla yks kaks kolme nelja viis 6 7 8 9" -> 1.000
+groq-whisper-large-v3 = "0, 1, 2, 3, 4, 5, 6, 7, 8, 9" -> 0.000
+groq-whisper-large-v3-turbo = "Nolla, yksi, kaksi, kolme, nelja, viisi, kuusi, seitsema, kahdeksa, yhdeksa." -> 1.000
+elevenlabs = "Nolla, yks, kaks, kolme, nelja, viis, kuus, seittema, kaheksa, yheksan." -> 1.000
+fal = "0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10." -> 1.000
+openai-gpt-4o-transcribe = "Nolla yksi kaksi kolme nelja viisi kuusi seitseman kahdeksan yhdeksan." -> 0.000
+latice = "0 1 2 3 4 5 6 7 8 9" -> 0.000
+
+resultat attendu : "Voitko kertoa sahkopostiosoitteesi? Joo, se on semmoinen kuin ville.lehtinen9atoutlook.com Oliko se ville.lehtinen9atoutlook.com? Joo, oli se."
+deepgram-nova-3 = "Voitko kertoa sahkopostiosoitteesi? Joo, se on sellainen kuin ville. Lehtinenyhdeksanoutlook piste com Oliko se vil. Lehtinen9outlook piste com? Juu oli se." -> 0.316
+gladia = "Voitko kertoa sahkopostiosoitteesi? Joo, se on semmoinen kuin ville.lehtinen9atoutlook.com Oliko se ville.lehtinen9atoutlook.com? Joo, oli se." -> 0.000
+google-latest_long = "Voitko kertoa sahkopostiosoitteesi? Joo se on semmonen ku ville.lehtinen 9 outlook.com Oliko se ville.lehtinen 9 and outlook.com? Juu oli se." -> 0.271
+groq-whisper-large-v3 = "Voitko kertoa sahkopostiosoitteesi? Joo, se on semmoinen kuin ville.lehtinen9atoutlook.com Oliko se ville.lehtinen9atoutlook.com? Joo, oli se." -> 0.000
+groq-whisper-large-v3-turbo = "Voitko kertoa sahkopostiosoitteesi? Joo, se on semmonen kuin ville.lehtinen9.outloop.com Oliko se ville.lehtinen9.outloop.com? Juu, oli se." -> 0.158
+elevenlabs = "(kohinaa) Voitko kertoa sahkopostiosoitteesi? Joo, se on semmoinen kuin ville piste lehtinen yhdeksan at outlook piste com. Oliko se ville piste lehtinen yhdeksan at outlook piste com? Juu oli se. (juontaja kuiskaa) Ville piste Lehtinen." -> 0.737
+fal = "Voitko kertoa sahkopostiosoitteesi? Joo, se on semmoinen kuin ville.lehtinen9atoutlook.com Oliko se ville.lehtinen9atoutlook.com? Joo, oli se." -> 0.000
+openai-gpt-4o-transcribe = "Joo, se on semmoinen kuin ville.lehtinen9@outlook.com." -> 0.632
+latice = "Voitko kertoa sahkopostiosoitteesi? Joo, se on semmoinen kuin ville.lehtinen9 at outlook.com. Oliko se ville.lehtinen9 at outlook.com? Juu, oli se." -> 0.211
+
+resultat attendu : "Mika sun sahkopostiosoite on? noora.laakso07@hotmail.com Eli noora.laakso07athotmail.com Joo, Hotmail joo."
+deepgram-nova-3 = "Mika sun sahkopostiosoite on? Nora. Laakso73mail piste com Eli nora. Laakso73mail piste com Joo, Hotmail, joo." -> 0.533
+gladia = "Mika sun sahkopostiosoite on? nora.laakso07shotmail.com Eli nora.laakso07shotmail.com Joo, Hotmail, joo." -> 0.417
+google-latest_long = "Mika sun sahkopostiosoite on? eli noora.laakso 07 hotmail.com Joo Stockman" -> 0.467
+groq-whisper-large-v3 = "Mika sun sahkopostiosoite on? noora.laakso07.com Eli noora.laakso07.com Joo, hotmail joo." -> 0.194
+groq-whisper-large-v3-turbo = "Mika sun sahkopostiosoite on? Noora.laakso07.hotmail.com Eli noora.laakso07.hotmail.com Joo, hotmail joo." -> 0.133
+elevenlabs = "Mika sun sahkopostiosoite on? Noora piste Laakso nolla seitseman at hotmail piste com. Eli noora piste laakso nolla seitseman at hotmail, hotmail piste com. Joo. Hotmail, joo." -> 0.467
+fal = "Mika sun sahkopostiosoite on? Noora.laakso07@hotmail.com Eli Noora.laakso07@hotmail.com Joo, Hotmail joo." -> 0.167
+openai-gpt-4o-transcribe = "Mika sun sahkopostiosoite on? Noora.laakso07@hotmail.com" -> 0.400
+latice = "Ma... mika sun sahkopostiosoite on? Ooo... noora.laakso07... hotmail.com... Eli noora.laakso07... hotmail.com... Joo, hotmail joo." -> 0.267
+
+resultat attendu : "Haluaisitko tarkastuttaa myos jarrupalat? Ei tarvi."
+deepgram-nova-3 = "" -> 1.000
+gladia = "Haluaisitte parastaa tallaisia arvoja? Ei tarvi." -> 0.500
+google-latest_long = "haluisitte tarkastella tammosia ei tarvi" -> 0.667
+groq-whisper-large-v3 = "Haluaisitte tarkastella tallaisia ruoatusta? Ei tarvi." -> 0.500
+groq-whisper-large-v3-turbo = "Haluaisitte tarkastua taman jarvipaatiosta? Hei, Tarvi!" -> 0.750
+elevenlabs = "Haluaisitko tarkistuttaa masi arvopaikan? Ei tarvi." -> 0.375
+fal = "Haluaisitte parastaa tallaisia ruokaa? Ei tarvi." -> 0.500
+openai-gpt-4o-transcribe = "Ei tarvitse." -> 0.833
+latice = "Haluisitko tarkastaa, kannasi jarjaa taakse? Ei tarvi." -> 0.625
+
+resultat attendu : "Celsius, Zorro, Wasabi, 124."
+deepgram-nova-3 = "Celcius Zorro, Vassabi, yksi, kaksi, nelja" -> 0.667
+gladia = "Celsius, Zorro, Wasabi, 1, 2, 4." -> 0.000
+google-latest_long = "Celsius 4" -> 1.000
+groq-whisper-large-v3 = "Celsius, Zorro, Wasabi, 124." -> 0.000
+groq-whisper-large-v3-turbo = "Celsius, chorro, wasabi, yks, kaks, nelja." -> 1.000
+elevenlabs = "Celsius. Zorro Wasabi yks kaks nelja." -> 0.667
+fal = "Celsius, Zorro, Wasabi, 1, 2, 4." -> 0.000
+openai-gpt-4o-transcribe = "Selssius tsorro wasabi yksi kaksi nelja." -> 0.667
+latice = "Celsius, Zorro, Wasabi124" -> 0.000
+
+resultat attendu : "Mielkiin. Niin, voitko kuvailla renkaan laittaa perjantaija kahdeksas yhdeksatoista kello kahdeksankuukkikin? Ei sekaan. No, mites sit toi tiistai kahdeksas yhdeksatoista kello kahdeksankuukkikin? No, joo, otetaan se."
+deepgram-nova-3 = "" -> 1.000
+gladia = "Voitko kuvailla renkaanlaitteet perjantailla 8.9. kello 8.30? Ei sekaan. Miten sitten tuo tiistain 18.19 kello 8.30? Joo, otetaan se." -> 0.760
+google-latest_long = "Niin voitais kuvata renkaa laittaa perjantaina 8.98. Ei sekaan. No mites sit toi tiistain 121 KL 830. No joo otetaan se" -> 1.000
+groq-whisper-large-v3 = "Miten te olette? Niin, voitko kuvailla renkaan laittaa perjantailla 18.9. kello 8.30? Ei sekaan. No, mites sit toi tiistai 18.15 kello 8.30? No, joo, asetaan se." -> 0.560
+groq-whisper-large-v3-turbo = "Kylla. Voitaisi kuvata renkaa laittaa perjantaina 8.90 klo 8.30? Ei se kay. Miten sitten tui tiistain 18.19 klo 8.30? No joo, asetaan se." -> 0.840
+elevenlabs = "Loytyy. Niin, voitaisko varata renkaat vaikka perjantaina kahdeksas yheksatta kello kaheksan kolmekymmenta? Ei se kay. No mites sit toi tiistai kahdestoista yheksattatoista kello kaheksan kolmekymmenta? No joo, otetaan se." -> 0.607
+fal = "Voitko kuvailla renkaan laittaa perjantaina 18.19.208? Ei se kay. Miten sitten tuo tiistain 18.19.208? Joo, asetaan se." -> 0.760
+openai-gpt-4o-transcribe = "Niin, voitaisko varata renkaanvaihto perjantaina 8.9. klo 8.30?" -> 0.960
+latice = "Miten? Niin, voisiko kummata renkaan, perjantai-8983? Enka se kay. No mita sitten toi tiistan 18.11.1830? No, joo, otetaan se." -> 0.720
+
+resultat attendu : "Mikas sinun sahkopostiosoitteesi oli? Joo, se oli semmoinen kuin mike.laneathotmail.com Oliko se mike.laneathotmail.com? Joo, kylla."
+deepgram-nova-3 = "Mikas sinun sahkopostiosoitteesi oli? Se oli sellainen kuin mike. Lanehotmail piste com Oliko se mike. Leinehotmail piste com? Joo kylla." -> 0.294
+gladia = "Mikas sinun sahkopostiosoitteesi oli? Joo, se oli semmonen kuin Mike.lane at hotmail.com Oliko se Mike.lane at hotmail.com? Joo, kylla." -> 0.886
+google-latest_long = "Mikas sinun sahkopostiosoitteesi oli? Joo se oli semmonen ku mike.lane@ hotmail.com. Oliko se minka pisteen.com Joo kylla?" -> 0.412
+groq-whisper-large-v3 = "Mikas sinun sahkopostiosoitteesi oli? Joo, se oli semmoinen kuin mike.laneathotmail.com Oliko se mike.laneathotmail.com? Joo, kylla." -> 0.000
+groq-whisper-large-v3-turbo = "Mika sinun sahkopostiosoitteesi oli? Joo, se oli semmonen kuin mike.lane.at.hotmail.com Oliko se mike.lane.at.hotmail.com? Joo, kylla." -> 0.471
+elevenlabs = "Mikas sinun sahkopostiosoitteesi oli? Joo, se oli semmonen ku mike piste lane hotmail piste com. Oliko se mike piste lane hotmail piste com? Joo kylla. (kohinaa)" -> 0.647
+fal = "Mikas sinun sahkopostiosoitteesi oli? Joo, se oli semmonen kuin Mike.lane@hotmail.com. Oliko se Mike.lane@hotmail.com? Joo, kylla." -> 0.412
+openai-gpt-4o-transcribe = "Mikas sinun sahkopostiosoitteesi oli?" -> 0.765
+latice = "Mikas sinun sahkopostiosoitteesi oli? Joo, se oli semmoinen kuin mike.laneathotmail.com. Oliko se mike.laneathotmail.com? Joo, kylla." -> 0.000
+
+resultat attendu : "Mikas sinun sahkopostiosoitteesi oli? aleksi at agenton.ai Oliko se aleksi at agenton.ai? Joo, joo, kylla."
+deepgram-nova-3 = "Mika sinun sahkopostiosoitteesi oli? Aleksiagento piste ai Oliko se aleksiagento piste ai? Joo, kylla." -> 0.467
+gladia = "Mikas sinun sahkopostiosoitteesi oli? alexi at agenton.ai Oliko se alexi at agenton.ai? Joo, kylla." -> 0.100
+google-latest_long = "Mika sinun sahkopostiosoitteesi oli? Aleksi agenton.io Oliko se Aleksi agenton.a? Joo joo kylla." -> 0.383
+groq-whisper-large-v3 = "Mikas sinun sahkopostiosoitteesi oli? alexi at agenton.ai Oliko se alexi at agenton.ai? Joo, joo, kylla." -> 0.100
+groq-whisper-large-v3-turbo = "Mika sinun sahkopostiosoitteesi oli? Aleksi at agenton.ai Oliko se Aleksi at agenton.ai? Joo, kylla." -> 0.050
+elevenlabs = "Mikas sinun sahkopostiosoitteesi oli? Aleksi at agenton piste ai. Oliko se Aleksi at agenton piste ai? Joo joo, kylla." -> 0.133
+fal = "Mikas sinun sahkopostiosoitteesi oli? alexi@agenton.ai Oliko se alexi@agenton.ai? Joo, joo, kylla." -> 0.100
+openai-gpt-4o-transcribe = "Mikas sinun sahkopostiosoitteesi oli?" -> 0.733
+latice = "Mika sinun sahkopostiosoitteesi oli? aleksi at agenton.ai. Oliko se aleksi at agenton.ai? Joo, joo, kylla." -> 0.067
+
+resultat attendu : "Saisinko sinun autti kilometrin maaran? Kymmenen tuhatta."
+deepgram-nova-3 = "Saisinko sinun AYS kilometrimaara? Kymmenen nolla." -> 0.800
+gladia = "Saisinko sinun autosi kilometrimaaran? 10 000" -> 0.300
+google-latest_long = "Saisinko sinun autosi kilometrimaaran 10 000?" -> 0.600
+groq-whisper-large-v3 = "Saisinko sinun autosi kilometrin maaraa? Kymmenen tuohon." -> 1.000
+groq-whisper-large-v3-turbo = "Saisinko sinun autosi kilometrin maaran? Kylla mina en tohoittaa." -> 1.000
+elevenlabs = "(auton kohinaa) Saisinko sinun autosi kilometrimaaran. Kymmenentuhatta. (rytmikasta musiikkia)" -> 1.000
+fal = "Saasinko sinun auttisi kilometrin maaraa? - 10 000." -> 0.300
+openai-gpt-4o-transcribe = "Saisi sinun auton kilometrimaara?" -> 0.800
+latice = "Saisinko sinun autoksiin kilometrin maaran? 10 000" -> 0.100
+
+resultat attendu : "BVB 808"
+deepgram-nova-3 = "B-B-B-kahdeksankymmentakahdeksan" -> 1.000
+gladia = "BVB 808" -> 0.000
+google-latest_long = "b b 88" -> 1.000
+groq-whisper-large-v3 = "BVB 808" -> 0.000
+groq-whisper-large-v3-turbo = "BVB 808" -> 0.000
+elevenlabs = "BVB 808." -> 0.000
+fal = "BVB808" -> 0.000
+openai-gpt-4o-transcribe = "BMW 808." -> 1.000
+latice = "BVB-808" -> 0.000
+deepgram-nova-3 = "B-B-B-kahdeksankymmentakahdeksan" -> 1.000
+gladia = "BVB 808" -> 0.000
+google-latest_long = "b b 88" -> 1.000
+groq-whisper-large-v3 = "BVB 808" -> 0.000
+groq-whisper-large-v3-turbo = "BVB 808" -> 0.000
+elevenlabs = "BVB 808." -> 0.000
+fal = "BVB808" -> 0.000
+openai-gpt-4o-transcribe = "BVB 808." -> 0.000
+latice = "BVB-808" -> 0.000
+
+resultat attendu : "Mika sun nimi olikaan? Aleksi, Aleksi, Aleksi Goransson. Okei, anteeks kuuleeko oikein sanakko Aleksi Goransson? Joo, se oli G-lla. Joo, G-lla, Goransson. G-O-R-A-N-S-S-O-N Jes, joo, tuli oikein."
+deepgram-nova-3 = "Mika sun nimi olikaan? Aleksi. Aleksi. Aleksi Goransson. Okei, anteeksi, kuulinko oikein sanako Aleksi Goransson? Joo, se oli gella. Joo, gella, Joransson. JooRAANSSUN. Jes, tuli oikein." -> 0.346
+gladia = "Mika sun nimi olikaan? Alexi, Alexi, Alexi Goransson. Okei, anteeks kuuleeko oikein sanakko Alexi Goransson? Joo, se oli Gella. Joo, Gella, Goransson. G-E-R-A-N-S-S-U-L-L-N. Jes, joo, tuli oikein." -> 0.346
+google-latest_long = "Mika sun nimi olikaan? Aleksi Aleksi Aleksi joransson? Okei anteeksi, kuulinko oikein sanoit Kun Aleksi girlson? Joo, se oli g:lla joo g:lla goranson jee r a n s o n Jes joo tuli oikein." -> 0.346
+groq-whisper-large-v3 = "Mika sun nimi olikaan? Aleksi, Aleksi, Aleksi Goransson. Okei, anteeksi, kuulinko oikein sanakko Aleksi Goransson? Joo, se oli Gella. Joo, Gella, Goransson. G-E-R-A-N-S-S-O-N Jes, joo, tuli oikein." -> 0.284
+groq-whisper-large-v3-turbo = "Mika sun nimi olikaa? Aleksi Joransson Anteeks, kuulinko oikee sanatko Aleksi Joransson? Joo, se oli Gella Gella Joransson G-E-R-A-N-S-S-O-N Jes, joo tuli oikee!" -> 0.615
+elevenlabs = "Mika sun nimi olikaan? Aleksi, Aleksi, aa, Aleksi Goransson. Okei, anteeks, kuulinko oikein sanoitko Alex Joranson? Joo, se oli G:lla. Joo G:lla, Goransson. G o r a n s s o n. Jes! Joo, tuli oikein. (nopeaa musiikkia)" -> 0.231
+fal = "Mika sun nimi olikaan? Alexi, Alexi, Alexi Goransson. Okei, anteeks kuulinko oikee sanakko, Alexi Goransson? Joo, se oli Gella. Joo, Gella, Goransson. G-E-R-A-N-S-S-U-L-L-N. Jes, joo, tuli oikee." -> 0.462
+openai-gpt-4o-transcribe = "Mika sun nimi olikaan? Aleksi Joransson. Ok anteeksi, kuulenko oikein, sanoiko Aleksi Joransson? Joo, se oli G:lla. Joo. G:lla. Joransson. G-O-R-A-N-S-S-O-N. Jes. Joo tuli oikein." -> 0.346
+latice = "Mika sun nimi olikaan? Aleksi... Aleksi... aaa... Aleksi Goransson. Okei, anteeksi, kuulenko oikein sanatko, Aleksi Goransson? Joo, se oli Gella. Joo, Gella, Goransson. G-o-r-a-n-s-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u" -> 0.462
+
+resultat attendu : "RFT254"
+deepgram-nova-3 = "" -> 1.000
+gladia = "RFT254" -> 0.000
+google-latest_long = "rft 254" -> 0.000
+groq-whisper-large-v3 = "RFT254." -> 0.000
+groq-whisper-large-v3-turbo = "Er efta koksvis nelja?" -> 1.000
+elevenlabs = "No joo. RFT254" -> 1.000
+fal = "RFT254" -> 0.000
+openai-gpt-4o-transcribe = "RFT254." -> 0.000
+latice = "RFT-254" -> 0.000
+
+resultat attendu : "Autossa on pieni pakovuoto, sen takia se ei mennyt lapi paastomittauksesta."
+deepgram-nova-3 = "Autos on pieni pakovuoto. Sen takia se ei mennyt lapi tosta paastomittauksesta." -> 0.182
+gladia = "Autossa on pieni pakovuoto, sen takia se ei mennyt lapi tuosta paastomittauksesta." -> 0.091
+google-latest_long = "Autossa on pieni pakovuoto sen takia sen takia se ei mennyt lapi tuosta paastomittauksesta." -> 0.273
+groq-whisper-large-v3 = "Autossa on pieni pakovuoto, sen takia se ei mennyt lapi paastomittauksesta." -> 0.000
+groq-whisper-large-v3-turbo = "Autos on pieni pakovuoto, sen takia se ei mennyt lapi tuosta paastomittauksesta." -> 0.182
+elevenlabs = "Autos on pieni pakovuoto. Sen takii, sen takii se ei mennyt lapi tosta paastomittauksesta." -> 0.455
+fal = "Autossa on pieni pakovuoto, sen takia se ei mennyt lapi paastomittauksesta." -> 0.000
+openai-gpt-4o-transcribe = "Autossa on pieni pakovuoto, sen takia se ei mennyt lapi tuosta paastomittauksesta." -> 0.091
+latice = "Autossa on pieni pakovuoto, sen takia se ei mennyt lapi tuosta paastomittauksesta." -> 0.091
+
+resultat attendu : "Mikas sun rekisterinumero on? ZLM 874. Eli TLM 874. Ei mennyt ihan oikein. Voisitko toistaa rekisterinumeron, kiitos. Joo, eli ZLM 874. Eli se oli ZLM 874. Joo, just noin. Okei, kiitos."
+deepgram-nova-3 = "Mikas sun rekisterinumero on? ZLM874. Eli TLM874. Ei mennyt ihan oikein. Voisitko toistaa rekisterinumeroon, kiitos. Joo eli ZLM874. Eli se oli ZLM874? Joo, just noin. Okei, kiitos." -> 0.028
+gladia = "Mikas sun rekisterinumero on? ZLM 874. Eli TLM 874. Ei mennyt ihan oikein. Voisitko toistaa rekisterinumeron, kiitos. Joo, eli ZLM 874. Eli se oli ZLM 874. Joo, just noin. Okei, kiitos." -> 0.000
+google-latest_long = "Mika sun rekisterinumero on? Oo zlm 874, eli tlm 874 ei mennyt Ei mennyt ihan oikein. Voisitko toistaa rekisterinumeron? Kiitos. Joo eli Z LM 874 eli se oli Z lm874. Joo just just noin Okei kiitos." -> 0.320
+groq-whisper-large-v3 = "Mika sun rekisterinumero on? ZLM874. Eli TLM874. Ei mennyt ihan oikein. Voisitko toistaa rekisterinumeron, kiitos. Joo, eli ZLM874. Eli se oli ZLM874. Joo, just noin. Okei, kiitos." -> 0.028
+groq-whisper-large-v3-turbo = "Mikas sun rekisterinumero on? ZLM874 Eli TLM874 Ei mennyt ihan oikein Voisitko toistaa rekisterinumeroon? Kiitos Joo, eli ZLM874 Eli se oli ZLM874 Joo, just nain Okei, kiitos" -> 0.080
+elevenlabs = "Mm. Mikas sun rekisterinumero on? Oo, ZLM 874. Eli TLM 874. Ei mennyt, ei mennyt ihan oikein. Voisitko toistaa rekisterinumeron, kiitos! Joo eli ZLM 874. Eli se oli ZLM 874. Joo, just nain. Okei, kiitos!" -> 0.160
+fal = "Mikas sun rekisterinumero on? ZLM 874. Eli TLM 874. Ei mennyt ihan oikein. Voisitko toistaa rekisterinumeron, kiitos. Joo, eli ZLM 874. Eli se oli ZLM 874. Joo, just noin. Okei, kiitos." -> 0.000
+openai-gpt-4o-transcribe = "Mika sun rekisterinumero on? ZLM874. Eli ZLM874. Ei mennyt ihan oikein. Voisitko toistaa rekisterinumeron, kiitos? Joo, eli ZLM874. Eli se oli ZLM874. Joo, just nain. Okei, kiitos." -> 0.139
+latice = "Mikas sun rekisterinumero on? Ooo... ZLM-874. Eli TLM-874. Ei mennyt ihan oikein. Voisitko toistaa rekisterinumeron, kiitos? Joo, eli ZLM-874. Eli se oli ZLM-874. Joo, just noin. Okei, kiitos." -> 0.040
+
+resultat attendu : "Mikas sun nimi on? Emilia Virtanen. Okei, eli Emilia Virtanen. Joo."
+deepgram-nova-3 = "Mikas sun nimi on? Emilia Virtanen. Okei, eli Emilia Virtanen? Joo." -> 0.000
+gladia = "Mikas sun nimi on? Emilia Virtanen. Okei, eli Emilia Virtanen. Joo." -> 0.000
+google-latest_long = "Mikas sun nimi on? Emilia vir? Tanen Okei eli Emilia Virtanen" -> 0.200
+groq-whisper-large-v3 = "Mikas sun nimi on? Emilia Virtanen. Okei, eli Emilia Virtanen. Joo." -> 0.000
+groq-whisper-large-v3-turbo = "Mikas sun nimi on? Emilia Virtanen. Okei, eli Emilia Virtanen. Joo." -> 0.000
+elevenlabs = "Mikas sun nimi on? Emilia Virtanen. Okei, eli Emilia Virtanen. Joo." -> 0.000
+fal = "Mikas sun nimi on? Emilia Virtanen. Okei, eli Emilia Virtanen. Joo." -> 0.000
+openai-gpt-4o-transcribe = "Mika sun nimi on? - Emilia Virtanen." -> 0.500
+latice = "Mikas sun nimi on? Emilia Virtanen. Okei, eli Emilia Virtanen. Joo." -> 0.000
+
+resultat attendu : "Katsotaan samalla ne alustan pulsat. Ne on monesti kuluneet naissa kilometreissa."
+deepgram-nova-3 = "Katsotaan samalla ne alustan pulsat Ne on monesti kuluneet naissa kilometreissa" -> 0.000
+gladia = "Katsotaan samalla ne alustan pulsat. Ne on monesti kuluneet naissa kilometreissa." -> 0.000
+google-latest_long = "Katsotaan samalla ne alustan pulsat. Ne on monesti kuluneet naissa kilometreissa." -> 0.000
+groq-whisper-large-v3 = "Katsotaan samalla ne alustan pulsat. Ne on monesti kuluneet naissa kilometreissa." -> 0.000
+groq-whisper-large-v3-turbo = "Katsotaan samalla ne alustan pulsat. Ne on monesti kuluneet naissa kilometreissa." -> 0.000
+elevenlabs = "Hmm. Katsotaan samalla ne alustan pulssat. Ne on monesti kuluneet naissa kilometreissa." -> 0.091
+fal = "Katsotaan samalla ne alustan pulsat. Ne on monesti kuluneet naissa kilometreissa." -> 0.000
+openai-gpt-4o-transcribe = "Katsotaan samalla ne alustan pulsat, ne on monesti kuluneet naissa kilometreissa." -> 0.000
+latice = "Katsotaan samalla ne alustan pulsat, ne on monesti kuluneet naissa kilometreissa." -> 0.000
+
+resultat attendu : "ZAL 507"
+deepgram-nova-3 = "" -> 1.000
+gladia = "ZHL 507" -> 1.000
+google-latest_long = "Z Al 507" -> 1.000
+groq-whisper-large-v3 = "ZHL 507" -> 1.000
+groq-whisper-large-v3-turbo = "ZHL 507" -> 1.000
+elevenlabs = "ZAL 507." -> 0.000
+fal = "ZHL 507" -> 1.000
+openai-gpt-4o-transcribe = "ZHL507." -> 1.000
+latice = "ZALT-507" -> 1.000
+
+resultat attendu : "Mika sun nimi oli? Joo, ma olen Ville Ruusumaki. Anteeksi, kuulinko oikein? Sanoitko Ville Ruusumaki? Joo."
+deepgram-nova-3 = "Mika sun nimi oli? Joo ma oon Ville Ruusumaki. Anteeksi kuulinko oikein? Sanoitko Ville Ruusumaki? Joo." -> 0.050
+gladia = "Mika sun nimi oli? Joo, ma olen Ville Ruusumaki. Anteeksi, kuulinko oikein? Sanoitko Ville Ruusumaki? Joo." -> 0.000
+google-latest_long = "Mika sun nimi oli? Oo joo, ma oon Ville ruusumaki. Anteeksi kuulinko oikein Sanoinko Ville ruusumaki joo." -> 0.143
+groq-whisper-large-v3 = "Mika sun nimi oli? Joo, ma olen Ville Ruusumaki. Anteeksi, kuulinko oikein? Sanoitko Ville Ruusumaki? Joo." -> 0.000
+groq-whisper-large-v3-turbo = "Mika sun nimi oli? Joo, ma oon Ville Ruusumaki. Anteeksi, kuulinko oikein? Sanoitko Ville Ruusumaki? Joo." -> 0.050
+elevenlabs = "Mika sun nimi oli? Oo joo ma oon Ville Ruusumaki. Anteeks kuuliniko oikein, sanoitko Ville Ruusumaki? Joo." -> 0.214
+fal = "Mika sun nimi oli? Joo, ma olen Ville Ruusumaki. Anteeksi, kuulinko oikein? Sanoitko Ville Ruusumaki? Joo." -> 0.000
+openai-gpt-4o-transcribe = "Mikas sun nimi oli?" -> 0.786
+latice = "Mika sun nimi oli? Oo, joo, ma oon Ville Ruusumaki. Anteeksi, kuulinko oikein? Sanoitko Ville Ruusumaki? Joo." -> 0.050
+
+resultat attendu : "Mikas sinun sahkopostiosoitteesi oli? Se on jaakko_heikkinen at gmail.com Oliko se jaakko_heikkinen at gmail.com? Kylla se oli."
+deepgram-nova-3 = "Mikas sinun sahkopostiosoitteesi oli? Se on jaakko-heikkinengmail piste com Oliko se jaakkoheikkinengmail piste com Kylla se oli" -> 0.333
+gladia = "Mikas sinun sahkopostiosoitteesi oli? Se on jaakko-heikkinen at gmail.com. Oliko se jaakko-heikkinen at gmail.com? Kylla se oli." -> 0.000
+google-latest_long = "Mika sinun sahkopostiosoitteesi oli? Se on Jaakko alaviiva heikkinen@gmail.com. Oliko se Jaakko alaviiva heikkinen.com? Kylla se oli" -> 0.238
+groq-whisper-large-v3 = "Mikas sinun sahkopostiosoitteesi oli? Se on jaakko-heikkinen at gmail.com Oliko se jaakko-heikkinen at gmail.com? Kylla se oli." -> 0.000
+groq-whisper-large-v3-turbo = "Mikas sinun sahkopostiosoitteesi oli? Se on jaakko-heikkinen at gmail.com Oliko se jaakko-heikkinen at gmail.com? Kylla se oli." -> 0.000
+elevenlabs = "Mikas sinun sahkopostiosoitteesi oli? Se on Jaakko_alaviiva_Heikkinen(at)gmail.com. Oliko se Jaakko_alaviiva_Heikkinen(at)gmail.com? Kylla se oli. (juontaja kuiskaa)" -> 0.190
+fal = "Mikas sinun sahkopostiosoitteesi oli? Se on jaakko-heikkinen at gmail.com. Oliko se jaakko-heikkinen at gmail.com? Kylla se oli." -> 0.000
+openai-gpt-4o-transcribe = "Mikas sinun sahkopostiosoitteesi oli?" -> 0.810
+latice = "Minkas sinun sahkopostiosoitteesi oli? Se on jaakko-heikkinen at gmail.com. Oliko se jaakko-heikkinen at gmail.com? Kylla se oli." -> 0.048
+
+resultat attendu : "TXR118"
+deepgram-nova-3 = "TXR satakaksitoista" -> 1.000
+gladia = "TXR118" -> 0.000
+google-latest_long = "txr 118" -> 0.000
+groq-whisper-large-v3 = "TXR118" -> 0.000
+groq-whisper-large-v3-turbo = "TXR 1x8" -> 1.000
+elevenlabs = "TXR11 kahdeksan." -> 0.000
+fal = "TXR118" -> 0.000
+openai-gpt-4o-transcribe = "TXR 168." -> 1.000
+latice = "TXR-118" -> 0.000
+
+resultat attendu : "IIL117"
+deepgram-nova-3 = "IIL117" -> 0.000
+gladia = "IIL117" -> 0.000
+google-latest_long = "l117" -> 1.000
+groq-whisper-large-v3 = "IIL 1117" -> 1.000
+groq-whisper-large-v3-turbo = "IIL 117" -> 0.000
+elevenlabs = "IIL yks yks seitteman." -> 1.000
+fal = "IIL117" -> 0.000
+openai-gpt-4o-transcribe = "IIL117." -> 0.000
+latice = "IIL-117" -> 0.000
+deepgram-nova-3 = "IIL117" -> 0.000
+gladia = "IIL117" -> 0.000
+google-latest_long = "l117" -> 1.000
+groq-whisper-large-v3 = "IIL 1117" -> 1.000
+groq-whisper-large-v3-turbo = "IIL 117" -> 0.000
+elevenlabs = "IIL yks yks seitteman." -> 1.000
+fal = "IIL117" -> 0.000
+openai-gpt-4o-transcribe = "IL-117." -> 1.000
+latice = "IIL-117" -> 0.000
+
+resultat attendu : "WRF 106"
+deepgram-nova-3 = "RF1006" -> 1.000
+gladia = "WRF 106" -> 0.000
+google-latest_long = "Tupla V rf106" -> 1.000
+groq-whisper-large-v3 = "WRF 106" -> 0.000
+groq-whisper-large-v3-turbo = "WRF106" -> 0.000
+elevenlabs = "(kohinaa) WRF106" -> 1.000
+fal = "WRF106" -> 0.000
+openai-gpt-4o-transcribe = "Tuplavee RF106." -> 1.000
+latice = "WRF-106" -> 0.000
+
+resultat attendu : "0, 1, 2, 3, 4, 5, 6, 7, 8, 9."
+deepgram-nova-3 = "Nolla, yksi, kaksi, kolme, nelja, viisi, kuusi, seitseman, kahdeksan, yhdeksan" -> 0.000
+gladia = "0, 1, 2, 3, 4, 5, 6, 7, 8, 9." -> 0.000
+google-latest_long = "nolla yks kaks, kol nel viis 6 7 8 9" -> 1.000
+groq-whisper-large-v3 = "0, 1, 2, 3, 4, 5, 6, 7, 8, 9." -> 0.000
+groq-whisper-large-v3-turbo = "0, 1, 2, 3, 4, 5, 6, 7, 8, 9." -> 0.000
+elevenlabs = "Nolla, yks, kaks, kol, nel, viis, kuus, seittema, kaheksa, yheksa. (kohinaa)" -> 1.000
+fal = "0, 1, 2, 3, 4, 5, 6, 7, 8, 9." -> 0.000
+openai-gpt-4o-transcribe = "Nolla, yksi, kaksi, kolme, nelja, viisi, kuusi, seitseman, kahdeksan, yhdeksan." -> 0.000
+latice = "0 1 2 3 4 5 6 7 8 9" -> 0.000
+deepgram-nova-3 = "Nolla, yksi, kaksi, kolme, nelja, viisi, kuusi, seitseman, kahdeksan, yhdeksan" -> 0.000
+gladia = "0, 1, 2, 3, 4, 5, 6, 7, 8, 9." -> 0.000
+google-latest_long = "nolla yksi kaksi kolme nelja viisi kuusi seitseman kahdeksan yhdeksan" -> 0.000
+groq-whisper-large-v3 = "0, 1, 2, 3, 4, 5, 6, 7, 8, 9." -> 0.000
+groq-whisper-large-v3-turbo = "0, 1, 2, 3, 4, 5, 6, 7, 8, 9." -> 0.000
+elevenlabs = "Nolla, yksi, kaksi, kolme, nelja, viisi, kuusi, seitseman, kahdeksan, yhdeksan." -> 0.000
+fal = "0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10." -> 1.000
+openai-gpt-4o-transcribe = "Nolla yksi kaksi kolme nelja viisi kuusi seitseman kahdeksan yhdeksan." -> 0.000
+latice = "0 1 2 3 4 5 6 7 8 9" -> 0.000
+
+resultat attendu : "Haluutsa varata renkaanvaihdon nyt? E."
+deepgram-nova-3 = "" -> 1.000
+gladia = "" -> 1.000
+google-latest_long = "haluatte varata renkaan vaihdon nyt Ei" -> 0.800
+groq-whisper-large-v3 = "Taa on kiva, etta reilu on, vaikka nyt." -> 1.000
+groq-whisper-large-v3-turbo = "Jutroumble.' on prend?" -> 1.000
+elevenlabs = "(koneen surinaa) Taa on varmaan reilu oma heti. Joo." -> 1.000
+fal = "Taa on tuolla reilulla varjolle yloksynyt." -> 1.000
+openai-gpt-4o-transcribe = "Onko meilla vedenpitava?" -> 1.000
+latice = "Haluaisitko varata reilua vaihtoehdossa? Oo..." -> 0.875
+
+resultat attendu : "Ma oot tos tehattoon pointteistin varmastus torstaina 14. joulukai, taisko sulla? Joo."
+deepgram-nova-3 = "" -> 1.000
+gladia = "Ma luokkas teha toi pointteistin varmastus torstaina 14. joulukuta. Et ma iskos silloin. Joo." -> 0.800
+google-latest_long = "Tehda toi vaihteiston harrastus torstaina 14. Joulukuuta joo." -> 0.900
+groq-whisper-large-v3 = "Ma oon tossa teha toi pointteistin tarkastus turstaina 14. joulutuotantoon. Laisko sulla? Joo." -> 0.800
+groq-whisper-large-v3-turbo = "Ma ottais tehda toi pointteesti harkastusta tuorosta aina 14 joutua, kaisiko sulla? Joo." -> 0.900
+elevenlabs = "Ma optas teha toi point testin harjoitustas torstaina neljastoista joulukuuta. Etta olisko sulla? Joo. (puheensorinaa)" -> 1.000
+fal = "Ma oon tossa... Teehan toi pointteistin tarkastus on turstaina 14. joulutu, et saisko sua. Joo." -> 1.000
+openai-gpt-4o-transcribe = "Tuossa tehdaan puhdistusharjoitusta." -> 1.000
+latice = "No, tuossa... Tehdaan toi pointteistin tarkastus torstaina 14.12. vai olisiko sua? Joo." -> 0.900
+
+resultat attendu : "Voitko tarkastella, etta teidan kanssa on 21.11. vuosi? Kayko tama vuosi? Ei sekaan. Miten maailmanpain 19.11. vuosi olisi mahdollista? Ei sekaan."
+deepgram-nova-3 = "" -> 1.000
+gladia = "Ei se kay. Ei se kay." -> 0.947
+google-latest_long = "Voitais tarkastella jarruva teidan 819, Niin kayks taa Mulle ei se kay. No mites toi maanantai 19 olis myos mahdollinen. No se kay." -> 1.000
+groq-whisper-large-v3 = "Voitais tarvastaa mina arvoa teidan kanssa 18.11. Kayks taalla luokka? Ei sekaan. No mites toi maailmanpain 19.11. ois myos mahdollinen? No sekaan." -> 0.895
+groq-whisper-large-v3-turbo = "Voitest tarkastella jarvaa teidan kohdessaan 17-18, kayks taa luot? Ei seka. No mites toi maanonpaa 19-19 olis myos mahdollinen? No seka." -> 0.895
+elevenlabs = "Mmm. Voitas tarkistaa Larnakaan perjantaina kahdeksas elihekkutoista. Kayks taa huomenna? Ei se kay. No mites toi maanantai yheksastoist ehitoisto ois myos mahdollinen. No se kay. (kovenevaa moottorien aanta)" -> 1.000
+fal = "Voitais tarkastella jarvaa PR:n 80-19? Kayks taa mua? Ei sekaan. No mites toi maailmanpain 19-19 ois myos mahdollinen? No sekaan." -> 0.895
+openai-gpt-4o-transcribe = "Voiko starburstia ladata teidan laivahenkisesta?" -> 0.947
+latice = "Oo, voitaisitko tarkastaa noin jarvaa, etta ei jaapaa paheksi, onko se sahkoista? Kayko tama ruokaa? Ei, se kay. No mika se tuo jo maanenpain, 19.11. olisi mahdollista? No, se kay." -> 1.000
+
+resultat attendu : "Haluatko varata renkaanvaihdon? Joo."
+deepgram-nova-3 = "Haluatko varota renkaat vahan nyt?" -> 1.000
+gladia = "Palutko varoittaa renkaan?" -> 1.000
+google-latest_long = "Haluatko varata renkaat nyt? Joo?" -> 0.333
+groq-whisper-large-v3 = "Palokko varoittaa renkaalta." -> 1.000
+groq-whisper-large-v3-turbo = "Saat olemme seryee napos***in Torrt Kr widsi" -> 1.000
+elevenlabs = "(musiikki soi taustalla) Haluuksa komentaa renkaan vai miten?" -> 1.000
+fal = "Palooko varoita renkailla? Joo." -> 0.500
+openai-gpt-4o-transcribe = "Haluaako varata rengasliikkeen?" -> 0.667
+latice = "Haluatko varata renkaan varrella? Joo." -> 0.333
+
+resultat attendu : "Hei, haluttais parata toi aika tonne akun kunnon tarkastuksen keskiviikkona 6.7. kello 11.30. Sopisko se? Ei. No mitas toi perjantai 8.7. kello 12.30? Ei siina taida mitaan kummempaa olla, niin sielta se kay."
+deepgram-nova-3 = "Hei, haluatko sitten palata toi aika tohon akun kunnon tarkastukseen keskiviikkona kuusikymmentaseitseman. Klo tuhat satakolmekymmenta. Sopisko se? Ei. No mitas toi perjantai kahdeksankymmentaseitseman. Kello tuhat kaksisataakolmekymmenta? Ei siina taida mitaan kummempaa olla, kylla se kay." -> 0.379
+gladia = "Hei, haluttaisitko parata tuo aika tuohon akun kunnon tarkastuksen keskiviikkona 6.7. kello 11.30? Sopisiko se? Ei. No mitas tuo perjantai 8.7. kello 12.30? Ei siina taida mitaan kummempaa olla, niin kylla se kay." -> 0.105
+google-latest_long = "Me ei haluttaisi parata toi aika tohon akun kunnon tarkastuksen keskiviikkona 6.7. KL 11.30. Sopisiko se ei No mites toi perjantai 8.7. Kello 12.30. Ei siina taida mitaan kummempaa olla, niin kylla se kay." -> 0.276
+groq-whisper-large-v3 = "Hei, haluttais parata toi aika tonne akun kunnon tarkastuksen keskiviikkona 6.7. kello 11.30, sopisiko se? Ei. No mitas toi perjantai 8.7. kello 12.30? Ei siina taida mitaan kummempaa olla, niin kyl se kay." -> 0.069
+groq-whisper-large-v3-turbo = "Haluaisit parata tuohon Akun kunnon tarkastuksen keskiviikkona 6.7. kello 11.30. Sopisiko se? Ei. No mites tuo perjantai 8.7. kello 12.30? Ei siina taida mitaan kummempaa olla, niin kylla se kay." -> 0.145
+elevenlabs = "He haluttais tavata toi aika tohon akun kunnon tarkastukseen keskiviikkona kuudes seittematta kello ykstoista kolkyt. Sopisko se? Ei. No mites toi perjantai kaheksas seittematta kello kakstoista kolmekymmenta? Ei siin taida mitaan kummempaa olla, niin kyl se kay." -> 0.621
+fal = "Hei, haluaisitko parata tuo aika tuohon akun kunnon tarkastuksen keskiviikkona 6.7. kello 11.30? Sopisiko se? Ei. No mitas tuo perjantai 8.7. kello 12.30? Ei siina taida mitaan kummempaa olla, niin kylla se kay." -> 0.105
+openai-gpt-4o-transcribe = "Me haluttais varata toi aika tuohon akun kunnon tarkastukseen keskiviikkona 6.7. kello 11:30. Sopisko se?" -> 0.690
+latice = "Me haluttaisiin parata toi aika tuon akun kunnon tarkastuksen keskiviikkona 6.7. kello 1.30, sopisiko se? Ei. No mitas toi perjantai 8.7. kello 12.30? Ei siina taida mitaan kummempaa olla niin, voiko se kaya?" -> 0.241
+
+resultat attendu : "Ja mika sinun nimi oli? Jukka Eriksson. Okei, anteeksi, kuulinko oikein sanoitko Jukka Eriksson? Kylla."
+deepgram-nova-3 = "Ja mikas sun nimi oli? Jukka Eeriksson. Okei, anteeksi, kuulinko oikein? Sanoitko Jukka Eeriksson? Kylla." -> 0.267
+gladia = "Ja mika sun nimi oli? Jukka Eriksson. Okei, anteeksi, kuulinko oikein? Sanoitko Jukka Eriksson? Kylla." -> 0.067
+google-latest_long = "Ja mika sun nimi oli? Jukka erikson? Okei anteeksi kuulin. ko Jukka kylla" -> 0.854
+groq-whisper-large-v3 = "Ja mika sinun nimi oli? Jukka Eriksson. Okei, anteeksi, kuulinko oikein? Sanoitko Jukka Eriksson? Kylla." -> 0.000
+groq-whisper-large-v3-turbo = "Ja mika sinun nimi oli? Jukka Eriksson. Okei, anteeksi, kuulinko oikein? Sanoitko Jukka Eriksson? Kylla." -> 0.000
+elevenlabs = "Ja mika sun nimi oli? Jukka (kohii) Eriksson. Okei, anteeksi, kuulinko oikein? Sanoitko Jukka Eriksson? Kylla." -> 0.133
+fal = "Ja mika sun nimi oli? Jukka Eriksson. Okei, anteeks kuulenko oikein sanoitko Jukka Eriksson? Kylla." -> 0.121
+openai-gpt-4o-transcribe = "Ja mika sun nimi oli? - Jukka Eriksson." -> 0.600
+latice = "Ja mika sinun nimi oli? Jukka Eerikson. Okei, anteeksi, kuulinko oikein, sanoitko Jukka Eerikson? Kylla." -> 0.161
+
+resultat attendu : "C-vitamiini, Zorro, Quesadia, 422."
+deepgram-nova-3 = "C-vitamiini, Zorro, kesadia, nelja kaksikymmentakaksi" -> 0.250
+gladia = "C-vitamiini, zorro, kesadiia, 22." -> 0.250
+google-latest_long = "c-vitamiinitorro kesadi ja 14" -> 0.750
+groq-whisper-large-v3 = "C-vitamiini, Zorro, Kesadia." -> 0.250
+groq-whisper-large-v3-turbo = "C-vitamiini, Zorro, Quesadia, Mieto 22." -> 0.500
+elevenlabs = "C-vitamiini, Zorro, Quesadilla nelja kaks kaks." -> 0.750
+fal = "C-vitamiini, Zorro, Kesadia." -> 0.250
+openai-gpt-4o-transcribe = "C-vitamiini Zorro kesadiia 142." -> 0.250
+latice = "C-vitamiini, Zorro, kesadiia..." -> 0.250
+
+resultat attendu : "Mika sun nimi on? Vilhelmiina Korpela. Vilhelmiina Korpela."
+deepgram-nova-3 = "Mika sun nimi on? Vilhelmiina Korpela. Vilhelmiina Korpela? Joo." -> 0.000
+gladia = "Mika sun nimi on? Vilhelmina Korpela. Vilhelmina Korpela. Joo." -> 0.250
+google-latest_long = "Mika sun nimi on? Vilhelmiina Korpela" -> 0.250
+groq-whisper-large-v3 = "Mika sun nimi on? Wilhelmina Korpela. Wilhelmina Korpela." -> 0.333
+groq-whisper-large-v3-turbo = "Mika sun nimi on? Wilhelmina Korpela. Wilhelmina Korpela. Joo." -> 0.250
+elevenlabs = "Mika sun nimi on? Wilhelmiina Korpela. Wilhelmiina Korpela. Joo." -> 0.250
+fal = "Mika sun nimi on? Wilhelmina Korpela. Wilhelmina Korpela. Joo." -> 0.250
+openai-gpt-4o-transcribe = "Mika sun nimi on?" -> 0.500
+latice = "Mika sun nimi on?OSSTALKWilhelmina Korpela.!!]Wilhelmina Korpela." -> 0.333
+
+resultat attendu : "ZZZ999"
+deepgram-nova-3 = "Zetat Zetat Zetat Ysi Ysi Ysi Ysi" -> 1.000
+gladia = "ZZZ999" -> 0.000
+google-latest_long = "z z 999" -> 1.000
+groq-whisper-large-v3 = "ZZZZ 999" -> 0.000
+groq-whisper-large-v3-turbo = "ZZZZ 999" -> 0.000
+elevenlabs = "Z z z ysi ysi ysi." -> 1.000
+fal = "ZZZZ999" -> 0.000
+openai-gpt-4o-transcribe = "Zet zet zet, 999." -> 1.000
+latice = "ZZZZ 999" -> 0.000
+
+resultat attendu : "Tarvitseeko vaihteisto tarkastusta? Kylla."
+deepgram-nova-3 = "" -> 1.000
+gladia = "Taavitseeko vaihteisto valmistusta? Kylla." -> 0.333
+google-latest_long = "Tarvitseeko vaihteistosta kylla?" -> 0.500
+groq-whisper-large-v3 = "Tama on itseasiassa kohteisto palvelusta." -> 1.000
+groq-whisper-large-v3-turbo = "Palvitseko moitteistel paljastustelua? Kylla." -> 0.500
+elevenlabs = "(taustahalya) Tarvitseeko vaihteisto valmistusta? Kylla. (kovenevaa musiikkia)" -> 1.000
+fal = "Taa on itseasiassa vaihteisto palvelusta. Kylla." -> 0.667
+openai-gpt-4o-transcribe = "Toivottavasti se voittaa sitten maailmanmestaruuden." -> 1.000
+latice = "Taavitseeko vaihteisto valmistusta? Kylla." -> 0.333
+
+resultat attendu : "Katsastuksesta tuli hylky alapallon nivelasta. Vaihdetaan se nyt."
+deepgram-nova-3 = "Katsastuksessa tuli hylky alapallon nivelsta, vaihdetaan se nyt." -> 0.250
+gladia = "Katsastuksessa tuli hylky alapallon nivelasta. Vaihdetaan se nyt." -> 0.100
+google-latest_long = "katsastuksessa tuli hylky alapallon nivelesta vaihdetaan se" -> 0.375
+groq-whisper-large-v3 = "Katsastuksesta tuli hylky alapallon nivelasta. Vaihdetaan se nyt." -> 0.000
+groq-whisper-large-v3-turbo = "Katsastuksessa tuli hylky alapallon nivelasta. Vaihdetaan se nyt." -> 0.100
+elevenlabs = "Katsastukses tuli hylky alapallon nivelesta. Vaihdetaan se nyt." -> 0.200
+fal = "Katsastuksessa tuli hylky alapallon nivelasta. Vaihdetaan se nyt." -> 0.100
+openai-gpt-4o-transcribe = "Katsastuksessa tuli hylky alapallonivelesta, vaihdetaan se nyt." -> 0.375
+latice = "Katsastuksesta tuli hylky alapallon nivelasta, vaihdetaan se nyt." -> 0.000
+
+resultat attendu : "Mika on autos mittarikuken? 8000"
+deepgram-nova-3 = "Mika on autossa mittari, joka on? Kahdeksantoista." -> 1.000
+gladia = "Mika on autos mittarikoko? 8000" -> 0.125
+google-latest_long = "Mika on autosmittari 8000?" -> 0.500
+groq-whisper-large-v3 = "Mika on autosi mittarikokemus? 8000" -> 0.250
+groq-whisper-large-v3-turbo = "Mika on autos mittarisukehu? 8000" -> 0.125
+elevenlabs = "Mika on autosi mittariluku? Kaheksantuhatta." -> 0.750
+fal = "Mika on autosi mittarikokemus? 8000" -> 0.250
+openai-gpt-4o-transcribe = "Mika on autosi mittarilukema?" -> 0.500
+latice = "Mika on autosi mittarilukenut? 8 000" -> 0.250
+
+resultat attendu : "QZB605 Quesadilla ja Zorro banaani 605"
+deepgram-nova-3 = "Godzet B kuusisataaviisi Kesadia Zorrobanani kuusisataaviisi" -> 1.000
+gladia = "Guzet B605. Kesadiia ZorroBanaani605." -> 1.000
+google-latest_long = "good chat b605 kesadia Zorro banaani 605" -> 0.800
+groq-whisper-large-v3 = "Guzet B605 Kesadi ja Zorro banaani 605" -> 0.600
+groq-whisper-large-v3-turbo = "Gujet B 605 Quesadilla chorro banaani 605" -> 0.800
+elevenlabs = "QCB605. Quesadilla Zorro Banaani 605." -> 0.400
+fal = "Guzet B605 Kesadi ja Zorro banaani 605" -> 0.600
+openai-gpt-4o-transcribe = "Guchet B 605, kesadia zorro banaani 605." -> 0.600
+latice = "GZB-605 KivolJorro Banaani-605" -> 0.800
+
+resultat attendu : "VPK 742"
+deepgram-nova-3 = "VPK seitseman nelja kaksi" -> 0.000
+gladia = "VBK 74.2" -> 1.000
+google-latest_long = "vpk74" -> 1.000
+groq-whisper-large-v3 = "VBK 7421" -> 1.000
+groq-whisper-large-v3-turbo = "Vebeko, seittamennelja kaks." -> 1.000
+elevenlabs = "VPK seitteman nelja kaks." -> 1.000
+fal = "WPK 742" -> 1.000
+openai-gpt-4o-transcribe = "BPK742." -> 1.000
+latice = "BBK-742" -> 1.000
+deepgram-nova-3 = "" -> 1.000
+gladia = "VBK 742." -> 1.000
+google-latest_long = "vpk742" -> 0.000
+groq-whisper-large-v3 = "VBK 742" -> 1.000
+groq-whisper-large-v3-turbo = "FBK seittamenn Elja Cox." -> 1.000
+elevenlabs = "VPK seitteman nelja kaks." -> 1.000
+fal = "WPK 7420." -> 1.000
+openai-gpt-4o-transcribe = "VPK742." -> 0.000
+latice = "VPK-742" -> 0.000
+
+resultat attendu : "Q quesidiia, C niin k Celsius, Z niin ku Zorro, 705."
+deepgram-nova-3 = "G on niinku kesadia, C niinku celsius, Zet niinku zorro, seitsemantuhatta viisi" -> 1.000
+gladia = "K kasadiia, C k Celsius, Z k Zorro, 7.05." -> 0.875
+google-latest_long = "Go niinku kesadi ja se niinku Celsius Z niinku Zorro 705." -> 0.875
+groq-whisper-large-v3 = "K kasadiia, C k Celsius, Z k Zorro, 7.05" -> 0.875
+groq-whisper-large-v3-turbo = "G kaksikin kesadiin, C kaksikin celsiiva, Z kaksikin tzorin 7.05" -> 1.000
+elevenlabs = "G niinku Quesadilla, C niin ku Celsius, Z niin kuin Zorro, seitseman nolla viis." -> 0.625
+fal = "K k kesa diia C k Celsius Z k t zorro 7:05" -> 0.875
+openai-gpt-4o-transcribe = "K niin kuin kesadiia, C niin kuin Celsius, Z niin kuin Zorro, 705." -> 0.875
+latice = "G niin kuin Quesadilla, C niin kuin Celsius, Z niin kuin Zorro, 705" -> 0.875
+
+resultat attendu : "Veikko Risto Filippa 1067"
+deepgram-nova-3 = "Veikko, Risto, Filippa, kuusisataakuusi" -> 1.000
+gladia = "Veikko Risto Filippa 106." -> 0.500
+google-latest_long = "Veikko Risto Filippa 106" -> 0.500
+groq-whisper-large-v3 = "Veikko Risto Filippa 106" -> 0.500
+groq-whisper-large-v3-turbo = "Veikko Risto Filippa 106" -> 0.500
+elevenlabs = "Veikko, Risto, Filippa yks nolla kuus." -> 1.000
+fal = "Veikko Risto Filippa 106" -> 0.500
+openai-gpt-4o-transcribe = "Veikko Risto Filippa yksi nolla kuus." -> 1.000
+latice = "Veikko-Risto Filippa 106" -> 0.500
+
+resultat attendu : "Mikas sun sahkopostiosite on? sanna_korhonen at gmail.com Eli sanna_korhonen at gmail.com"
+deepgram-nova-3 = "Mikas sun sahkopostiosoite on? Sanna-porhonengma piste com Eli sanna-porhonengma piste com Joo" -> 0.467
+gladia = "Mikas sun sahkopostiosite on? sanna-porhonen at gmail.com Eli sanna-porhonen at gmail.com Joo." -> 0.104
+google-latest_long = "Mika sun sahkopostiosoite on? Anna alaviiva korhonen@gma.com eli Sanna alaviiva korhonen@gmail.com joo" -> 0.354
+groq-whisper-large-v3 = "Mikas sun sahkopostiosite on? Sanna-porhonen at gmail.com Eli Sanna-porhonen at gmail.com Joo." -> 0.104
+groq-whisper-large-v3-turbo = "Mika sun sahkopostiosate on? Sanna-Porhonen at gmail.com Eli Sanna-Porhonen at gmail.com" -> 0.229
+elevenlabs = "Mm. Mikas sun sahkopostiosoite on? Aa, sanna alaviiva Korhonen at gmail piste com. Eli sanna_alaviiva_korhonen@gmail.piste.com. Joo." -> 0.400
+fal = "Mikas sun sahkopostiosite on? sanna-porhonen@gmail.com Eli sanna-porhonen@gmail.com Joo." -> 0.104
+openai-gpt-4o-transcribe = "Mikas sun sahkopostiosoite on?" -> 0.800
+latice = "Mikas sun sahkopostiosoite on? Sanna-porhonen at gmail.com. Eli Sanna-porhonen at gmail.com." -> 0.200
+
+resultat attendu : "C on Celsius, Z on Zorro, Q on quesadiia, 442."
+deepgram-nova-3 = "C niinku Celcius, Z niinku Zorro, Gue niinku kesadia, nelja-nelja-kaksi" -> 0.750
+gladia = "Se on kuten Celsius, Z on kuten Zorro, G on kuten kesadiia, 442." -> 0.750
+google-latest_long = "Se niinku sales just se et niinku Zorro Q niinku kesadiia 442." -> 0.875
+groq-whisper-large-v3 = "Se on kuten Celsius, Z on kuten Zorro, Gu on kuten kesadiia, 442." -> 0.750
+groq-whisper-large-v3-turbo = "C kuten Celsius, Z kuten Tjorro, Q kuten Kesadija, 4-4-2." -> 0.625
+elevenlabs = "C niinku Celsius. Z niin kuin Zorro. Q niin kuin Quesadilla. Nelja nelja kaks." -> 1.000
+fal = "C = Celsius, Z = Zorro, G = Kesadiia, 4, 4, 2" -> 0.875
+openai-gpt-4o-transcribe = "C niin kuin Celsius, Z niin kuin Zorro, Q niin kuin quesadilla, 442." -> 0.875
+latice = "C niinkuin Celsius, Z niinkuin Zorro, G niinkuin Quesadilla, 442" -> 0.625
+
+resultat attendu : "Mika sun nimi oli? Joo, ma oon Jaakko Heikkinen. Okei, kuulinko oikein? Sanoitko Jaakko Heikkinen? Joo."
+deepgram-nova-3 = "Mika sun nimi oli? Joo, ma oon Jaakko Heikkinen. Okei, kuulinko oikein? Sanoitko Jaakko Heikkinen? Juu." -> 0.000
+gladia = "Mika sun nimi oli? Joo, ma oon Jaakko Heikkinen. Okei, kuulinko oikein? Sanoitko Jaakko Heikkinen? Joo." -> 0.000
+google-latest_long = "Mika sun nimi oli? Joo, ma oon Jaakko Heikkinen Okei kuulinko oikein. Sanoitko Jaakko Heikkinen juu?" -> 0.000
+groq-whisper-large-v3 = "Mika sun nimi oli? Joo, ma oon Jaakko Heikkinen. Okei, kuulinko oikein? Sanoitko Jaakko Heikkinen? Joo." -> 0.000
+groq-whisper-large-v3-turbo = "Mika sun nimi oli? Joo, ma oon Jaakko Heikkinen. Okei, kuulinko oikein sanoitko Jaakko Heikkinen? Juu." -> 0.000
+elevenlabs = "Mika sun nimi oli? Joo, ma oon Jaakko Heikkinen. Okei, kuulinko oikein? Sanoitko Jaakko Heikkinen? Juu." -> 0.000
+fal = "Mika sun nimi oli? Joo, ma oon Jaakko Heikkinen. Okei, kuulinko oikein? Sanoitko Jaakko Heikkinen? Joo." -> 0.000
+openai-gpt-4o-transcribe = "Mika sun nimi oli?" -> 0.714
+latice = "Mika sun nimi oli? Joo, ma oon Jaakko Heikkinen. Okei, kuulinko oikein, sanoitko Jaakko Heikkinen? Juu." -> 0.000
+
+resultat attendu : "Saisinko sinun kotiosoitteesi? Joo, Kuusitie 4A7 Kuopio. Varmistan viela, eli Kuusitie 4A7 Kuopio. Joo."
+deepgram-nova-3 = "Saisinko sinun kotiosoiteesi? Juu, 6ti 4a7-Kuopio. Varmistan viela eli 6ti 4a7-Kuopio. Joo." -> 0.333
+gladia = "Saisinko sinun kotiosuhteesi? Joo, kuusitie 4A7 Kuopio. Varmistan viela, eli kuusitie 4A7 Kuopio. Joo." -> 0.083
+google-latest_long = "Saisinko sinun kotiosoitteesi? Juu Kuusitie 4 A 7 Kuopio varmiston viela Eli Kuusitie 4. A7 Kuopio joo" -> 0.083
+groq-whisper-large-v3 = "Saisinko sinun kotiosuhteesi? Joo, Kuusitie 4A7 Kuopio. Varmistan viela, eli Kuusitie 4A7 Kuopio. Joo." -> 0.083
+groq-whisper-large-v3-turbo = "Saisinko sinun kotiosointeesi? Juu, 6-4A7 Kuopio. Varmista viela eli 6-4A7 Kuopio. Joo." -> 0.292
+elevenlabs = "Saisinko sinun kotiosoitteesi? Juu. Kuusitie 4 A7, Kuopio. Varmista viela, eli Kuusitie 4 A7 Kuopio. Joo. (musiikki jatkuu)" -> 0.250
+fal = "Saisinko sinun kotiosuhteesi? Joo, Kuusitie 4A7 Kuopio. Varmistan viela, eli Kuusitie 4A7 Kuopio. Joo." -> 0.083
+openai-gpt-4o-transcribe = "Kuusitie 4 A 7 Kuopio." -> 0.750
+latice = "Saisinko sinun kotiosoutteesi? Juu, 64A7 Kuopio. Varmistan viela, eli 64A7 Kuopio. Joo." -> 0.250
+
+resultat attendu : "Mika sun auton rekisterinumero on? Joo se on J-Y-K-712 Eli J-Y-K-712 Oliks toi oikein? Ei se oo ihan oikein Voitko toistaa rekisterinumeron hiitos? Joo siis J-Y-K-712 Eli J-Y-K-712 Joo"
+deepgram-nova-3 = "Mika sun auton rekisterinumero on? Jos on JYK712 Eli JYK712, oliko toi oikein? Ei se ole ihan oikein Voitko toistaa rekisterinumeron kiitos? Joo siis JYK712 Eli JYK712 Joo" -> 0.125
+gladia = "Mika sun auton rekisterinumero on? Joo, se on J-Y-K-712. Eli J-Y-K-712. Oliko toi oikein? Ei se ole ihan oikein. Voitko toistaa rekisterinumeron kiitos? Joo, siis J-Y-K-712. Eli J-Y-K-712. Joo." -> 0.120
+google-latest_long = "Mikas sun auton rekisterinumero on? Joo, se on j y k712 eli juk712. Oliks toi oikein? Ei se meni ihan oikein. Voitko toistaa rekisterinumeron? Kiitos. Joo siis j. YK eli J k712 joo" -> 0.280
+groq-whisper-large-v3 = "Mika sun auton rekisterinumero on? Joo se on J-Y-K-712 Eli J-U-K-712 Oliks toi oikein? Ei se oo ihan oikein Voitko toistaa rekisterinumeron kiitos? Joo siis J-Y-K-712 Eli J-Y-K-712 Joo" -> 0.062
+groq-whisper-large-v3-turbo = "Mikas sun auton rekisterinumero on? Joo se on J-U-K-712 Eli J-U-K-712 Oliks toi oikein? Ei se meni ihan oikein Voitko toistaa rekisterinumeroon hiitos? Joo siis J-U-K-712 Eli J-U-K-712 Joo" -> 0.300
+elevenlabs = "Mikas sun auton rekisterinumero on? No se on JYK seitteman yks kaks- Eli JYK seitseman yks kaks. Oliks toi oikein? Ei, se meni ihan oikein. Voitko toistaa rekisterinumeron? Kiitos! Joo siis JYK-712 eli- JYK jyy koo seitteman yks kaksi." -> 0.520
+fal = "Mika sun auton rekisterinumero on? Joo se on J-Y-K-712. Eli J-Y-K-712. Oliks toi oikein? Ei se oo ihan oikein. Voitko toistaa rekisterinumeron kiitos? Joo siis J-Y-K-712. Eli J-Y-K-712. Joo." -> 0.040
+openai-gpt-4o-transcribe = "Mika sun auton rekisterinumero on? Joo, se on JYK712. Eli JYK712. Oliks toi oikein? Ei se menny ihan oikein. Voitko toistaa rekisterinumeron, kiitos. Joo, siis JYK712. Eli JYK712?" -> 0.080
+latice = "Mikas sun auton rekisterinumero on?-Joo, se on JYK-712.yyEli J-u-k 712, oliko toi oikein?!!]Ei, se on ihan oikein. CouncillVoitko toistaa rekisterinumeron, kiitos?Joo, siis J-y-k 712. ->Eli J-y-k 712." -> 0.280
+
+resultat attendu : "Autossa on tayshuolto tehty juuri eli oljyt, suodattimet ja kaikki on vaihdettu."
+deepgram-nova-3 = "Autous on taysihuolto tehty juuri eli oljyt, suodattimet ja kaikki on vaihdettu." -> 0.167
+gladia = "Autossa on tayshuolto tehty juuri eli oljyt, suodattimet ja kaikki on vaihdettu." -> 0.000
+google-latest_long = "Autossa on tayshuolto tehty juuri eli oljyt suodattimet ja kaikki on vaihdettu." -> 0.000
+groq-whisper-large-v3 = "Autossa on juuri tayshuolto tehty eli oljyt, suodattimet ja kaikki on vaihdettu." -> 0.167
+groq-whisper-large-v3-turbo = "Autos on tayshuolto tehty juuri, eli oljyt, suodattimet ja kaikki on vaihdettu." -> 0.083
+elevenlabs = "Noo autos on tayshuolto tehty juuri eli oljyt, suodattimet ja kaikki on vaihdettu." -> 0.167
+fal = "Autossa on juuri tayshuolto tehty eli oljyt ja suodattimet on kaikki vaihdettu." -> 0.417
+openai-gpt-4o-transcribe = "Auton tayshuolto tehty juuri eli oljyt, suodattimet ja kaikki on vaihdettu." -> 0.167
+latice = "Oo, autossa on tayshuolto tehty juuri eli oljytuodattimet ja kaikki on vaihdettu." -> 0.167
+
+resultat attendu : "Mika sun rekkari oli? PKO 159. Eli PKO 150. Ei mennyt oikein. Mika sun rekisterin on? PKO 159. Eli PKO 159. Joo, se on oikein."
+deepgram-nova-3 = "Mikas sun rekkari oli? PKO sataviisikymmentayhdeksan Eli PKO sataviisikymmenta. Aa, ei mennyt oikein. Mika sun rekisterinolo on? PKO sataviisikymmentayhdeksan Pko-viisikymmentayhdeksan Eli Pko-viisitoistayhdeksan? Joo se on oikein." -> 0.250
+gladia = "Mikas sun rekkari oli? PKO 159. Eli PKO 150. Ei mennyt oikein. Mika sun rekisterin on? PKO 159. Eli PKO 159. Joo, se on oikein." -> 0.031
+google-latest_long = "Mikas sun rekkari oli oo PK 159 eli PKO 150 Aa ei mennyt oikein. Mika sun rekisterinumero on PKO 159 Eli pk159 joo joo Se on oikein Joo" -> 0.200
+groq-whisper-large-v3 = "Mika sun rekkari oli? PKO 159. Eli PKO 150. Ei mennyt oikein. Mika sun rekisterin on? PKO 159. Eli PKO 159. Joo, se on oikein." -> 0.000
+groq-whisper-large-v3-turbo = "Mikas sun rekkari oli? PKO 159. Eli PKO 150. Ei mennyt oikein. Mikas sun rekisterinomato on? PKO 159. Eli PKO 159. Joo, se on oikein." -> 0.094
+elevenlabs = "Mikas sun rekkari oli? Oo PKO 159. Eli P K O sata viiskymmenta. Ai ei menny oikein. Mika sun rekisterinumero on? PKO 159. Eli P K O yks viis yhdeksan. Joo joo, se on oikein. Joo." -> 0.300
+fal = "Mikas sun rekkari oli? PKO 159. Eli PKO 150. Ei mennyt oikein. Mika sun rekisterin on? PKO 159. Eli PKO 159. Joo, se on oikein." -> 0.031
+openai-gpt-4o-transcribe = "Mika sun rekkari oli?" -> 0.800
+latice = "Mikas sun rekkari oli? Oo, PKO-159. Eli PKO-150. Aa, ei mennyt oikein. Mika sun rekisterinomero on? PKO-159. Eli PKO-159. Joo, se on oikein." -> 0.062
+
+resultat attendu : "EGR-venttiili"
+deepgram-nova-3 = "Egeerventtiili" -> 1.000
+gladia = "EGR-venttiili." -> 0.000
+google-latest_long = "egr-venttiili" -> 0.000
+groq-whisper-large-v3 = "EGR-ventiili." -> 0.500
+groq-whisper-large-v3-turbo = "EGR venttili." -> 0.500
+elevenlabs = "EGR-venttiili." -> 0.000
+fal = "EGR-ventiili." -> 0.500
+openai-gpt-4o-transcribe = "EGR-venttiili." -> 0.000
+latice = "...EGR-venttiili." -> 0.000
+
+resultat attendu : "Mika sun nimi oli? Heikki Korhonen. Anteeksi, kuulin kun oikein sanoit Heikki Korhonen."
+deepgram-nova-3 = "Mika sun nimi oli? Ma oon Heikki Korhonen. Anteeksi, kuulinko oikein? Sanoit, tuliko Heikki Korhonen? Juu." -> 0.385
+gladia = "Mika sun nimi oli? No Heikki Korhonen. Anteeksi kuulin kun oikein sanoit Heikki Korhonen. Juu." -> 0.077
+google-latest_long = "Mika sun nimi oli? Ma oon Heikki Korhonen Anteeksi kuulinko oikein sanoa kun Heikki Korhonen juu." -> 0.462
+groq-whisper-large-v3 = "Mika sun nimi oli? Heikki Korhonen. Kuulin kun oikein sanoit Heikki Korhonen." -> 0.048
+groq-whisper-large-v3-turbo = "Mika sun nimi oli? Ma oon Heikki Korhonen. Anteeks kuulin ku oikein sanoi et on Heikki Korhonen. Juu." -> 0.538
+elevenlabs = "Mika sun nimi oli? Ma oon Heikki Korhonen. Anteeksi, kuulinko oikein? Sanoitko Heikki Korhonen. Juu." -> 0.385
+fal = "Mika sun nimi oli? No Heikki Korhonen. Anteeksi kuulin kun oikein sanoit Heikki Korhonen. Juu." -> 0.077
+openai-gpt-4o-transcribe = "Mika sun nimi oli?" -> 0.692
+latice = "Mika sun nimi oli? No, Heikki Korhonen. Anteeksi, kuulin kun oikein sanoin, etta Heikki Korhonen. Juu." -> 0.231
+
+resultat attendu : "Saisinko sinun kotiosoitteesi? Joo, puistotie 5, 13100 Hameenlinna. Okei, eli se oli puistotie 5, 13100 Hameenlinna. Oikein meni."
+deepgram-nova-3 = "Saisinko sinun kotiosoitteisiin? Juu, puistotie viisi, yksi, kolme, yksi, nolla, Hameenlinna. Okei, eli se oli. Puistotie viisimiljoonaa satatuhatta Hameenlinna. Oikein meni." -> 0.385
+gladia = "Saisinko sinun kotiosoitteesi? Joo, puistotie 513100 Hameenlinna. Okei, eli se oli puistotie 513100 Hameenlinna. Oikein meni." -> 0.000
+google-latest_long = "Saisinko sinun kotiosoitteesi? Juu Puistotie 513100, Hameenlinna Okei eli se oli Puistotie 51310 Hameenlinna oikein meni." -> 0.077
+groq-whisper-large-v3 = "Saisinko sinun kotiosoitteesi? Joo, puistotie 513100 Hameenlinna. Okei, eli se oli puistotie 513100 Hameenlinna. Oikein meni." -> 0.000
+groq-whisper-large-v3-turbo = "Saisinko sinun kotiosoitteesi? Juu, Puistotie 513100 Hameenlinna. Okei, eli se oli Puistotie 513100 Hameenlinna. Oikein meni." -> 0.000
+elevenlabs = "Saisinko sinun kotiosoitteesi? Juu. Puistotie viis, yks, kolme, yks, nolla, nolla, Hameenlinna. Okei, eli se oli Puistotie viisi, yksi, kolme, yksi, nolla, nolla, Hameenlinna. Oikein meni." -> 0.000
+fal = "Saisinko sinun kotiosoitteesi? Joo, puistotie 513100 Hameenlinna. Okei, eli se oli puistotie 513100 Hameenlinna. Oikein meni." -> 0.000
+openai-gpt-4o-transcribe = "Puistotie 51310 Hameenlinna." -> 0.923
+latice = "Saisinko sinun kotiosoitteesi? Juu, Puistotie 513100 Hameenlinna. Okei, eli se oli Puistotie 513100 Hameenlinna. Oikein meni." -> 0.000
+
+resultat attendu : "Tuleeko auton moottorista jotakin erikoisia aania? Ei taida."
+deepgram-nova-3 = "Ei taida." -> 0.750
+gladia = "Kuinka auton muottorikin herkosi aania? Ei taita." -> 0.583
+google-latest_long = "auton moottorista erikoisen jaamia Ei taida" -> 0.500
+groq-whisper-large-v3 = "Kuinka kauan auto muokkarista verkoisi jaamiin? Ei taita." -> 0.750
+groq-whisper-large-v3-turbo = "Kuvaako auta puhottorista erkoisia aania? Ei taita." -> 0.667
+elevenlabs = "(moottorin kayntia) Luulenko oon etta moottorissa hengitys jaanyt? Ei taida." -> 0.667
+fal = "-Mikalaikaan auton moottorista verkoisi jaamiin? -Ei taita." -> 0.583
+openai-gpt-4o-transcribe = "Ei taida." -> 0.750
+latice = "Jouduiko auton moottorista erikoisi jaamiin?yy Ei taita." -> 0.833
+
+resultat attendu : "ABS-yksikko."
+deepgram-nova-3 = "ABS-yksikko" -> 0.000
+gladia = "ABS-yksikko." -> 0.000
+google-latest_long = "ABS yksikko" -> 0.000
+groq-whisper-large-v3 = "ABS-yksikko." -> 0.000
+groq-whisper-large-v3-turbo = "ABS-yksikko." -> 0.000
+elevenlabs = "Puhuja 1: -ABS yksikko." -> 0.500
+fal = "ABS-yksikko." -> 0.000
+openai-gpt-4o-transcribe = "ABY-yksikko." -> 0.500
+latice = "ABS-yksikko" -> 0.000
+
+resultat attendu : "0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10."
+deepgram-nova-3 = "Nolla, y, kaa, k, ne, vi, kuu, seitseman, kahdeksan, yhdeksan" -> 1.000
+gladia = "0, Y, K, K, N, V, Q, 7, 8, 9." -> 1.000
+google-latest_long = "nolla y k 3 4 vi k 7 8 9" -> 1.000
+groq-whisper-large-v3 = "0, y, k, k, n, vi, ku, seitsema, kahdeksa, yhdeksa." -> 1.000
+groq-whisper-large-v3-turbo = "0, 1, 2, 3, 4, 4, 5, 6, 7, 8, 9." -> 1.000
+elevenlabs = "Nolla, yy, kaa, koo, nee, vii, kuu, seitteman, kaheksan, yheksan." -> 1.000
+fal = "0, y, k, k, n, vi, ku, seitsema, kaheksa, yhdeksa." -> 1.000
+openai-gpt-4o-transcribe = "Nolla, y, k, k, n, v, ku, seitsema, kahdeksa, yhdeksa." -> 1.000
+latice = "0 Y K K N E V Ku 7 8 9" -> 1.000
+
+resultat attendu : "Onko autosi katsastettu viimeisen vuoden aikana? On."
+deepgram-nova-3 = "" -> 1.000
+gladia = "Onko autosi patsottu viimeisen puheenvuoron aikana? On." -> 0.167
+google-latest_long = "Viimeisen puolen aikana" -> 0.714
+groq-whisper-large-v3 = "Onko autosi patsastettu viimeisen puheenvuoron? On." -> 0.250
+groq-whisper-large-v3-turbo = "Onko auton katsottu viimeisen tuolla aikana? On." -> 0.250
+elevenlabs = "(musiikki soi taustalla) Onko autoisi katsastettu viimeisen vuoden aikana? On." -> 0.333
+fal = "Onko autosi patsastettu viimeisen puheenvuoron aikana? - On." -> 0.167
+openai-gpt-4o-transcribe = "Odotanpa tassa sitten niin." -> 1.000
+latice = "Onko autoni katsastettu viimeisin tyovaena? On." -> 0.333
+
+resultat attendu : "Mika sun nimi oli? Jesse Nieminen. Kuulenko oikein, sanoitko Jesse Nieminen? Kylla."
+deepgram-nova-3 = "Mika sun nimi oli? Jesse Nieminen. Kuulinko oikein, etta sanoitko Jesse Nieminen? Kylla." -> 0.100
+gladia = "Mika sun nimi oli? Jesse Nieminen. Kuulenko oikein, sanoitko Jesse Nieminen? Kylla." -> 0.000
+google-latest_long = "Mika sun nimi oli? Jesse Nieminen kuulinko oikein? Sanoitko Jesse Nieminen kylla?" -> 0.083
+groq-whisper-large-v3 = "Mika sun nimi oli? Jesse Nieminen. Kuuleeko oikein, etta sanoitko Jesse Nieminen? Kylla." -> 0.100
+groq-whisper-large-v3-turbo = "Mika sun nimi oli? Jesse Nieminen. Kuulenko oikein, etta sanoitko Jesse Nieminen? Kylla." -> 0.050
+elevenlabs = "Mika sun nimi oli? Jesse Nieminen. Kuulinko oikein? Sanoitko Jesse Nieminen? Kylla." -> 0.083
+fal = "Mika sun nimi oli? Jesse Nieminen. Kuuleeko oikein, etta sanoitko Jesse Nieminen? Kylla." -> 0.100
+openai-gpt-4o-transcribe = "Mika sun nimi oli? Jesse Nieminen." -> 0.500
+latice = "Mika sun nimi oli? Jasse Nieminen. Kuulinko oikein, sanoisiko Jesse Nieminen? Kylla." -> 0.225
+
+resultat attendu : "Onks sun autossa havaittu oljynvuotoja? Ei oo!"
+deepgram-nova-3 = "" -> 1.000
+gladia = "Ei oo." -> 0.833
+google-latest_long = "Onko sulla autossa havaittu oljya ei oo" -> 0.500
+groq-whisper-large-v3 = "Onko sinulla oltu haluaiskaan yliopaivaa? Ei oo." -> 0.500
+groq-whisper-large-v3-turbo = "Han on se aloittaa vaikea. Ei joo." -> 0.500
+elevenlabs = "(musiikki soi taustalla) Onks se on ollu tavallaan ehka hyodyllinen? Ei oo." -> 0.900
+fal = "Haluaisin, etta naytit taman videon." -> 1.000
+openai-gpt-4o-transcribe = "On se outo tapaus." -> 1.000
+latice = "Onko se alusta vaihtoehdossa? Ei joo." -> 0.500
+
+resultat attendu : "Koja, jolla huomattiin pieni tarina jarrutuksessa. Levyissa lienee vahan heittoa."
+deepgram-nova-3 = "Koeajolla huomattiin pieni tarina jarrutuksessa. Levyissa lienee vahan heittoo." -> 0.292
+gladia = "Koja, jolla huomattiin pieni tarina jarrutuksessa. Levyissa lienee vahan heittoa." -> 0.000
+google-latest_long = "Koa ja koeajolla huomattiin pieni tarina jarrutuksessa levyissa lienee vahan heittoa." -> 0.300
+groq-whisper-large-v3 = "Koja, jolla huomattiin pieni tarina jarrutuksessa. Levyissa lienee vahan heittoa." -> 0.000
+groq-whisper-large-v3-turbo = "Koea, jolla huomattiin pieni tarina jarrutuksessa. Levyissa lienee vahan heittoa." -> 0.083
+elevenlabs = "Koeaja-- koeajolla huomattiin pieni tarina jarrutukses. Levyissa lienee vahan heittoo." -> 0.375
+fal = "Koja, jolla huomattiin pieni tarina jarrutuksessa. Levyissa lienee vahan heittoa." -> 0.000
+openai-gpt-4o-transcribe = "Koeajolla huomattiin pieni tarina jarrutuksessa, levyissa lienee vahan heittoa." -> 0.200
+latice = "Koja-ajoilla huomattiin pieni tarina jarrutuksessa, levyissa lienee vahan heittoa." -> 0.100
+
+resultat attendu : "Turboahdin."
+deepgram-nova-3 = "Turboahdin." -> 0.000
+gladia = "Turboahdin." -> 0.000
+google-latest_long = "turboahdin" -> 0.000
+groq-whisper-large-v3 = "Turboahdin." -> 0.000
+groq-whisper-large-v3-turbo = "Turboahdin." -> 0.000
+elevenlabs = "Turboahdin. Hmm." -> 0.000
+fal = "Turboahdin." -> 0.000
+openai-gpt-4o-transcribe = "Turboahdin." -> 0.000
+latice = "...turboahdin." -> 0.000
+
+resultat attendu : "Voitko kertoa sahkopostiosoitteesi? Joo, se on semmoinen kuin heikki.korhonen at hotmail.com Oliko se heikki.korhonen at hotmail.com? Kylla."
+deepgram-nova-3 = "Voitko kertoa sahkopostiosoitteesi? Joo, se on sellainen kuin heikki. Piste com Oliko se heikki. Korhonenhotmail piste com? Kylla" -> 0.350
+gladia = "Voitko kertoa sahkopostiosoitteesi? Joo, se on sellainen kuin heikki.korhonen at hotmail.com. Oliko se heikki.korhonen at hotmail.com? Kylla." -> 0.050
+google-latest_long = "Voitko kertoa sahkopostiosoitteeseen? Joo se on semmonen ku heikki.orhonen@ hotmail.com. Oliko se heikki.orina hotmail.com kylla?" -> 0.831
+groq-whisper-large-v3 = "Voitko kertoa sahkopostiosoitteesi? Joo, se on semmoinen kuin heikki.korhonen at hotmail.com Oliko se heikki.korhonen at hotmail.com? Kylla." -> 0.000
+groq-whisper-large-v3-turbo = "Voitko kertoa sahkopostiosoitteesi? Joo, se on semmonen ku heikki.korhonen at hotmail.com Oliko se heikki.korhonen at hotmail.com? Kylla." -> 0.057
+elevenlabs = "Voitko kertoa sahkopostiosoitteesi? Joo, se on semmonen ku heikki piste korhonen at hotmail piste com. Oliko se Heikki piste Korhonen at hotmail piste com? Kylla." -> 0.300
+fal = "Voitko kertoa sahkopostiosoitteesi? Joo, se on semmonen kuin heikki.korhonen@hotmail.com Oliko se heikki.korhonen@hotmail.com? Kylla." -> 0.029
+openai-gpt-4o-transcribe = "Voitko kertoa sahkopostiosoitteesi?" -> 0.850
+latice = "Voitko kertoa sahkopostiosoitteesi? Joo, se on semmoinen kuin heikki.korhonen at hotmail.com. Oliko se heikki.korhonen at hotmail.com? Kylla." -> 0.000
+
+resultat attendu : "LHR 245."
+deepgram-nova-3 = "LHR245" -> 0.000
+gladia = "LHR 245." -> 0.000
+google-latest_long = "lhr 245" -> 0.000
+groq-whisper-large-v3 = "LHR 245" -> 0.000
+groq-whisper-large-v3-turbo = "LHR245" -> 0.000
+elevenlabs = "LHR kaks nelja viis." -> 1.000
+fal = "LHR 245" -> 0.000
+openai-gpt-4o-transcribe = "LHR245." -> 0.000
+latice = "LHR-245" -> 0.000
+
+resultat attendu : "TQB771, eli Timo Quesadia Banaani 771."
+deepgram-nova-3 = "T-Gub B-seitsemankymmentayksi eli Timo, kesadia, banaani seitsemankymmentaseitsemanyksi" -> 1.000
+gladia = "Tegu B771 eli Timo Kesadia Banaani 771" -> 0.600
+google-latest_long = "tq b771 eli Timo kesadi ja banaani 77" -> 1.000
+groq-whisper-large-v3 = "Tegu B771 eli Timo Kesadia Banaani 771" -> 0.600
+groq-whisper-large-v3-turbo = "Tegu B771 eli Timo, Quesadilla, Banaani 771" -> 0.600
+elevenlabs = "TGB seitteman seitteman yks eli Timo, Quesadilla, banaani seitteman seitteman yks." -> 1.000
+fal = "Tegu B771 eli Timo Kesadia Banaani 771" -> 0.600
+openai-gpt-4o-transcribe = "TG-B771 eli Timo, Kesadia, Banaani 771." -> 0.600
+latice = "TGV-771 eli Timo Kesadi ja Banaani771" -> 0.600
+
+resultat attendu : "JQK 832"
+deepgram-nova-3 = "" -> 1.000
+gladia = "J.K. 832" -> 1.000
+google-latest_long = "jqk 832" -> 0.000
+groq-whisper-large-v3 = "J.K. 832" -> 1.000
+groq-whisper-large-v3-turbo = "Jigu K 832" -> 1.000
+elevenlabs = "Ji gu koo kahdeksan kolme kaksi." -> 1.000
+fal = "jgk832" -> 1.000
+openai-gpt-4o-transcribe = "JGK 832." -> 1.000
+latice = "JQK-832" -> 0.000
+deepgram-nova-3 = "JQK kahdeksankymmentakolmekaksi" -> 1.000
+gladia = "JQK 832" -> 0.000
+google-latest_long = "jqk 832" -> 0.000
+groq-whisper-large-v3 = "JQK 1832" -> 1.000
+groq-whisper-large-v3-turbo = "JQK 232" -> 1.000
+elevenlabs = "JQK kahdeksan kolme kaksi." -> 0.000
+fal = "jqk1032" -> 1.000
+openai-gpt-4o-transcribe = "JGK 832." -> 1.000
+latice = "JQK-832" -> 0.000
+
+resultat attendu : "Olisiko vihastointipuolto mahdollista yhdistaa vahingot jostain laskulla? Ei sita enaa. No, olisiko keskiviikon kolmasta jostain laskulla paalle? Niin se on parempi."
+deepgram-nova-3 = "" -> 1.000
+gladia = "Olisiko vihastoimpi puolto mahdollista 1-2. laskulla? Ei sita. No olisiko keskiviikko 13. laskulla paalle? Niin se on parempi." -> 0.429
+google-latest_long = "Olisiko joku auto mahdollista? Ei se kay No nosta keskiviikko 13, niin se on parempi." -> 0.667
+groq-whisper-large-v3 = "Olisiko viimeistoonkin puolta mahdollista yhdesta vahakestymalaskulla? Ei sita. No olisiko keskiviikon kolmasta jatkuvaa paalle? Niin se on parempi." -> 0.369
+groq-whisper-large-v3-turbo = "Olisiko vihastoitu huolta mahdollista 1-1 kohdista palvelusta? Ei sita. Olisiko keskiviikon 3-1 kohdista palvelusta? Niin se on parempi." -> 0.512
+elevenlabs = "(musiikki) Oliks se illastelun huolto mahdollista tiistain kahentoista maaliskuu? Ei, se kay. No olisko keskiviikko kolmastoista ma olen sita mielta. No se on parempi. (musiikki)" -> 0.952
+fal = "Olisiko vihastojen huolto mahdollista 1-2.2.? Ei sita. No olisiko keskiviikko 13.8. paiva? Niin se on parempi." -> 0.571
+openai-gpt-4o-transcribe = "Olisiko jumosta joku muu, joka osaisi pelata?" -> 0.952
+latice = "Olisiko ilmastointipuhelto mahdollistettu yhdistaan vahakaskyja laskalla? Ei sita. No, olisiko keskiviikko 13 paalla? Niin, se on parempi." -> 0.476
+
+resultat attendu : "Wasabi Risto Felina 106"
+deepgram-nova-3 = "Vassabi, Risto, pelina yksi nolla kuusi" -> 0.667
+gladia = "Vasabiristo-pelina 106" -> 1.000
+google-latest_long = "Siella ovat wasabi Risto pelina 106" -> 1.000
+groq-whisper-large-v3 = "Vasabiristo Pelina 106" -> 1.000
+groq-whisper-large-v3-turbo = "Wasabi Risto Pelina 106" -> 0.333
+elevenlabs = "Siella on- Wasabi, Risto, Felina yks nolla kuus." -> 1.000
+fal = "Vasabiristovelina 106." -> 1.000
+openai-gpt-4o-transcribe = "Wasabi Risto Felina 1-06." -> 0.000
+latice = "Vasabiristo-pelina... 106" -> 1.000
+
+resultat attendu : "QBF 307 Quesadilla ja banaani felina 307"
+deepgram-nova-3 = "Gubef kolmekymmentaseitseman eli kesadi ja banaani Felina kolmekymmentaseitseman" -> 0.800
+gladia = "GUBF 307 eli Kesadia Banaani Felina 307." -> 0.600
+google-latest_long = "qb 3007 eli kesadi ja banaani Felina 307" -> 0.600
+groq-whisper-large-v3 = "Gubf 307 eli kesadi ja banaani felina 307" -> 0.600
+groq-whisper-large-v3-turbo = "QBF 307 eli kesadija-banaanifelina 307." -> 0.800
+elevenlabs = "QBF kolme nolla seitteman eli quesadilla banaani felina kolme nolla seitteman." -> 1.000
+fal = "GUBF307 eli Kesadi ja banaani felina 307" -> 0.600
+openai-gpt-4o-transcribe = "QBF307 eli kesadia banaani felina 307." -> 0.400
+latice = "GBF-307 eli Quesadi ja Banaani Felina 307" -> 0.600
+
+resultat attendu : "Saisinko sinun autosi kilometrimaara? 187 000."
+deepgram-nova-3 = "Saisinko sinun autosin kilometrimaara? Satakaksikymmentaseitseman nolla." -> 0.625
+gladia = "Saisinko sinun autosi kilometrin maara? 127 000." -> 0.750
+google-latest_long = "Saisinko sinun autosi kilometrimaara 187 000?" -> 0.000
+groq-whisper-large-v3 = "Saisinko sinun autosi kilometrimaaraa? 127 000." -> 0.625
+groq-whisper-large-v3-turbo = "Saisinko sinun autosi kilometrin maaran? 187 000." -> 0.250
+elevenlabs = "(auton kikerrys) Saisinko sinun autosi kilometrimaaran? Satakahenskytseitseman tuhatta. (valikuoro)" -> 1.000
+fal = "Saisiko sinun autosi kilometrimaara? 127 000" -> 0.625
+openai-gpt-4o-transcribe = "Saisinko sinun autosi kilometrimaaran?" -> 0.250
+latice = "Saisinko sinun autosi kilometrin maaran? 287 000" -> 0.750
+
+resultat attendu : "Oljypumppu."
+deepgram-nova-3 = "Oljypumppu" -> 0.000
+gladia = "Oljypumppu." -> 0.000
+google-latest_long = "oljypumppu" -> 0.000
+groq-whisper-large-v3 = "oljypumppu." -> 0.000
+groq-whisper-large-v3-turbo = "Oljypumppu." -> 0.000
+elevenlabs = "Oljypumppu." -> 0.000
+fal = "oljypumppu" -> 0.000
+openai-gpt-4o-transcribe = "Oljypumppu." -> 0.000
+latice = "Oljypumppu." -> 0.000
+
+resultat attendu : "etuvalon umpio"
+deepgram-nova-3 = "Etuvalon umpio." -> 0.000
+gladia = "etuvalon umpio" -> 0.000
+google-latest_long = "etuvalon umpio" -> 0.000
+groq-whisper-large-v3 = "etuvalon umpio" -> 0.000
+groq-whisper-large-v3-turbo = "etuvalon umpio" -> 0.000
+elevenlabs = "Etuvalon umpio." -> 0.000
+fal = "etuvalon umpio" -> 0.000
+openai-gpt-4o-transcribe = "Etuvaloumpio." -> 1.000
+latice = "...Oo, etuvalon umpio." -> 0.000
+
+resultat attendu : "Haluaako tarkastuttaa jarrupalat? Kylla."
+deepgram-nova-3 = "Haluatko tahdosta taman napata? Kylla." -> 0.667
+gladia = "Haluatko taudasta?" -> 1.000
+google-latest_long = "Haluatko tarkastaa jarrut kylla?" -> 0.750
+groq-whisper-large-v3 = "Halutko tarkastaa jarraa? Kylla." -> 0.500
+groq-whisper-large-v3-turbo = "Haluatko tarkastuttaa Jarrokaan? Kylla." -> 0.333
+elevenlabs = "Haluatko tarkastuttaa jarruja? Kylla. (kohinaa)" -> 0.750
+fal = "Halutko tarkastaa Jarvoa? Kylla." -> 0.500
+openai-gpt-4o-transcribe = "Haluatko tavarasta tarjouksia?" -> 1.000
+latice = "Haluaako tarkastuttaa jarrota? Kylla." -> 0.167
+
+resultat attendu : "KOS 719."
+deepgram-nova-3 = "KOS seitsemantuhatta yhdeksansataayhdeksankymmentayhdeksan" -> 1.000
+gladia = "KOS 719" -> 0.000
+google-latest_long = "K os 719" -> 1.000
+groq-whisper-large-v3 = "KOS 719." -> 0.000
+groq-whisper-large-v3-turbo = "KOS 719." -> 0.000
+elevenlabs = "KOS 719." -> 0.000
+fal = "KOS 719." -> 0.000
+openai-gpt-4o-transcribe = "KOA7719." -> 1.000
+latice = "KOS-719" -> 0.000
+
+resultat attendu : "Paljonko autolla sinuun ajettu? 12 000"
+deepgram-nova-3 = "Paljuuko autollasi on ajettu? Kaksitoista nolla." -> 0.875
+gladia = "Paljonko autolla sinun on ajettu? 12 000" -> 0.250
+google-latest_long = "Paljonko autollasi on ajettu 12 000?" -> 0.500
+groq-whisper-large-v3 = "Paljonko autolla sinun ajettu? 12 000" -> 0.125
+groq-whisper-large-v3-turbo = "Paljonko autolla sijoin ajettu? 12 000." -> 0.125
+elevenlabs = "Paljonko autollasi on ajettu? Kakstoistatuhatta. (koira haukkuu)" -> 1.000
+fal = "Paljonko autolla sinun ajettiin? 12 000." -> 0.250
+openai-gpt-4o-transcribe = "Paljonko autollasi on ajettu?" -> 0.750
+latice = "Paljonko autolla se on ajettu? 12 000" -> 0.250
+
+resultat attendu : "Mikas on leidinen nimi? Anna-Mari Lehtinen. Anna-Mari eli valiviiva siihen valiin. Anna-Mari Lehtinen."
+deepgram-nova-3 = "Mikas on leidinen nimi? Anna-Mari Lehtinen, Anna-Mari, eli valiviivasia vali. Eli anna-Mari Lehtinen? Joo." -> 0.875
+gladia = "Mikas on leidinen nimi? Anna-Mari Lehtinen. Anna-Mari, eli valiviiva siihen valiin. Eli Anna-Mari Lehtinen. Joo." -> 0.062
+google-latest_long = "Mikas on leidin nimi? Annamari lehtinen eli valiviiva eli Anna viiva Mari Lehtinen Joo" -> 0.500
+groq-whisper-large-v3 = "Mikas on leidinen nimi? Anna-Mari Lehtinen. Anna-Mari. Eli valiviiva siihen valiin. Anna-Mari Lehtinen." -> 0.000
+groq-whisper-large-v3-turbo = "Mikas on Leidin nimi? Anna-Mari Lehtinen. Anna-Mari. Eli valiviiva siihen valiin. Anna-Mari Lehtinen. Joo." -> 0.062
+elevenlabs = "Mikas on leidinin nimi? Anna-Mari Lehtinen. Anna viiva Mari kirjoitetaan eli vaylaviiva siihen valiin. Eli Anna viiva Mari Lehtinen. Joo." -> 0.375
+fal = "Mikas on leidinen nimi? Anna-Mari Lehtinen. Anna-Mari. Eli valiviiva siihen valiin. Anna-Mari Lehtinen. Joo." -> 0.000
+openai-gpt-4o-transcribe = "Mikas on leidin nimi? Anna-Mari Lehtinen." -> 0.625
+latice = "Mikas on Leidinen nimi?Mari Lehtinen, Anna viiva Mari, eli valiin viiva siihen valiin.!!]Anna-Mari Lehtinen." -> 0.250
+
+resultat attendu : "Mika se sahkopostiosoite on? alisa-k.saari@yahoo.com Eli alisa-k.saari@yahoo.com Joo oikein. Hyva, kiitos."
+deepgram-nova-3 = "Mika sun sahkopostiosoite on? Alisa-k. Saarijahu piste com Eli alisa f. Saarijahu piste com Joo oikein. Hyva, kiitos." -> 0.400
+gladia = "Mika se sahkopostiosoite on? alisa-k.saari.com Eli alisa-k.saari.com Joo oikein. Hyva, kiitos." -> 0.190
+google-latest_long = "Mika sun sahkopostiosoite on? Oo alisaviiva k. Saari@johu.com eli Alisa vi k.saari jahuu.com Joo oikein hyva kiitos." -> 0.300
+groq-whisper-large-v3 = "Mika se on sahkopostiosoite? alisa-k.saari.com Eli alisa-k.saari.com Joo oikein. Hyva, kiitos." -> 0.262
+groq-whisper-large-v3-turbo = "Mika sen sahkopostiosite on? alisa-k.saari.jahoo.com Eli alisa-k.saari.jahoo.com Joo, oikein. Hyva, kiitos." -> 0.300
+elevenlabs = "Mika sun sahkopostiosoite on? Aa, alisa viiva k piste saari at yahoo piste com. Eli alisa viiva k piste saari at yahoo piste com. Joo oikein. Hyva. Kiitos!" -> 0.350
+fal = "Mika se sahkopostiosoite on? alisa-k.saari@yahoo.com Eli alisa-k.saari@yahoo.com Joo oikein. Hyva, kiitos." -> 0.000
+openai-gpt-4o-transcribe = "Mika sun sahkopostiosoite on?" -> 0.850
+latice = "Minka sinun sahkopostiosoite on?yy alisa-k.saari at yahoo.com!!] Eli alisa-k.saari at yahoo.com Joo, oikein. Kivol Hyva, kiitos." -> 0.250
+
+resultat attendu : "Saisinko sinun autosi kilometrin maaran? 156 000."
+deepgram-nova-3 = "Saisinko sinun autosi kilometrimaarana? Sataviisikymmentakuusi nolla." -> 0.700
+gladia = "Saisinko sinun autosi kilometrin maaran? 156 000" -> 0.000
+google-latest_long = "Saisinko sinun autosi kilometrimaaran 156 000?" -> 0.400
+groq-whisper-large-v3 = "Saisinko sinun autosi kilometrin maaran? 156 000." -> 0.000
+groq-whisper-large-v3-turbo = "Saisinko sinun autosi kilometrin maaran? 156 000." -> 0.000
+elevenlabs = "Saisinko sinun autosi kilometrimaaran? Sataviiskyt kuus tuhatta. (kovaa melua ja halya)" -> 1.000
+fal = "156 000" -> 1.000
+openai-gpt-4o-transcribe = "Saisinko sinun autosi kilometrimaaran?" -> 0.400
+latice = "Saisinko sinun autosi kilometrin maaran? 156 000." -> 0.000
+
+resultat attendu : "Ja mika sun nimi olikaan? Aleksi Laine. Okei, kuinka oikein sanotko Aleksi Laine? Joo."
+deepgram-nova-3 = "Ja mika sun nimi olikaan? Aleksi Laine. Okei, kuinkako oikein, etta sanoitko Aleksi Laine? Juu." -> 0.125
+gladia = "Ja mika sun nimi olikaan? Aleksi Laine. Okei, kuinka oikein et sano, et kun Aleksi Laine? Juu." -> 0.167
+google-latest_long = "Ja mika sun nimi olikaan Aleksi Laine Okei kuulinko oikeet sanoit Kun Aleksi Laine juu?" -> 0.308
+groq-whisper-large-v3 = "Ja mika sun nimi olikaan? Aleksi Laine. Okei, kuinka oikein et sano, et kun Aleksi Laine? Juu." -> 0.167
+groq-whisper-large-v3-turbo = "Ja mika sun nimi on? Aleksilaine. Okei, kuinka oikeat sanot kuin Aleksilaine? Juu." -> 0.467
+elevenlabs = "Ja mika sun nimi olikaan? Aleksi Laine. Okei, kuunnunko oikeet sanoitko Aleksi Laine? Juu." -> 0.125
+fal = "Ja mika sun nimi olikaan? Aleksilaine. Okei, kuinka oikein et sano, et kun Aleksilaine? Juu." -> 0.458
+openai-gpt-4o-transcribe = "Ja mika sun nimi olikaan?" -> 0.615
+latice = "Ja mika sun nimi olikaan? Aleksi Laine. Okei, kuulinko oikein, etta sanotko Aleksi Laine? Juu." -> 0.083
+
+resultat attendu : "KYV 505"
+deepgram-nova-3 = "KYV viisisataaviisi" -> 1.000
+gladia = "KYV 505" -> 0.000
+google-latest_long = "KV 505" -> 1.000
+groq-whisper-large-v3 = "KYV 505" -> 0.000
+groq-whisper-large-v3-turbo = "KUV505." -> 1.000
+elevenlabs = "(kohinaa) KYV-505." -> 1.000
+fal = "KYV 505" -> 0.000
+openai-gpt-4o-transcribe = "Koyve 505." -> 1.000
+latice = "KYV-505" -> 0.000
+
+resultat attendu : "Mika on kotiosoitteesi? Se on sellainen kuin Katajatie 12 A3 Helsinki. Okei, sainko oikein Katajatie 12 A3 Helsinki? Joo, kylla."
+deepgram-nova-3 = "Mika on kotiosoitteesi? Se on sellainen kuin Katajatie 12A3 Helsinki. Okei, sainko oikein? Katajatie 12A3 Helsinkiin. Joo, kylla." -> 0.059
+gladia = "Mika on kotiosoitteesi? Se on sellainen kuin Katajatie 12 A3 Helsinki. Okei, sainko oikein Katajatie 12 A3 Helsinki? Joo, kylla." -> 0.000
+google-latest_long = "Mika on kotiosoitteesi? Se on sellainen kuajatie 12 A3 Helsinki Okei Sainko oikein Katajatie 12 A3 Helsinki Joo kylla" -> 0.118
+groq-whisper-large-v3 = "Mika on kotiosoitteesi? Se on sellainen kuin Katajatie 12 A3 Helsinki. Okei, saiko oikein Katajatie 12 A3 Helsinki? Joo, kylla." -> 0.042
+groq-whisper-large-v3-turbo = "Mika on kotiosoitteesi? Se on sellainen kuin Katajatie 12A3 Helsinki. Okei, sainko oikein Katajatie 12A3 Helsinki? Joo, kylla." -> 0.000
+elevenlabs = "Mika on kotiosoitteesi? Se on sellanen ku Katajatie kakstoista A kolme, Helsinki. Okei, sainko oikein? Katajatie kakstoista A kolme, Helsinki. Joo, kylla." -> 0.353
+fal = "Mika on kotiosoitteesi? Se on sellainen kuin Katajatie 12 A3 Helsinki. Okei, saiko oikein Katajatie 12 A3 Helsinki? Joo, kylla." -> 0.042
+openai-gpt-4o-transcribe = "Mika on kotiosoitteesi?" -> 0.824
+latice = "Mika on kotiosoitteesi? Se on sellainen kuin Katajatie 12 A 3 Helsinki. Okei, sainko oikein Katajatie 12 A 3 Helsinki? Joo, kylla." -> 0.000
+
+resultat attendu : "RFT 254."
+deepgram-nova-3 = "RFT kaksikymmentaviisi nelja" -> 1.000
+gladia = "RFT 254." -> 0.000
+google-latest_long = "rft254" -> 0.000
+groq-whisper-large-v3 = "RFT 254." -> 0.000
+groq-whisper-large-v3-turbo = "Er efta koksvis nelja." -> 1.000
+elevenlabs = "Nopeasti, RFT kaks viis nelja." -> 1.000
+fal = "rft254" -> 0.000
+openai-gpt-4o-transcribe = "RFT254." -> 0.000
+latice = "RFT-254" -> 0.000
+
+resultat attendu : "Saisinko sinun kotiosoitteesi? Joo, Kiviharjontie 3 C14 Oulu. Okei, eli se on Kiviharjontie 3 C14 902 20 Oulu. Joo, oikein."
+deepgram-nova-3 = "Saisinko sinun kotiosoitteesi? Joo, kiviharjontie 3C4:ta Oulu. Okei, eli se on kiviharjontie 3C4 on yhdeksansataakaksikymmentakaksi ollut. Joo, oikein." -> 0.310
+gladia = "Saisinko sinun kotiosoitteesi? Joo, Kiviharjontie 3 C14 Oulu. Okei, eli se oli Kiviharjontie 3 C14 902 20 Oulu. Joo, oikein." -> 0.036
+google-latest_long = "Saisinko sinun kotiosoitteesi? Joo kivihari on tie 3 C 14, Oulu Okei eli se oli Kiviharjuntie 3 C 1490220 Oulu Joo oikein" -> 0.357
+groq-whisper-large-v3 = "Saisinko sinun kotiosoitteesi? Joo, Kiviharjontie 3 C14 Oulu. Okei, eli se oli Kiviharjontie 3 C14 902 20 Oulu. Joo, oikein." -> 0.036
+groq-whisper-large-v3-turbo = "Saisinko sinun kotiosoitteesi? Joo, Kiviharjontie 3C14 Oulu. Okei, eli se oli Kiviharjontie 3C14 90220 Oulu. Joo, oikein." -> 0.036
+elevenlabs = "(auton kohina) Saisinko sinun kotiosoitteesi? Joo. Kiviharjuntie 3C 14 Oulu. Okei, eli se on Kiviharjuntie 3C 14, 90220 Oulu. Joo, oikein." -> 0.286
+fal = "Saisinko sinun kotiosoitteesi? Joo, Kiviharjontie 3 C14 Oulu. Okei, eli se oli Kiviharjontie 3 C14 902 20 Oulu. Joo, oikein." -> 0.036
+openai-gpt-4o-transcribe = "Saisinko sinun kotiosoitteesi?" -> 0.786
+latice = "Saisinko sinun kotiosoitteesi? Joo, kiviharjontie 3 C 14 Oulu. Okei, eli se oli kiviharjontie 3 C 14 902 20 Oulu. Joo, oikein." -> 0.036
+
+resultat attendu : "jqk 832"
+deepgram-nova-3 = "" -> 1.000
+gladia = "JQK 832" -> 0.000
+google-latest_long = "jqk 832" -> 0.000
+groq-whisper-large-v3 = "jqk 832" -> 0.000
+groq-whisper-large-v3-turbo = "JQK 832" -> 0.000
+elevenlabs = "JQK 832." -> 0.000
+fal = "jqk 832" -> 0.000
+openai-gpt-4o-transcribe = "JKK 832." -> 1.000
+latice = "Jqk 8 3 2" -> 0.000
+
+resultat attendu : "MTA 492"
+deepgram-nova-3 = "MTA nelja yhdeksankymmentakaksi" -> 1.000
+gladia = "MTA492" -> 0.000
+google-latest_long = "mta 492" -> 0.000
+groq-whisper-large-v3 = "MTA492" -> 0.000
+groq-whisper-large-v3-turbo = "MTA 492" -> 0.000
+elevenlabs = "MTA492." -> 0.000
+fal = "MTA492" -> 0.000
+openai-gpt-4o-transcribe = "MTA 492." -> 0.000
+latice = "MTA-492" -> 0.000
+
+resultat attendu : "Voitaisko taakastaa tuon ilmastonilanteen tilanne tiistaina 18. kesakuuta kello 13? Ei sekaan. No mites toi keskiviikko 19. kesakuuta kello 15? No silloin varmaan parantetaan se."
+deepgram-nova-3 = "Voitaisiinko taakastata ilmastontilaiteen tilanne viisitoista kahdeksantoista. Kesakuuta kello kolmetoista? Ei sekaan. Miten keskiviikko, kesakulut kello viisitoista? Se on varmaan parempi, otetaan se." -> 0.714
+gladia = "Voitaisko tarkastaa tuon ilmaston tilanteen tilanne tiistaina 18. kesakuuta kello 13? Ei sekaan. No mites toi keskiviikko 19. kesakuuta kello 15? No siina on varmaan parempi, otetaan se." -> 0.217
+google-latest_long = "Voitaisko tarkastaa ton ilmastointilaiteen tilanne tiistaina 18. Kesakuuta kello 13. Ei se kay. No mites toi keskiviikko 19. Kesakuuta kello 15. No se on varmaan parempi otetaan se." -> 0.383
+groq-whisper-large-v3 = "Voitaisko tarkastaa tuon ilmastonilanteen tilanne tiistaina 18. kesakuuta kello 13? Ei sekaan. No mites toi keskiviikko 19. kesakuuta kello 15? No siina on varmaan parempi. Otetaan se." -> 0.238
+groq-whisper-large-v3-turbo = "Voitaisko takastaa ilmastointilaiden tilanne tiistan 18. kesakuuta klo 13? Ei se kay. Mites keskiviikko 19. kesakuuta klo 15? Siina on varmaan parempi oltakaan se." -> 0.661
+elevenlabs = "Voitasko tarkastaa ton ilmastointilaitteen tilanne tiistaina kahdeksastoista kesakuuta kello kolmetoista? Ei se kay. No mites toi keskiviikko yheksastoista kesakuuta kello viistoista? No se on varmaan parempi. Otetaan se. (sireenit ja halytysauksen aani)" -> 1.000
+fal = "Voitaisko tarkastaa tuon ilmastonilanteen tilanne tiistaina 18. kesakuuta kello 13? Ei sekaan. No mites toi keskiviikko 19. kesakuuta kello 15? No siina on varmaan parempi. Otetaan se." -> 0.238
+openai-gpt-4o-transcribe = "Voidaisko tarkastaa ton ilmastointilaitteen tilanne tiistaina 18. kesakuuta kello 13? Ei se kay. No mites toi keskiviikko 19. kesakuuta kello 15? No siella on varmaan parempi, otetaan se." -> 0.411
+latice = "Voikasko taakastaa tuon ilmastointilaiteen tilanne tiistoon 18. kesakuuta kello 13? Ei se kay. No mitas toi keskiviikkoon, 19. kesakuuta kello 15? No, siina on varmaan parhan peltotaseen." -> 0.467
+
+resultat attendu : "Tarvitseeko su auton oljyvaihtoa? Ei."
+deepgram-nova-3 = "" -> 1.000
+gladia = "Tarvitseeko sinun auton oljypaikkaa? Ei." -> 0.250
+google-latest_long = "Tarvitseeko sun auton oljynvaihtoa? Ei" -> 0.250
+groq-whisper-large-v3 = "Tarvitseeko se auton oljypaikkaa? Ei." -> 0.250
+groq-whisper-large-v3-turbo = "Tarktoista aiheis-osnailtoja? Itsea tai siis ehka ole actakkeita TOI?" -> 1.000
+elevenlabs = "(puheensorinaa) Tarviitsa jotain auttaa oljyn vaihtoon? En. (haitarimusiikkia)" -> 1.000
+fal = "Ei." -> 0.800
+openai-gpt-4o-transcribe = "Kalenterin mukaan joo." -> 1.000
+latice = "Tarvitseeko se autoon oljynvoittoa? Ei." -> 0.375
+
+resultat attendu : "Mika on autosi mittariluku? 99 000"
+deepgram-nova-3 = "Mika on autosin mittari mukaan? Yhdeksankymmentayhdeksantuhatta." -> 0.875
+gladia = "Mika on autosi mittariluku? 99 000" -> 0.000
+google-latest_long = "Mika on autosimittariliike 99 000?" -> 0.500
+groq-whisper-large-v3 = "Mika on autosi mittariluku? 99 000." -> 0.000
+groq-whisper-large-v3-turbo = "Mika on autosi mittariluja? 99 000." -> 0.125
+elevenlabs = "Mika on autosi mittariluku. Yheksankyt yheksan tuhatta." -> 0.500
+fal = "Mika on autosi mittariluku? 99 000" -> 0.000
+openai-gpt-4o-transcribe = "Mika on auton mittarilukema?" -> 0.500
+latice = "Mika on autosi mittarilukea? 99 000" -> 0.125
+
+resultat attendu : "Mika sun nimi on? Alisa Koivusaari. Alisa Koivusaari. Joo, Alisa on yhdella i."
+deepgram-nova-3 = "Mika sun nimi on? Alisa Koivusaari. Alisa Koivusaari? Joo Alisa on yhdella illalla. OK." -> 0.167
+gladia = "Mika sun nimi on? Alisa Koivusaari. Alisa Koivusaari. Joo, Alisa on yhdella iilla. Okei." -> 0.167
+google-latest_long = "Mika sun nimi on? Alisa Koivussa Alisa Joo Ali saa yhdella illa ok." -> 0.500
+groq-whisper-large-v3 = "Mika sun nimi on? Alisa Koivusaari. Alisa Koivusaari. Joo, Alisa on yhdella i." -> 0.000
+groq-whisper-large-v3-turbo = "Mika sun nimi on? Alisa Koivusaari. Alisa Koivusaari. Joo, Alisa on yhdella illa." -> 0.062
+elevenlabs = "Mika sun nimi on? Alisa Koivusaari. Alisa, Koivusaari. Joo. Alisa yhdella i:lla. Ok." -> 0.250
+fal = "Mika sun nimi on? Alisa Koivusaari. Alisa Koivusaari. Joo, Alisa on yhdella iilla. Okei." -> 0.167
+openai-gpt-4o-transcribe = "Mika sun nimi on? Alisa Koivusaari." -> 0.500
+latice = "Mika sun nimi on? Alisa Koivusaari. Alisa Koivusaari. Joo, Alisa on yhdella iilla. Ok." -> 0.167
+
+resultat attendu : "KYW 505"
+deepgram-nova-3 = "KY V505" -> 1.000
+gladia = "KYW 505" -> 0.000
+google-latest_long = "Ky Tupla v505" -> 1.000
+groq-whisper-large-v3 = "KYW 505" -> 0.000
+groq-whisper-large-v3-turbo = "KUW405" -> 1.000
+elevenlabs = "(kohinaa) KYW 505." -> 1.000
+fal = "KYW 505" -> 0.000
+openai-gpt-4o-transcribe = "KYW505." -> 0.000
+latice = "KYW 5 0 5" -> 0.000
+
+resultat attendu : "Saisinko sinun kotiosoitteesi? Joo, Ruusukuja 6, se on Turussa. Ja niin, postinumero 20740. Okei, eli se oli Ruusukuja 6 20740 turku. Kylla."
+deepgram-nova-3 = "Saisinko sinun kotiosoitteesi? Joo, ruusukuja kuusi se on Turussa. Ja niin postinumero kaksituhatta seitseman neljakymmenta. Okei, eli se oli ruusukuja kuusisataakaksikymmenta seitsemansataanelja. Kylla." -> 0.133
+gladia = "Saisinko sinun kotiosoitteesi? Joo, Ruusukuja 6, se on Turussa. Ja niin, postinumero 20740. Okei, eli se oli Ruusukuja 62 0 740 tulku. Kylla." -> 0.033
+google-latest_long = "Saisinko sinun kotiosoitteesi? Joo Ruusukuja 6. Se on Turussa Ja niin postinumero 20740 Okei eli se oli Ruusukuja 62740 Turku kylla." -> 0.059
+groq-whisper-large-v3 = "Saisinko sinun kotiosoitteesi? Joo, Ruusukuja 6, se on Turussa. Ja postinumero 20740. Okei, eli se oli Ruusukuja 62 0 740-kulku. Kylla." -> 0.100
+groq-whisper-large-v3-turbo = "Saisinko sinun kotiosoitteesi? Joo, Ruusukuja 6, se on Turussa. Ja niin, postinumero 20740. Okei, eli se oli Ruusukuja 620740-tulku? Kylla." -> 0.033
+elevenlabs = "Saisinko sinun kotiosoitteesi? Joo, Ruusukuja kuus. Se on Turussa. Ja niin postinumero. Kaks nolla seitseman neljakymmenta. Okei, eli se oli Ruusukuja kuus, kaksi, nolla, seitseman, nelja, nolla, Turku. Kylla." -> 0.353
+fal = "Saisinko sinun kotiosoitteesi? Joo, Ruusukuja 6, se on Turussa. Ja postinumero 20740. Okei, eli se oli Ruusukuja 62 0 740 6. Kylla." -> 0.133
+openai-gpt-4o-transcribe = "Saisinko sinun kotiosoitteesi?" -> 0.824
+latice = "Saisinko sinun koti osoitteeseen? Joo, ruusukuja 6, se on Turussa. Ja niin, postinumero 20740. Okei, eli se oli ruusukuja 620-740 tulku. Kylla." -> 0.167
+
+resultat attendu : "Haluatteko, etta tarkastetaan akun kunto? Juu."
+deepgram-nova-3 = "" -> 1.000
+gladia = "Ma luulen, etta se tarkastaa atuja" -> 1.000
+google-latest_long = "Lopeta tarkastella akun kunta juu." -> 0.800
+groq-whisper-large-v3 = "Haluatteko tarkastella apuvuodon? Joo." -> 0.400
+groq-whisper-large-v3-turbo = "Haluatko tarkoittaa akuvinta? Joo." -> 0.500
+elevenlabs = "(mielenkiintoinen musiikki) Haluutteko tarkastella akunkuntaa? Juu." -> 0.500
+fal = "Haluatteko tarkastella apuvuodon? Joo." -> 0.400
+openai-gpt-4o-transcribe = "Onko tapahtunut jotain?" -> 1.000
+latice = "Haluatko sa nyt tarkastella akua kuntoon? Juu." -> 0.600
+
+average WER by stt:
+latice -> 0.198
+groq-whisper-large-v3 -> 0.271 (-37.26%)
+gladia -> 0.278 (-40.68%)
+fal -> 0.290 (-46.57%)
+groq-whisper-large-v3-turbo -> 0.359 (-81.92%)
+google-latest_long -> 0.513 (-159.76%)
+elevenlabs -> 0.553 (-180.16%)
+openai-gpt-4o-transcribe -> 0.614 (-210.81%)
+deepgram-nova-3 -> 0.639 (-223.51%)
+
+number of WER=0 and WER=1 by stt:
+latice -> WER=0: 118, WER=1: 16
+groq-whisper-large-v3 -> WER=0: 115, WER=1: 37
+gladia -> WER=0: 112, WER=1: 38
+fal -> WER=0: 110, WER=1: 37
+groq-whisper-large-v3-turbo -> WER=0: 89, WER=1: 50
+google-latest_long -> WER=0: 54, WER=1: 71
+elevenlabs -> WER=0: 53, WER=1: 90
+openai-gpt-4o-transcribe -> WER=0: 49, WER=1: 87
+deepgram-nova-3 -> WER=0: 37, WER=1: 111
+
+average latency by stt:
+groq-whisper-large-v3-turbo -> 0.389s
+groq-whisper-large-v3 -> 0.389s (+0.18%)
+latice -> 0.511s (+31.61%)
+elevenlabs -> 0.823s (+111.84%)
+openai-gpt-4o-transcribe -> 0.981s (+152.47%)
+google-latest_long -> 1.249s (+221.45%)
+fal -> 1.276s (+228.36%)
+deepgram-nova-3 -> 2.129s (+447.95%)
+gladia -> 6.836s (+1659.57%)
+
+global average latency -> 1.620s

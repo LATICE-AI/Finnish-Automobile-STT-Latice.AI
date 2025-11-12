@@ -1,0 +1,866 @@
+{
+  "bench finland stt/3f03c5f8-efed-492c-88e3-72e20432f149.wav": {
+    "text": "renkaiden kulutuspinta on tasainen eli pyörän kulmat ja aurauskulmat on kunnossa.",
+    "category": "Jargon_audio_Parts_and_sentences"
+  },
+  "bench finland stt/bc9ee156-ed3a-4997-ae46-bb6d25003fd5.wav": {
+    "text": "Katsastuksesta tuli hylky alapallon nivelästä. Vaihdetaan se nyt.",
+    "category": "Jargon_audio_Parts_and_sentences"
+  },
+  "bench finland stt/8cdda888-c952-4fa4-bdb7-963a262e9521.wav": {
+    "text": "Autossa on pieni pakovuoto, sen takia se ei mennyt läpi päästömittauksesta.",
+    "category": "Jargon_audio_Parts_and_sentences"
+  },
+  "bench finland stt/531d42ca-a575-4959-8ba6-eab78f83fd1d.wav": {
+    "text": "Tämä käy vähän rikkaalla seoksella. Lambda-arvois on vähän heittoa.",
+    "category": "Jargon_audio_Parts_and_sentences"
+  },
+  "bench finland stt/db70e46f-3966-4490-b823-2bc844c1cc1a.wav": {
+    "text": "Koja, jolla huomattiin pieni tärinä jarrutuksessa. Levyissä lienee vähän heittoa.",
+    "category": "Jargon_audio_Parts_and_sentences"
+  },
+  "bench finland stt/1e343a40-455f-4177-b387-e4be1a7484cf.wav": {
+    "text": "Jakohihna.",
+    "category": "Jargon_audio_Parts_and_sentences"
+  },
+  "bench finland stt/75997234-eca9-41a7-8585-6f7d676a0a21.wav": {
+    "text": "Nokkaakseli.",
+    "category": "Jargon_audio_Parts_and_sentences"
+  },
+  "bench finland stt/4eb08382-db16-478d-8a9b-46e436d04e6d.wav": {
+    "text": "Huoltokirja on leimattu merkkiliikkeessä eli historia on kunnossa.",
+    "category": "Jargon_audio_Parts_and_sentences"
+  },
+  "bench finland stt/e689b598-b900-4a87-ab71-4cb4a431f189.wav": {
+    "text": "Öljypumppu.",
+    "category": "Jargon_audio_Parts_and_sentences"
+  },
+  "bench finland stt/cca8550c-c66f-4b97-a1cf-1ff715516f6a.wav": {
+    "text": "EGR-venttiili",
+    "category": "Jargon_audio_Parts_and_sentences"
+  },
+  "bench finland stt/7be300e9-8b32-4171-a403-7c08887abc30.wav": {
+    "text": "Kampiakseliin asentoanturi.",
+    "category": "Jargon_audio_Parts_and_sentences"
+  },
+  "bench finland stt/dc9ce89d-fde8-4daa-b292-c21abd1ab99c.wav": {
+    "text": "Turboahdin.",
+    "category": "Jargon_audio_Parts_and_sentences"
+  },
+  "bench finland stt/69509587-c481-45af-9a79-20b4e519b61a.wav": {
+    "text": "Starttimoottori",
+    "category": "Jargon_audio_Parts_and_sentences"
+  },
+  "bench finland stt/21c82ead-a4e7-4c06-812c-83c4369f7843.wav": {
+    "text": "Moottorin vikavalo palaa, mutta todennäköisesti siellä ei ole mitään rikki, se pitää vaan nollata.",
+    "category": "Jargon_audio_Parts_and_sentences"
+  },
+  "bench finland stt/32fb04d1-b61e-4761-ac4b-e771ce06e774.wav": {
+    "text": "Laakeri.",
+    "category": "Jargon_audio_Parts_and_sentences"
+  },
+  "bench finland stt/d1323387-25a6-4be4-bb2f-eee29aa495a3.wav": {
+    "text": "ABS-yksikkö.",
+    "category": "Jargon_audio_Parts_and_sentences"
+  },
+  "bench finland stt/e6b922d9-1bb2-476b-8fa6-0d1e044cc557.wav": {
+    "text": "etuvalon umpio",
+    "category": "Jargon_audio_Parts_and_sentences"
+  },
+  "bench finland stt/339f9cfd-e92e-4a4d-a07d-1efcaf227822.wav": {
+    "text": "Tehdään ensin vikakoodien luku ja katsotaan sitten mitä toi ohjaajanlaite sanoo.",
+    "category": "Jargon_audio_Parts_and_sentences"
+  },
+  "bench finland stt/6c93b1e1-d789-4e07-95e5-a782e63a7a48.wav": {
+    "text": "Jakohina pitäisi vaihtaa. Se on tehty viimeksi 90 000 km sitten.",
+    "category": "Jargon_audio_Parts_and_sentences"
+  },
+  "bench finland stt/4b5b16d0-b522-465d-8b29-fd5ea2d89a48.wav": {
+    "text": "Katsotaan samalla noi jarrulevyjen paksuudet, niis alkaa olee kyllä kulumaa näissä kilometreissä.",
+    "category": "Jargon_audio_Parts_and_sentences"
+  },
+  "bench finland stt/c9483da7-2390-4c47-86ef-5e81ded8cda8.wav": {
+    "text": "Autossa on täyshuolto tehty juuri eli öljyt, suodattimet ja kaikki on vaihdettu.",
+    "category": "Jargon_audio_Parts_and_sentences"
+  },
+  "bench finland stt/62b5673d-203b-4ca3-becd-8321169941c5.wav": {
+    "text": "Tämä on se facelift-malli. Tässä on uudempi valotekniikka.",
+    "category": "Jargon_audio_Parts_and_sentences"
+  },
+  "bench finland stt/91ec12ab-20a9-41cc-b275-312f048de8dd.wav": {
+    "text": "Katsotaan samalla ne alustan pulsat. Ne on monesti kuluneet näissä kilometreissä.",
+    "category": "Jargon_audio_Parts_and_sentences"
+  },
+  "bench finland stt/d8afe2c2-aa2c-4c7e-aedd-635e863aa098.wav": {
+    "text": "0, 1, 2, 3, 4, 5, 6, 7, 8, 9.",
+    "category": "Numbers"
+  },
+  "bench finland stt/9f6a97f4-31c9-4c2a-9320-0981e83e58b2.wav": {
+    "text": "0, 1, 2, 3, 4, 5, 6, 7, 8, 9.",
+    "category": "Numbers"
+  },
+  "bench finland stt/82ac9987-1251-43d4-ad0b-ea9f52ecb394.wav": {
+    "text": "0, 1, 2, 3, 4, 5, 6, 7, 8, 9",
+    "category": "Numbers"
+  },
+  "bench finland stt/d13d32f4-d367-4e90-ad14-563384c77d84.wav": {
+    "text": "0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.",
+    "category": "Numbers"
+  },
+  "bench finland stt/05c712fb-c3de-478c-bcd5-f17e2ea21b5e.wav": {
+    "text": "Kaksi tonnia. 80 tonnia, 90 tonnia, 100 tonnia, 150 tonnia, 200 tonnia, 300 tonnia, 2 400 tonnia",
+    "category": "Numbers"
+  },
+  "bench finland stt/883c6564-16cc-417a-8600-32c655304e83.wav": {
+    "text": "Saisinko sinun autti kilometrin määrän? Kymmenen tuhatta.",
+    "category": "Odometer"
+  },
+  "bench finland stt/e7779acf-912c-4db3-a72e-399de5f2764a.wav": {
+    "text": "Paljonko autolla sinuun ajettu? 12 000",
+    "category": "Odometer"
+  },
+  "bench finland stt/ebd7a996-2999-403f-ba2f-c36cf0d95332.wav": {
+    "text": "Saisinko sinun autosi kilometrin määrän? 156 000.",
+    "category": "Odometer"
+  },
+  "bench finland stt/e5f5c120-33d9-4227-9f75-d84a96022f5f.wav": {
+    "text": "Saisinko sinun autosi kilometrimäärä? 187 000.",
+    "category": "Odometer"
+  },
+  "bench finland stt/10d67d3e-b9e1-41b5-aa01-14943b921b57.wav": {
+    "text": "Paljonko autolla sinä olet ajettu? 46 000.",
+    "category": "Odometer"
+  },
+  "bench finland stt/4e179bb9-927a-4ce5-abd3-1bc0ca6b0f09.wav": {
+    "text": "Saisinko sinun autosi kilometrin äänen? Joo, 52 000.",
+    "category": "Odometer"
+  },
+  "bench finland stt/c11b6659-bb49-496a-83f6-d9992d33fbf5.wav": {
+    "text": "Mikä on autos mittarikuken? 8000",
+    "category": "Odometer"
+  },
+  "bench finland stt/fa1fb27e-0644-4312-b1cd-20c8be021436.wav": {
+    "text": "Mikä on autosi mittariluku? 99 000",
+    "category": "Odometer"
+  },
+  "bench finland stt/f40965c5-34ab-42aa-9952-858785a9471d.wav": {
+    "text": "BVB 808",
+    "category": "registration_number"
+  },
+  "bench finland stt/894f57c6-b67f-4e5a-81aa-9e79a011bab1.wav": {
+    "text": "BVB 808",
+    "category": "registration_number"
+  },
+  "bench finland stt/07794c70-187d-4d8a-b19b-5f904a3c29fc.wav": {
+    "text": "BVB808",
+    "category": "registration_number"
+  },
+  "bench finland stt/9b1bbd3f-0622-403b-988e-c53c75961711.wav": {
+    "text": "BVB808",
+    "category": "registration_number"
+  },
+  "bench finland stt/2f3dfe27-6f65-4d81-884a-6d3a8c50b231.wav": {
+    "text": "CCK 060",
+    "category": "registration_number"
+  },
+  "bench finland stt/7e63c249-6db8-4509-b6a7-a965057c25fe.wav": {
+    "text": "CCK 060",
+    "category": "registration_number"
+  },
+  "bench finland stt/7d20837e-9385-4e4c-8f60-29b0c18ad3b8.wav": {
+    "text": "CCK 060",
+    "category": "registration_number"
+  },
+  "bench finland stt/0039a99f-8559-4e5a-81aa-2e71d831cc9d.wav": {
+    "text": "CCK 060",
+    "category": "registration_number"
+  },
+  "bench finland stt/2d1d535f-3dc2-4d7f-8d89-b5a69a9560d6.wav": {
+    "text": "CCK 606",
+    "category": "registration_number"
+  },
+  "bench finland stt/8a924d13-7e83-4413-872a-8a7f6591dcaa.wav": {
+    "text": "CCK 606",
+    "category": "registration_number"
+  },
+  "bench finland stt/642bc202-a799-4361-bc62-00a986feaac0.wav": {
+    "text": "gwz100",
+    "category": "registration_number"
+  },
+  "bench finland stt/d859975d-9178-41fe-ba88-4e3083728040.wav": {
+    "text": "gwz100",
+    "category": "registration_number"
+  },
+  "bench finland stt/4a2d2eff-43aa-41ff-a249-44f886371c43.wav": {
+    "text": "HLM 983",
+    "category": "registration_number"
+  },
+  "bench finland stt/68d46fb6-a5e3-4b39-b237-69504d1a2803.wav": {
+    "text": "HLM 983",
+    "category": "registration_number"
+  },
+  "bench finland stt/371e6362-88f9-4993-8b8e-7d7302b7294b.wav": {
+    "text": "HLM 983",
+    "category": "registration_number"
+  },
+  "bench finland stt/82d2d91f-b226-4b13-98d1-b03460b72c2b.wav": {
+    "text": "IIL 117",
+    "category": "registration_number"
+  },
+  "bench finland stt/3004b6fa-43c9-42f3-8658-dfefeb27bd55.wav": {
+    "text": "IIL 117",
+    "category": "registration_number"
+  },
+  "bench finland stt/322a1073-e9e5-4cb4-a77a-9bc1d12c63ec.wav": {
+    "text": "IIL 117",
+    "category": "registration_number"
+  },
+  "bench finland stt/bb83ba04-bfc8-4663-a7e8-55af5d40c55d.wav": {
+    "text": "IIL 117",
+    "category": "registration_number"
+  },
+  "bench finland stt/23b011b8-1f72-4d8c-93e2-e21c7f8ce3b5.wav": {
+    "text": "IIL 117",
+    "category": "registration_number"
+  },
+  "bench finland stt/42d8599c-01d0-407a-93dc-da246eb5a6b2.wav": {
+    "text": "IIL 117",
+    "category": "registration_number"
+  },
+  "bench finland stt/b66d839a-dd4c-4191-a23b-4d0458f7ad3d.wav": {
+    "text": "IIL117",
+    "category": "registration_number"
+  },
+  "bench finland stt/9dbc82b3-0803-4402-89c4-eb14c8dfa160.wav": {
+    "text": "IIL117",
+    "category": "registration_number"
+  },
+  "bench finland stt/e0d64b38-8c14-4262-9e2f-9f44a0527e42.wav": {
+    "text": "JQK 832",
+    "category": "registration_number"
+  },
+  "bench finland stt/f4b66f5b-460c-49e7-b971-414b9214ef44.wav": {
+    "text": "jqk 832",
+    "category": "registration_number"
+  },
+  "bench finland stt/e98dd271-83b2-4d36-9bee-33851a871db9.wav": {
+    "text": "JQK 832",
+    "category": "registration_number"
+  },
+  "bench finland stt/e71ec8b8-9709-448d-8cc2-cb31ce7407b9.wav": {
+    "text": "KOS 719.",
+    "category": "registration_number"
+  },
+  "bench finland stt/648dec30-8f97-4d28-9083-c6bf1cb6a8ce.wav": {
+    "text": "KOS 719",
+    "category": "registration_number"
+  },
+  "bench finland stt/f14a4746-1059-49aa-95a4-aa94e2d167d3.wav": {
+    "text": "KYV 505",
+    "category": "registration_number"
+  },
+  "bench finland stt/fcc7da5b-7c7b-44d0-82ba-e4e820847653.wav": {
+    "text": "KYW 505",
+    "category": "registration_number"
+  },
+  "bench finland stt/e7b9642c-657f-46a6-aeb3-b92381ba6f83.wav": {
+    "text": "LHR 245",
+    "category": "registration_number"
+  },
+  "bench finland stt/de27601b-643a-47cf-8c77-92cf06f8fc5c.wav": {
+    "text": "LHR 245.",
+    "category": "registration_number"
+  },
+  "bench finland stt/385f51c1-186d-4e12-b13d-6038b675ec81.wav": {
+    "text": "LHR 245",
+    "category": "registration_number"
+  },
+  "bench finland stt/51e8e481-026b-4740-9ac8-cc27d1a122d9.wav": {
+    "text": "MNN 111",
+    "category": "registration_number"
+  },
+  "bench finland stt/084d4cdf-2dcc-4811-8591-6f459d7636df.wav": {
+    "text": "MNN 111",
+    "category": "registration_number"
+  },
+  "bench finland stt/72c573f5-5491-43af-aa9c-c06fcb3b2563.wav": {
+    "text": "MNN 111",
+    "category": "registration_number"
+  },
+  "bench finland stt/9aba3b54-7eb8-4d92-9078-59201e663f7b.wav": {
+    "text": "MNN 111",
+    "category": "registration_number"
+  },
+  "bench finland stt/f0070b43-cbed-4bdf-80ed-8eb941f84537.wav": {
+    "text": "MNU 384",
+    "category": "registration_number"
+  },
+  "bench finland stt/7993d321-bba8-4d60-8f0f-4541dfbc9036.wav": {
+    "text": "MNU 384",
+    "category": "registration_number"
+  },
+  "bench finland stt/edc4dca3-2dd6-4c0e-a2b1-12cd20ec77d6.wav": {
+    "text": "MNU 384",
+    "category": "registration_number"
+  },
+  "bench finland stt/f6b3e452-a49b-4ff2-8c5b-41b4bd8bf3f7.wav": {
+    "text": "MTA 492",
+    "category": "registration_number"
+  },
+  "bench finland stt/294f3956-f306-405f-b8fb-fd93ace20f02.wav": {
+    "text": "pbp808",
+    "category": "registration_number"
+  },
+  "bench finland stt/154e7368-e218-4e55-8714-b22493c1b9df.wav": {
+    "text": "pbp808",
+    "category": "registration_number"
+  },
+  "bench finland stt/1cc0851c-23d0-4815-a3eb-c71116c0ea5d.wav": {
+    "text": "pbp808",
+    "category": "registration_number"
+  },
+  "bench finland stt/82846bb4-1d7c-448c-9248-b2199def48f6.wav": {
+    "text": "pbp808",
+    "category": "registration_number"
+  },
+  "bench finland stt/3cc4db90-fc04-49a3-a205-b35940c069f0.wav": {
+    "text": "pbp808",
+    "category": "registration_number"
+  },
+  "bench finland stt/119f2043-a36f-4ba1-a5ef-7caa596c06ff.wav": {
+    "text": "pbp808",
+    "category": "registration_number"
+  },
+  "bench finland stt/a1beeba9-081d-45a7-a0df-00d6ffb85030.wav": {
+    "text": "QWZ 100",
+    "category": "registration_number"
+  },
+  "bench finland stt/278b613d-f7aa-4ca9-87ed-5a007f0aa40a.wav": {
+    "text": "QWZ 100",
+    "category": "registration_number"
+  },
+  "bench finland stt/1e69f32d-e7f4-4fb8-9ab1-168a9b0c0130.wav": {
+    "text": "QWZ 100",
+    "category": "registration_number"
+  },
+  "bench finland stt/4a87d9d7-83a9-4d44-b33e-09fb9ab4e09c.wav": {
+    "text": "QWZ 100",
+    "category": "registration_number"
+  },
+  "bench finland stt/61a541e8-5007-431f-a5f9-33b45339131d.wav": {
+    "text": "QXZ771",
+    "category": "registration_number"
+  },
+  "bench finland stt/f3a6c6c4-669e-48f7-9e55-eb2221ef96ec.wav": {
+    "text": "RFT 254.",
+    "category": "registration_number"
+  },
+  "bench finland stt/8c096798-ee1b-4ee7-a3ca-80b231a19ecf.wav": {
+    "text": "RFT254",
+    "category": "registration_number"
+  },
+  "bench finland stt/472a790a-2c67-40d7-91d8-40681813c2e2.wav": {
+    "text": "SZC 404",
+    "category": "registration_number"
+  },
+  "bench finland stt/92e6c753-1c16-4733-9a58-acb640fbf3a6.wav": {
+    "text": "SZC 404",
+    "category": "registration_number"
+  },
+  "bench finland stt/31869425-4513-496e-8d2e-c16ad8f0c198.wav": {
+    "text": "SZC 404",
+    "category": "registration_number"
+  },
+  "bench finland stt/3693fef8-85d1-416f-a225-1bb034708af8.wav": {
+    "text": "SZC 404",
+    "category": "registration_number"
+  },
+  "bench finland stt/3791da08-c4f0-40ff-8cca-16a0cb4d818a.wav": {
+    "text": "SZC 404",
+    "category": "registration_number"
+  },
+  "bench finland stt/fb6a25ec-c9d4-46e6-b877-765f0c08803e.wav": {
+    "text": "SZC 404",
+    "category": "registration_number"
+  },
+  "bench finland stt/b8e16f37-19f5-4826-9642-51d61081dea8.wav": {
+    "text": "SZC404",
+    "category": "registration_number"
+  },
+  "bench finland stt/836b467c-b5d6-46ae-8232-b5d8c627058c.wav": {
+    "text": "SZC404",
+    "category": "registration_number"
+  },
+  "bench finland stt/7b59686f-d23c-4524-ac49-9e57d9d7b243.wav": {
+    "text": "SZC404",
+    "category": "registration_number"
+  },
+  "bench finland stt/08d8d3df-100c-4141-a0a2-421bdce5bb53.wav": {
+    "text": "SZC404",
+    "category": "registration_number"
+  },
+  "bench finland stt/8c7bac69-a1ee-4bce-b371-2543c1ab50bd.wav": {
+    "text": "SZC 404",
+    "category": "registration_number"
+  },
+  "bench finland stt/46693b2f-b38b-4ddc-8c2b-0138acee85c1.wav": {
+    "text": "SZC 404",
+    "category": "registration_number"
+  },
+  "bench finland stt/d9a56c3d-089f-48fa-999c-cb20c0a5a08f.wav": {
+    "text": "SZC 404",
+    "category": "registration_number"
+  },
+  "bench finland stt/0ce14f89-7991-4ba5-b931-89129edefeab.wav": {
+    "text": "SZC 404",
+    "category": "registration_number"
+  },
+  "bench finland stt/70a45dd2-8a69-4769-ace1-c87c36ee7339.wav": {
+    "text": "SZC 404",
+    "category": "registration_number"
+  },
+  "bench finland stt/0655a41d-801e-4c71-bcfa-91d2dec6c6ed.wav": {
+    "text": "SZC 404",
+    "category": "registration_number"
+  },
+  "bench finland stt/acef6db2-be32-4ae3-84b1-05f9299d4ef6.wav": {
+    "text": "SZC 404",
+    "category": "registration_number"
+  },
+  "bench finland stt/4534d56b-2107-4f7f-b176-d1c3045dabb4.wav": {
+    "text": "SZC 404",
+    "category": "registration_number"
+  },
+  "bench finland stt/269a737c-5580-47a9-a5a0-868595f98a2a.wav": {
+    "text": "TXR 118",
+    "category": "registration_number"
+  },
+  "bench finland stt/88457d1b-1f0c-4383-8d75-c497ebd3d16a.wav": {
+    "text": "TXR 118",
+    "category": "registration_number"
+  },
+  "bench finland stt/9d524e3c-4e7f-4b27-a954-fe43d76f8955.wav": {
+    "text": "TXR118",
+    "category": "registration_number"
+  },
+  "bench finland stt/cd3dde8e-1259-4c68-b9d3-0eceb31b1ded.wav": {
+    "text": "VPK 742",
+    "category": "registration_number"
+  },
+  "bench finland stt/c199ed29-e612-4e4f-9242-a3ae35542e38.wav": {
+    "text": "VPK 742",
+    "category": "registration_number"
+  },
+  "bench finland stt/9de4b22a-b535-4d7e-aa32-201d9b316931.wav": {
+    "text": "WRF 106",
+    "category": "registration_number"
+  },
+  "bench finland stt/a0928334-4aca-4b56-95bc-970489927935.wav": {
+    "text": "XFX 707",
+    "category": "registration_number"
+  },
+  "bench finland stt/88913976-b27b-44d1-a19f-26f402ff1805.wav": {
+    "text": "XFX 707",
+    "category": "registration_number"
+  },
+  "bench finland stt/73b55e8d-9b03-4430-ae83-c9c390d570cf.wav": {
+    "text": "XFX 707",
+    "category": "registration_number"
+  },
+  "bench finland stt/ad55afd7-4cac-40c2-bdc2-5ed90caf359d.wav": {
+    "text": "XFX 707",
+    "category": "registration_number"
+  },
+  "bench finland stt/309a57c1-7046-4873-b1e6-d62b7ba72c3a.wav": {
+    "text": "XFX 707",
+    "category": "registration_number"
+  },
+  "bench finland stt/0f65ec8e-372f-4b9d-ac29-eac9536564a7.wav": {
+    "text": "XFX 707",
+    "category": "registration_number"
+  },
+  "bench finland stt/7dcbe2c2-cf47-4458-a8aa-2d004a7e0d9f.wav": {
+    "text": "XFX 707",
+    "category": "registration_number"
+  },
+  "bench finland stt/9b6ccb53-c41e-4508-86d0-a3016c6953d2.wav": {
+    "text": "ZAL 507",
+    "category": "registration_number"
+  },
+  "bench finland stt/854bf1bf-7e90-4ded-8afa-5e2ffd8a6beb.wav": {
+    "text": "ZZZ 999",
+    "category": "registration_number"
+  },
+  "bench finland stt/b5b91f00-d71a-4c3c-934e-be77944601a1.wav": {
+    "text": "ZZZ 999",
+    "category": "registration_number"
+  },
+  "bench finland stt/ad673bab-6d22-471b-bac2-86fcac322ed1.wav": {
+    "text": "ZZZ 999",
+    "category": "registration_number"
+  },
+  "bench finland stt/ac9f4f96-046b-4641-8246-a71119696cf5.wav": {
+    "text": "ZZZ 999",
+    "category": "registration_number"
+  },
+  "bench finland stt/f4cb0653-8ac3-41d9-a118-54de51f32224.wav": {
+    "text": "ZZZ 999",
+    "category": "registration_number"
+  },
+  "bench finland stt/b0355473-c88e-4a5e-8eaa-10b27f22872a.wav": {
+    "text": "ZZZ999",
+    "category": "registration_number"
+  },
+  "bench finland stt/35e87c8a-02d0-4ca7-8281-52edccd544c1.wav": {
+    "text": "ZZZ 999",
+    "category": "registration_number"
+  },
+  "bench finland stt/450de660-9c38-4bf3-bb9e-08f1f557a542.wav": {
+    "text": "ZZZ 999",
+    "category": "registration_number"
+  },
+  "bench finland stt/c9f4e480-af96-4901-81fa-bb7f657631df.wav": {
+    "text": "ZZZ 999",
+    "category": "registration_number"
+  },
+  "bench finland stt/18e08095-2bf5-4104-9eb9-f29ecbbbd21e.wav": {
+    "text": "ZZZ 999",
+    "category": "registration_number"
+  },
+  "bench finland stt/a72a2563-f2bc-4e98-b898-85b5c1cdec5b.wav": {
+    "text": "Haluatko varata renkaanvaihdon? Joo.",
+    "category": "Yes_no_question_Approved"
+  },
+  "bench finland stt/bc3254d6-f515-4911-b53f-c9ebdfa26c9d.wav": {
+    "text": "Tarvitseeko vaihteisto tarkastusta? Kyllä.",
+    "category": "Yes_no_question_Approved"
+  },
+  "bench finland stt/76b3ee19-2ab6-4047-a5fd-ab178236a6ab.wav": {
+    "text": "Tarvitseeko autosi öljynvaihdon? Juu.",
+    "category": "Yes_no_question_Approved"
+  },
+  "bench finland stt/d22268b9-735c-417d-aee4-ec01f219035f.wav": {
+    "text": "Onko autosi katsastettu viimeisen vuoden aikana? On.",
+    "category": "Yes_no_question_Approved"
+  },
+  "bench finland stt/e6c444e5-d02a-4f0d-86d1-46f8ad840389.wav": {
+    "text": "Haluaako tarkastuttaa jarrupalat? Kyllä.",
+    "category": "Yes_no_question_Approved"
+  },
+  "bench finland stt/5fefd43d-803b-4ed4-a709-342152d50ce2.wav": {
+    "text": "Tarvitseeko ilmastolaite huoltoa? Noh, kyllä sen vois huoltaa.",
+    "category": "Yes_no_question_Approved"
+  },
+  "bench finland stt/ffd97f04-c4d9-46cb-9ed1-0ef43c86b176.wav": {
+    "text": "Haluatteko, että tarkastetaan akun kunto? Juu.",
+    "category": "Yes_no_question_Approved"
+  },
+  "bench finland stt/17314d40-811e-465a-b796-f4333ad70a7f.wav": {
+    "text": "Onko autossa ääniä moottorista? On.",
+    "category": "Yes_no_question_Approved"
+  },
+  "bench finland stt/62030d74-a537-4676-b3b5-73fe0780eb53.wav": {
+    "text": "Haluatko varata huollon heti? Juu.",
+    "category": "Yes_no_question_Approved"
+  },
+  "bench finland stt/a42352fe-a58c-4626-bd4b-812f23c2a824.wav": {
+    "text": "Haluutsä varata renkaanvaihdon nyt? E.",
+    "category": "Yes_no_question_Declined"
+  },
+  "bench finland stt/7bd88660-d050-4d6c-ad8d-7376a0798a20.wav": {
+    "text": "Tarvitseekohan sinun auto vaihteiston tarkastusta? Ei tarvii.",
+    "category": "Yes_no_question_Declined"
+  },
+  "bench finland stt/f79a0f91-a8a2-485c-aeaa-4de9fde5a070.wav": {
+    "text": "Tarvitseeko su auton öljyvaihtoa? Ei.",
+    "category": "Yes_no_question_Declined"
+  },
+  "bench finland stt/1f28c34e-c1f2-4151-ba3e-29584883031f.wav": {
+    "text": "Onks su autoo katastettu viimesen vuoden aikana? Ei oo.",
+    "category": "Yes_no_question_Declined"
+  },
+  "bench finland stt/83921ce6-6e02-480f-8ca4-2925788ca26c.wav": {
+    "text": "Haluaisitko tarkastuttaa myös jarrupalat? Ei tarvi.",
+    "category": "Yes_no_question_Declined"
+  },
+  "bench finland stt/d525120f-439c-4046-9bc4-940953299f4a.wav": {
+    "text": "Onks sun autossa havaittu öljynvuotoja? Ei oo!",
+    "category": "Yes_no_question_Declined"
+  },
+  "bench finland stt/129d79ce-87b0-41a3-994d-44a190a7d866.wav": {
+    "text": "Luuleksä et sun auto tarvitsee.. tai, ilmastontilaite tarvitsee huoltoo? Ei tarvi.",
+    "category": "Yes_no_question_Declined"
+  },
+  "bench finland stt/62b06ecf-d7fd-487b-9c79-9e6f03bae47a.wav": {
+    "text": "Haluuks et me tarkastetaan sun auton akun kunto? Nope.",
+    "category": "Yes_no_question_Declined"
+  },
+  "bench finland stt/ce0cc7d5-fca7-4fe7-b157-4296ec648de2.wav": {
+    "text": "Tuleeko auton moottorista jotakin erikoisia ääniä? Ei taida.",
+    "category": "Yes_no_question_Declined"
+  },
+  "bench finland stt/1a8e57f9-4f02-4109-a30e-07dca801e503.wav": {
+    "text": "Haluutko, että varataan huolto heti? Ei.",
+    "category": "Yes_no_question_Declined"
+  },
+  "bench finland stt/127f66c9-5a9e-4da0-9e77-b30422adcbbd.wav": {
+    "text": "Saisinko sinun kotiosoitteesi? Joo, huvilatie 9B Vaasa. Varmista vielä, eli huvilatie 9B Vaasa. Kyllä.",
+    "category": "Adresse_customer_identification"
+  },
+  "bench finland stt/f36c0f58-2eca-417c-855f-13f1526e44c9.wav": {
+    "text": "Mikä on kotiosoitteesi? Se on sellainen kuin Katajatie 12 A3 Helsinki. Okei, sainko oikein Katajatie 12 A3 Helsinki? Joo, kyllä.",
+    "category": "Adresse_customer_identification"
+  },
+  "bench finland stt/54629088-5124-401e-bd26-2b7598d04f56.wav": {
+    "text": "Mikä on kotiosoitteesi? Kauppakatu 8B24 40100 Jyväskylä. Okei, eli se oli Kauppakatu 8B24 40100 Jyväskylä. Joo, oikein meni.",
+    "category": "Adresse_customer_identification"
+  },
+  "bench finland stt/f401d9c1-44c9-477a-9128-1b99c367ebf8.wav": {
+    "text": "Saisinko sinun kotiosoitteesi? Joo, Kiviharjontie 3 C14 Oulu. Okei, eli se on Kiviharjontie 3 C14 902 20 Oulu. Joo, oikein.",
+    "category": "Adresse_customer_identification"
+  },
+  "bench finland stt/c84eb0fd-21c1-42d6-86a3-a1541dd1589e.wav": {
+    "text": "Saisinko sinun kotiosoitteesi? Joo, Kuusitie 4A7 Kuopio. Varmistan vielä, eli Kuusitie 4A7 Kuopio. Joo.",
+    "category": "Adresse_customer_identification"
+  },
+  "bench finland stt/176bfcb0-7b8d-4a1f-a0f6-61e078efb895.wav": {
+    "text": "Saisinko sinun kotiosoitteesi? Joo, pieni hetki. Peltotie 22, 11130 Riihimäki. Okei, eli se oli Peltotie 22, 11130 Riihimäki. Joo.",
+    "category": "Adresse_customer_identification"
+  },
+  "bench finland stt/cdf35de1-350e-46fe-a5c5-7af23ecadbab.wav": {
+    "text": "Saisinko sinun kotiosoitteesi? Joo, puistotie 5, 13100 Hämeenlinna. Okei, eli se oli puistotie 5, 13100 Hämeenlinna. Oikein meni.",
+    "category": "Adresse_customer_identification"
+  },
+  "bench finland stt/03be18bc-34f0-433d-a3c1-4607ba63bdf8.wav": {
+    "text": "Mikä on kotiosoitteesi? Joo, mu osoite on Rantakatu 45 Oulu. Okei, eli se oli Rantakatu 45 Oulu. Joo, oikein meni.",
+    "category": "Adresse_customer_identification"
+  },
+  "bench finland stt/fdf7dee9-cd4c-49fa-9a6f-c9bb285ffbe4.wav": {
+    "text": "Saisinko sinun kotiosoitteesi? Joo, Ruusukuja 6, se on Turussa. Ja niin, postinumero 20740. Okei, eli se oli Ruusukuja 6 20740 turku. Kyllä.",
+    "category": "Adresse_customer_identification"
+  },
+  "bench finland stt/3612bf34-75e1-4752-9a20-40deb682d845.wav": {
+    "text": "Saisinko sinun potiosoitteesi? Joo, Satamakatu 17, Tampere ja posti numero 33 200. Okei, eli se oli Satamakatu 17 33 200, Tampere. Oikein meni, joo.",
+    "category": "Adresse_customer_identification"
+  },
+  "bench finland stt/268a6531-433e-4c37-a8c7-d177aea595ac.wav": {
+    "text": "Mikä sinun sähköpostiosoite olikaan? adelina_r97 at gmail.com Eli adelina_r97 at gmail.com Joo, ja tosiaan adelina yhden iillä. Okei, kiitos.",
+    "category": "Email_customer_identification"
+  },
+  "bench finland stt/87f9387c-b30e-4343-b821-74f46584952f.wav": {
+    "text": "Mikäs sinun sähköpostiosoitteesi oli? aleksi at agenton.ai Oliko se aleksi at agenton.ai? Joo, joo, kyllä.",
+    "category": "Email_customer_identification"
+  },
+  "bench finland stt/e8db5f33-b7e7-4c4e-bfaa-0e58e5318377.wav": {
+    "text": "Mikä se sähköpostiosoite on? alisa-k.saari@yahoo.com Eli alisa-k.saari@yahoo.com Joo oikein. Hyvä, kiitos.",
+    "category": "Email_customer_identification"
+  },
+  "bench finland stt/1a4282d7-e418-4cb3-ab2a-5b4425407c56.wav": {
+    "text": "Mikäs sinun sähköpostiosoitteesi oli? No, mun sähköposti on allulaine1 at gmail.com Oliko se allulaine1 at gmail.com? Joo, joo.",
+    "category": "Email_customer_identification"
+  },
+  "bench finland stt/dd10b724-460a-40eb-bd2c-76f1142ec29b.wav": {
+    "text": "Voitko kertoa sähköpostiosoitteesi? Joo, se on semmoinen kuin heikki.korhonen at hotmail.com Oliko se heikki.korhonen at hotmail.com? Kyllä.",
+    "category": "Email_customer_identification"
+  },
+  "bench finland stt/9d4913b0-4719-4d68-9140-72ae06ff7243.wav": {
+    "text": "Mikäs sinun sähköpostiosoitteesi oli? Se on jaakko_heikkinen at gmail.com Oliko se jaakko_heikkinen at gmail.com? Kyllä se oli.",
+    "category": "Email_customer_identification"
+  },
+  "bench finland stt/090497bb-b687-4adb-8161-58669316f649.wav": {
+    "text": "Mikäs sinun sähköpostiosoitteesi oli? Juu, se on jukka.koskinen at saunalahti.fi Oliko se jukka.koskinen at saunalahti.fi? Oli, oli.",
+    "category": "Email_customer_identification"
+  },
+  "bench finland stt/2c4f762b-2a0b-4e92-ac57-eb5e39c0435c.wav": {
+    "text": "Saisinko mä sun sähköpostiosoitteen vielä? Joo, eli laura.nieminen92 at outlook.com Mä sain laura.nieminen92 at outlook.com Joo oikein.",
+    "category": "Email_customer_identification"
+  },
+  "bench finland stt/853fe787-f163-4400-bf50-bf7f8fc1de4b.wav": {
+    "text": "Mikäs sinun sähköpostiosoitteesi oli? Joo, se oli semmoinen kuin mike.laneathotmail.com Oliko se mike.laneathotmail.com? Joo, kyllä.",
+    "category": "Email_customer_identification"
+  },
+  "bench finland stt/8354fa36-f916-44db-a9fe-9c80979f9b7e.wav": {
+    "text": "Mikä sun sähköpostiosoite on? noora.laakso07@hotmail.com Eli noora.laakso07athotmail.com Joo, Hotmail joo.",
+    "category": "Email_customer_identification"
+  },
+  "bench finland stt/c412c4db-2484-4fdc-8714-1129c7391c06.wav": {
+    "text": "Mikäs sun sähköpostiosite on? sanna_korhonen at gmail.com Eli sanna_korhonen at gmail.com",
+    "category": "Email_customer_identification"
+  },
+  "bench finland stt/452ccd8f-e222-4a64-98bf-1796c9831cb6.wav": {
+    "text": "Mikäs sinun sähköpostiosoitteesi oli? Se on timo.järvinen01atoutlook.fi Oliko se timo.järvinen01atoutlook.fi? Joo, kyllä oli.",
+    "category": "Email_customer_identification"
+  },
+  "bench finland stt/83130888-6efc-45da-b9a3-76758eb11f3e.wav": {
+    "text": "Voitko kertoa sähköpostiosoitteesi? Joo, se on semmoinen kuin ville.lehtinen9atoutlook.com Oliko se ville.lehtinen9atoutlook.com? Joo, oli se.",
+    "category": "Email_customer_identification"
+  },
+  "bench finland stt/8bd70318-1519-4c42-a401-0a4e1ef25331.wav": {
+    "text": "Mikä sun nimi olikaan? Aleksi, Aleksi, Aleksi Göransson. Okei, anteeks kuuleeko oikein sanakko Aleksi Göransson? Joo, se oli G-llä. Joo, G-llä, Göransson. G-Ö-R-A-N-S-S-O-N Jes, joo, tuli oikein.",
+    "category": "Name_customer_identification"
+  },
+  "bench finland stt/eedae09f-fe1c-4aad-a760-5002f66c430d.wav": {
+    "text": "Ja mikä sun nimi olikaan? Aleksi Laine. Okei, kuinka oikein sanotko Aleksi Laine? Joo.",
+    "category": "Name_customer_identification"
+  },
+  "bench finland stt/fc59ff7d-bd5c-4cb5-bebe-54d4aded9ec7.wav": {
+    "text": "Mikä sun nimi on? Alisa Koivusaari. Alisa Koivusaari. Joo, Alisa on yhdellä i.",
+    "category": "Name_customer_identification"
+  },
+  "bench finland stt/e87608f1-7c69-4402-9302-f1f820dcb7d2.wav": {
+    "text": "Mikäs on leidinen nimi? Anna-Mari Lehtinen. Anna-Mari eli väliviiva siihen väliin. Anna-Mari Lehtinen.",
+    "category": "Name_customer_identification"
+  },
+  "bench finland stt/8dcc85d0-622f-463c-9eae-69e7d6d130b9.wav": {
+    "text": "Mikäs sun nimi on? Emilia Virtanen. Okei, eli Emilia Virtanen. Joo.",
+    "category": "Name_customer_identification"
+  },
+  "bench finland stt/cca8ea2b-b8ef-42d4-959e-7cdc7b1a0532.wav": {
+    "text": "Mikä sun nimi oli? Heikki Korhonen. Anteeksi, kuulin kun oikein sanoit Heikki Korhonen.",
+    "category": "Name_customer_identification"
+  },
+  "bench finland stt/358d6bb8-c2dc-489e-99c0-31bcf10898b2.wav": {
+    "text": "Mikä sun nimi on? Inari Leppänen. Inari Leppänen.",
+    "category": "Name_customer_identification"
+  },
+  "bench finland stt/c5433b46-83eb-45aa-b0d0-c395c3530140.wav": {
+    "text": "Mikä sun nimi oli? Joo, mä oon Jaakko Heikkinen. Okei, kuulinko oikein? Sanoitko Jaakko Heikkinen? Joo.",
+    "category": "Name_customer_identification"
+  },
+  "bench finland stt/d25e2b1f-fcea-4bc4-9cf3-d688f75d01bc.wav": {
+    "text": "Mikä sun nimi oli? Jesse Nieminen. Kuulenko oikein, sanoitko Jesse Nieminen? Kyllä.",
+    "category": "Name_customer_identification"
+  },
+  "bench finland stt/aaf69eb0-167a-47a6-aa77-68861492c753.wav": {
+    "text": "Ja mikä sinun nimi oli? Jukka Eriksson. Okei, anteeksi, kuulinko oikein sanoitko Jukka Eriksson? Kyllä.",
+    "category": "Name_customer_identification"
+  },
+  "bench finland stt/74ceafd7-06df-41a8-a1f8-2071f8b82b3e.wav": {
+    "text": "Mikä sun nimi on? Mun nimi on Matti Virtanen. Anteeksi, kuulenko oikein? Sanoitko Matti Virtanen? Kyllä.",
+    "category": "Name_customer_identification"
+  },
+  "bench finland stt/5dd292e6-d866-4151-b400-ee950b5e0086.wav": {
+    "text": "Mikäs sun nimi onkaan? Sanna Korhonen. Mä sain ylös, että Sanna Korhonen. Joo.",
+    "category": "Name_customer_identification"
+  },
+  "bench finland stt/09109eb1-0f35-4486-9771-689f6531538a.wav": {
+    "text": "Mikä sun nimi oli? Timo Malkasaari. Timo Malkasaari. Joo, anteeks kuulinko oikein? Sanoitko Timo Malkasaari? Joo.",
+    "category": "Name_customer_identification"
+  },
+  "bench finland stt/af8c03d0-595c-49be-a95e-57356ac02e3f.wav": {
+    "text": "Mikä sun nimi on? Vilhelmiina Korpela. Vilhelmiina Korpela.",
+    "category": "Name_customer_identification"
+  },
+  "bench finland stt/9cde1c59-a15e-423c-87ab-0961d6c89122.wav": {
+    "text": "Mikä sun nimi oli? Joo, mä olen Ville Ruusumäki. Anteeksi, kuulinko oikein? Sanoitko Ville Ruusumäki? Joo.",
+    "category": "Name_customer_identification"
+  },
+  "bench finland stt/c8fadcad-00e7-4aa3-a6b4-83641ab69159.wav": {
+    "text": "Mikä sun auton rekisterinumero on? Joo se on J-Y-K-712 Eli J-Y-K-712 Oliks toi oikein? Ei se oo ihan oikein Voitko toistaa rekisterinumeron hiitos? Joo siis J-Y-K-712 Eli J-Y-K-712 Joo",
+    "category": "registration_number"
+  },
+  "bench finland stt/cc09d040-234c-4518-bc12-5cc6469389a6.wav": {
+    "text": "Mikä sun rekkari oli? PKO 159. Eli PKO 150. Ei mennyt oikein. Mikä sun rekisterin on? PKO 159. Eli PKO 159. Joo, se on oikein.",
+    "category": "registration_number"
+  },
+  "bench finland stt/8d48b7a2-3ff7-41d6-a496-82f467524499.wav": {
+    "text": "Mikäs sun rekisterinumero on? ZLM 874. Eli TLM 874. Ei mennyt ihan oikein. Voisitko toistaa rekisterinumeron, kiitos. Joo, eli ZLM 874. Eli se oli ZLM 874. Joo, just noin. Okei, kiitos.",
+    "category": "registration_number"
+  },
+  "bench finland stt/0b7acd18-c292-4b81-bd4a-5c686c1f5ba0.wav": {
+    "text": "Mikä on sinun autorekisterin rooli? WPK845 Okei, sano WPG845 W kuten Wasabi, P kuten Pekka, K kari 845 Okei, eli siis WPK845",
+    "category": "registration_number"
+  },
+  "bench finland stt/c4b695a4-7cb3-412b-ae94-386ed5b0e30f.wav": {
+    "text": "C on Celsius, Z on Zorro, Q on quesädiia, 442.",
+    "category": "registration_number"
+  },
+  "bench finland stt/c1ed9e10-0aa1-44a8-82f8-fa5ecdd6ae36.wav": {
+    "text": "Q quesidiia, C niin k Celsius, Z niin ku Zorro, 705.",
+    "category": "registration_number"
+  },
+  "bench finland stt/1e20221c-b328-43f5-96a3-b9f3798c059a.wav": {
+    "text": "Z niin kuin Zorro, X niin kuin Extra, W niin kuin Wasabi, 613.",
+    "category": "registration_number"
+  },
+  "bench finland stt/ac07ad50-ddf0-42c3-a231-316efcbf021e.wav": {
+    "text": "C-vitamiini, Zorro, Quesadia, 422.",
+    "category": "registration_number"
+  },
+  "bench finland stt/83b00b80-119b-476b-ade2-2b96e15882f8.wav": {
+    "text": "Celsius, Zorro, Wasabi, 124.",
+    "category": "registration_number"
+  },
+  "bench finland stt/350cdd83-eca4-4a0b-ae98-fecf3b59d46d.wav": {
+    "text": "FxC520 eli Felix Extra C-vitamiini 520",
+    "category": "registration_number"
+  },
+  "bench finland stt/0bc219e9-38d5-4e03-956c-b26773c6a178.wav": {
+    "text": "Maija Tarmo Aapo, 942.",
+    "category": "registration_number"
+  },
+  "bench finland stt/e5c8786f-0641-48a1-8df0-9fbdc0880fd7.wav": {
+    "text": "QBF 307 Quesadilla ja banaani felina 307",
+    "category": "registration_number"
+  },
+  "bench finland stt/c12465a5-d6b4-4bff-a80b-fd7f61737e01.wav": {
+    "text": "QZB605 Quesadilla ja Zorro banaani 605",
+    "category": "registration_number"
+  },
+  "bench finland stt/e089c81f-7c01-4dce-a1b5-107a530177d4.wav": {
+    "text": "TQB771, eli Timo Quesadia Banaani 771.",
+    "category": "registration_number"
+  },
+  "bench finland stt/c3cb9356-a2dc-47f0-9516-27ec5999309b.wav": {
+    "text": "Veikko Risto Filippa 1067",
+    "category": "registration_number"
+  },
+  "bench finland stt/e2ae90af-bf47-484c-a9bf-c49e355816f2.wav": {
+    "text": "Wasabi Risto Felina 106",
+    "category": "registration_number"
+  },
+  "bench finland stt/49df4796-b4b8-4a08-9da9-6f259efdf824.wav": {
+    "text": "Extra Zorro Yrjö 914",
+    "category": "registration_number"
+  },
+  "bench finland stt/30f561d0-1d74-4353-8b81-4d34c6ed25d8.wav": {
+    "text": "ZFX334 eli Zorro Felix Extra 334",
+    "category": "registration_number"
+  },
+  "bench finland stt/f75021be-d76b-4952-a218-4c4f2bcc2a99.wav": {
+    "text": "Voitaisko taakastaa tuon ilmastonilanteen tilanne tiistaina 18. kesäkuuta kello 13? Ei sekään. No mites toi keskiviikko 19. kesäkuuta kello 15? No silloin varmaan parantetaan se.",
+    "category": "Date_proposal_reproposal"
+  },
+  "bench finland stt/84610d69-f7fd-4ac0-ad4d-250db30b61ac.wav": {
+    "text": "Mielkiin. Niin, voitko kuvailla renkaan laittaa perjantaija kahdeksas yhdeksätoista kello kahdeksankuukkikin? Ei sekään. No, mites sit toi tiistai kahdeksas yhdeksätoista kello kahdeksankuukkikin? No, joo, otetaan se.",
+    "category": "Date_proposal_reproposal"
+  },
+  "bench finland stt/aa74a5d0-bbee-46e7-a390-96cd7d115ccd.wav": {
+    "text": "Hei, haluttais parata toi aika tonne akun kunnon tarkastuksen keskiviikkona 6.7. kello 11.30. Sopisko se? Ei. No mitäs toi perjantai 8.7. kello 12.30? Ei siinä taida mitään kummempaa olla, niin sieltä se käy.",
+    "category": "Date_proposal_reproposal"
+  },
+  "bench finland stt/e16d11c1-6ad7-4169-a089-b7da3c50c506.wav": {
+    "text": "Olisiko vihastointipuolto mahdollista yhdistää vahingot jostain laskulla? Ei sitä enää. No, olisiko keskiviikon kolmasta jostain laskulla päälle? Niin se on parempi.",
+    "category": "Date_proposal_reproposal"
+  },
+  "bench finland stt/a5007162-4834-432c-a247-2843b77e6a04.wav": {
+    "text": "Voitko tarkastella, että teidän kanssa on 21.11. vuosi? Käykö tämä vuosi? Ei sekään. Miten maailmanpäin 19.11. vuosi olisi mahdollista? Ei sekään.",
+    "category": "Date_proposal_reproposal"
+  },
+  "bench finland stt/32652d0a-309f-4064-b394-36d85f4c0c0c.wav": {
+    "text": "Voitaisiin varata kuulokasen aivonen maanantaja 4. marraskuuta, sopisiko tämä sinulle? Ei. Okei, voisitko 30. tai 50. marraskuuta mennä paremmin? Joo.",
+    "category": "Date_proposal_reproposal"
+  },
+  "bench finland stt/7c7359dd-29be-4c13-b27f-ee33733300ff.wav": {
+    "text": "että päiväkoulua sinulla ei ole.",
+    "category": "Date_proposal_suitable_timeslot"
+  },
+  "bench finland stt/a42a6f9c-9bc9-48ba-a338-fc297e6c86a1.wav": {
+    "text": "Mä oot tos tehättöön pointteistin varmastus torstaina 14. joulukai, taisko sulla? Joo.",
+    "category": "Date_proposal_suitable_timeslot"
+  },
+  "bench finland stt/259c20f1-5cfe-45a9-a5c9-7c5bb74ab9d9.wav": {
+    "text": "Hei, olisiko vaihteiston tarkastus mahdollista torstaina 7.8. kello 15? No joo, otetaan vaan.",
+    "category": "Date_proposal_suitable_timeslot"
+  }
+}
