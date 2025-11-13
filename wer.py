@@ -32,470 +32,65 @@ FRACTION_PATTERNS = [
     (re.compile(r"(?i)\bpuol(i|en)\b"), "puoli"),
 ]
 
-CORRECTIONS = {
-    "kylla": "kyllä",
-    "kylla.": "kyllä.",
-    "tehda": "tehdä",
-    "haluttaisinko": "haluttaisinko",
-    "huolta": "huolto",
-    "huollon": "huollon",
-    "tanaan": "tänään",
-    "huomenna": "huomenna",
-    "icao": "icao",
-    "icloud": "icloud",
-    "iclcoud": "icloud",
-    "icluod": "icloud",
-    "icloudcom": "icloud com",
-    "gmailcom": "gmail com",
-    "hotmailcom": "hotmail com",
-    "ajettu": "ajettu",
-    "tonniä": "tonnia",
-    "kaksisataa": "kaksi sata",
-    "kolmesataa": "kolme sata",
-    "neljasataa": "neljä sata",
-    "viisisataa": "viisi sata",
-    "kuusisataa": "kuusi sata",
-    "seitsemansataa": "seitsemän sata",
-    "kahdeksansataa": "kahdeksan sata",
-    "yhdeksansataa": "yhdeksän sata",
-    "sataviisikymmenta": "sata viisikymmentä",
-    "sataviisikymmentä": "sata viisikymmentä",
-    "satakaksikymmenta": "sata kaksikymmentä",
-    "satakaksikymmentä": "sata kaksikymmentä",
-    "satakuuskymmenta": "sata kuusikymmentä",
-    "satakuuskymmentä": "sata kuusikymmentä",
-    "satayhdeksankymmenta": "sata yhdeksänkymmentä",
-    "satayhdeksänkymmentä": "sata yhdeksänkymmentä",
-    "kaksituhatta": "kaksi tuhatta",
-    "kolmetuhatta": "kolme tuhatta",
-    "neljatuhatta": "neljä tuhatta",
-    "viisituhatta": "viisi tuhatta",
-    "kuusituhatta": "kuusi tuhatta",
-    "seitsemantuhatta": "seitsemän tuhatta",
-    "kahdeksantuhatta": "kahdeksan tuhatta",
-    "yhdeksantuhatta": "yhdeksän tuhatta",
-    "nelja": "neljä",
-    "neljaa": "neljä",
-    "yheksän": "yhdeksän",
-    "yksii": "yksi",
-    "phonetically": "phonettisesti",
-}
-
-NUMBER_WORDS = {
-    0: "nolla",
-    1: "yksi",
-    2: "kaksi",
-    3: "kolme",
-    4: "neljä",
-    5: "viisi",
-    6: "kuusi",
-    7: "seitsemän",
-    8: "kahdeksan",
-    9: "yhdeksän",
-    10: "kymmenen",
-    11: "yksitoista",
-    12: "kaksitoista",
-    13: "kolmetoista",
-    14: "neljätoista",
-    15: "viisitoista",
-    16: "kuusitoista",
-    17: "seitsemäntoista",
-    18: "kahdeksantoista",
-    19: "yhdeksäntoista",
-    20: "kaksikymmentä",
-    30: "kolmekymmentä",
-    40: "neljäkymmentä",
-    50: "viisikymmentä",
-    60: "kuusikymmentä",
-    70: "seitsemänkymmentä",
-    80: "kahdeksankymmentä",
-    90: "yhdeksänkymmentä",
-}
-
-
-FILLER_PATTERN = re.compile(
-    r"\b(öö+|ää+|aa+|eh+|hm+|hmm+|emm+|mmm+|oo+|ooh+|ah+|noh+|niinku|joo+|juu+)\b"
-)
-
-LETTER_WORDS = {
-    "aarne": "a",
-    "aapo": "a",
-    "aarni": "a",
-    "aaro": "a",
-    "bertta": "b",
-    "beeta": "b",
-    "celsius": "c",
-    "daavid": "d",
-    "eemeli": "e",
-    "eevert": "e",
-    "faarao": "f",
-    "felix": "f",
-    "gideon": "g",
-    "heikki": "h",
-    "helena": "h",
-    "iivari": "i",
-    "iida": "i",
-    "jussi": "j",
-    "jani": "j",
-    "kalle": "k",
-    "kari": "k",
-    "lauri": "l",
-    "leevi": "l",
-    "maija": "m",
-    "matti": "m",
-    "mikko": "m",
-    "niilo": "n",
-    "nora": "n",
-    "otto": "o",
-    "paavo": "p",
-    "petri": "p",
-    "risto": "r",
-    "sakari": "s",
-    "seppo": "s",
-    "tarmo": "t",
-    "teppo": "t",
-    "tuomo": "t",
-    "urho": "u",
-    "veikko": "v",
-    "vilho": "v",
-    "yrjö": "y",
-    "yrjo": "y",
-    "zeta": "z",
-    "seta": "z",
-    "viski": "w",
-    "äiti": "ä",
-    "aiti": "ä",
-    "öljy": "ö",
-    "oljy": "ö",
-}
-
-
-def _ascii_variant(text: str) -> str:
-    return (
-        text.replace("ä", "a")
-        .replace("ö", "o")
-        .replace("å", "a")
-    )
-
-
-def _strip_repetitions(text: str) -> str:
-    """Compress elongated onomatopoeic repetitions (e.g. zzzz -> z)."""
-    return re.sub(r"([a-zåäö])\1{2,}", r"\1", text)
-
-
-def _apply_corrections(text: str) -> str:
-    for wrong, right in CORRECTIONS.items():
-        text = text.replace(wrong, right)
-        ascii_wrong = _ascii_variant(wrong)
-        if ascii_wrong != wrong:
-            text = text.replace(ascii_wrong, right)
-    return text
-
-
-DIGIT_WORD_TO_DIGIT = {
-    "nolla": "0",
-    "yksi": "1",
-    "yks": "1",
-    "yksii": "1",
-    "yhen": "1",
-    "kaksi": "2",
-    "kolme": "3",
-    "neljä": "4",
-    "nelja": "4",
-    "viisi": "5",
-    "viis": "5",
-    "viisii": "5",
-    "kuusi": "6",
-    "seitsemän": "7",
-    "seitsemän": "7",
-    "seiska": "7",
-    "kahdeksan": "8",
-    "kahdeksan": "8",
-    "ysi": "9",
-    "yhdeksän": "9",
-    "yheksan": "9",
-}
-
-
-def _words_to_number_tokens(tokens):
-    converted = []
-    for token in tokens:
-        replacement = DIGIT_WORD_TO_DIGIT.get(token.lower())
-        if replacement is not None:
-            converted.append(replacement)
-        else:
-            converted.append(token)
-    return converted
-
-
-def _standardize_numbers(text: str) -> str:
-    # unify decimal separators (13.45 -> 13,45) then remove commas later
-    text = re.sub(r"(\d+)[\.,](\d+)", r"\1,\2", text)
-    # collapse spaced digits (2 400 -> 2400)
-    text = re.sub(r"(?<=\d)\s+(?=\d)", "", text)
-    return text
-
-
-def _register_number_word(mapping, word, value):
-    mapping[word] = value
-    ascii_word = _ascii_variant(word)
-    if ascii_word != word:
-        mapping[ascii_word] = value
-
-
-def _register_multiplier(mapping, word, value):
-    mapping[word] = value
-    ascii_word = _ascii_variant(word)
-    if ascii_word != word:
-        mapping[ascii_word] = value
-
-
-WORD_TO_NUMBER = {}
-for num, word in NUMBER_WORDS.items():
-    _register_number_word(WORD_TO_NUMBER, word, num)
-
-for tens in range(20, 100, 10):
-    for ones in range(1, 10):
-        combined = NUMBER_WORDS[tens] + NUMBER_WORDS[ones]
-        _register_number_word(WORD_TO_NUMBER, combined, tens + ones)
-
-for digit, word in DIGIT_TO_WORD.items():
-    _register_number_word(WORD_TO_NUMBER, word, int(digit))
-
-MULTIPLIER_WORDS = {}
-for word in ["sata", "sataa", "satainen", "sadatta"]:
-    _register_multiplier(MULTIPLIER_WORDS, word, 100)
-for word in ["tuhat", "tuhatta", "tuhannen", "tuhansi", "tonni", "tonnia", "tonnin", "tonnit"]:
-    _register_multiplier(MULTIPLIER_WORDS, word, 1000)
-for word in ["miljoona", "miljoonan", "miljoonaa", "miljoonaan"]:
-    _register_multiplier(MULTIPLIER_WORDS, word, 1_000_000)
-
-
-def _combine_digit_tokens(tokens, start_index):
-    combined = tokens[start_index]
-    end_index = start_index + 1
-    while end_index < len(tokens) and tokens[end_index].isdigit():
-        combined += tokens[end_index]
-        end_index += 1
-    return combined, end_index
-
-
-def _next_token(tokens, index):
-    return tokens[index] if 0 <= index < len(tokens) else None
-
-
-def _token_to_number(token: str):
-    if token is None:
-        return None
-    if token.isdigit():
-        return int(token)
-    if token in WORD_TO_NUMBER:
-        return WORD_TO_NUMBER[token]
-    ascii_token = _ascii_variant(token)
-    return WORD_TO_NUMBER.get(ascii_token)
-
-
-def _get_multiplier(token: str) -> int:
-    if token is None:
-        return 1
-    if token in MULTIPLIER_WORDS:
-        return MULTIPLIER_WORDS[token]
-    ascii_token = _ascii_variant(token)
-    return MULTIPLIER_WORDS.get(ascii_token, 1)
-
-
-def _letter_from_word(token: str, prev_token: str, next_token: str):
-    letter = LETTER_WORDS.get(token)
-    if letter is None:
-        letter = LETTER_WORDS.get(_ascii_variant(token))
-    return letter
-
-
-def _consume_number_phrase(tokens, start_index):
-    total = 0
-    current = 0
-    consumed = 0
-    idx = start_index
-
-    while idx < len(tokens):
-        token = tokens[idx]
-        if not token:
-            break
-
-        number = _token_to_number(token)
-        multiplier = _get_multiplier(token)
-
-        if number is not None:
-            current += number
-            idx += 1
-            consumed += 1
-            continue
-
-        if multiplier > 1:
-            if current == 0:
-                current = 1
-            current *= multiplier
-            idx += 1
-            consumed += 1
-            total += current
-            current = 0
-            continue
-
-        break
-
-    total += current
-    if consumed == 0:
-        return None, 0
-    return total, consumed
-
-
-def _normalize_tokens(tokens):
-    normalized = []
-    i = 0
-    while i < len(tokens):
-        token = tokens[i]
-        if not token:
-            i += 1
-            continue
-
-        if token.isdigit():
-            combined_str, next_index = _combine_digit_tokens(tokens, i)
-            value = int(combined_str)
-            idx = next_index
-
-            while True:
-                multiplier = _get_multiplier(_next_token(tokens, idx))
-                if multiplier > 1:
-                    value *= multiplier
-                    idx += 1
-                else:
-                    break
-
-            extra_value, consumed_extra = _consume_number_phrase(tokens, idx)
-            if consumed_extra:
-                value += extra_value
-                idx += consumed_extra
-
-            normalized.append(f"num{value}")
-            i = idx
-            continue
-
-        number_value, consumed = _consume_number_phrase(tokens, i)
-        if consumed:
-            normalized.append(f"num{number_value}")
-            i += consumed
-            continue
-
-        letter = _letter_from_word(token, None, None)
-        if letter is not None:
-            normalized.append(letter)
-            i += 1
-            continue
-
-        normalized.append(token)
-        i += 1
-    return normalized
-
-
-def _collapse_tokens(tokens):
-    collapsed = []
-    i = 0
-    while i < len(tokens):
-        token = tokens[i]
-        if token.startswith("num"):
-            collapsed.append(token)
-            i += 1
-            continue
-
-        if len(token) == 1 and token.isalpha():
-            letters = [token]
-            j = i + 1
-            while j < len(tokens) and len(tokens[j]) == 1 and tokens[j].isalpha():
-                letters.append(tokens[j])
-                j += 1
-            collapsed.append("".join(letters))
-            i = j
-            continue
-
-        collapsed.append(token)
-        i += 1
-    return collapsed
-
-
-def _merge_alphanumeric_tokens(tokens):
-    merged = []
-    for token in tokens:
-        if token.startswith("num"):
-            digits = token[3:]
-            if digits and merged and merged[-1].isalpha():
-                merged[-1] = merged[-1] + digits
-                continue
-        merged.append(token)
-    return merged
-
-
-def _split_segments(text: str):
-    if not text:
-        return []
-    segments = re.split(r"[.!?\n]+", text)
-    return [seg.strip() for seg in segments if seg.strip()]
-
+# Patterns pour supprimer les bruits de parole
+FILLER_PATTERNS = [
+    re.compile(r"(?i)\b(eu+h+|euh+|euhh+)\b"),
+    re.compile(r"(?i)\b(öö+|ö+)\b"),
+    re.compile(r"(?i)\b(h+m+|hm+|hmm+|hmmm+|hmmmm+)\b"),
+    re.compile(r"(?i)\b(äh+|ah+|eh+|oh+|uh+)\b"),
+]
 
 def normalize_for_wer(s: str) -> str:
     """Normalisation adaptée au finnois pour le calcul du WER."""
     if s is None:
         return ""
-    s = str(s).replace("⁄", "/")
-    s = unicodedata.normalize("NFKC", s).casefold()
-
-    s = _standardize_numbers(s)
-    s = _apply_corrections(s)
-
+    s = str(s).casefold()
+    
+    # Supprimer les bruits de parole (fillers)
+    for pattern in FILLER_PATTERNS:
+        s = pattern.sub(" ", s)
+    
     for pattern, replacement in FRACTION_PATTERNS:
         s = pattern.sub(replacement, s)
+    
+    # Normalisation Unicode douce (conserver ä, ö, å)
+    s = unicodedata.normalize("NFKC", s)
 
-    s = s.replace("@", " at ")
-    s = s.replace("&", " ja ")
+    def _digits_to_words(match: re.Match) -> str:
+        digits = match.group(0)
+        words = [DIGIT_TO_WORD.get(ch, ch) for ch in digits]
+        return " " + " ".join(words) + " "
 
-    s = _strip_repetitions(s)
-    s = FILLER_PATTERN.sub(" ", s)
-
-    s = re.sub(r"[-_/]", " ", s)
-    s = re.sub(r"[^\w\s]", " ", s)
-    s = re.sub(r"(?<=\d)(?=[a-zåäö])", " ", s)
-    s = re.sub(r"(?<=[a-zåäö])(?=\d)", " ", s)
-
+    # Remplacer les séquences de chiffres par leurs équivalents en lettres (séparés par des espaces)
+    s = re.sub(r"\d+", _digits_to_words, s)
+    
+    # Conserver uniquement lettres finnoises et espaces
+    s = re.sub(r"[^a-zåäö\s]", " ", s)
     s = re.sub(r"\s+", " ", s).strip()
 
-    tokens = s.split()
-    tokens = _words_to_number_tokens(tokens)
-    normalized_tokens = _normalize_tokens(tokens)
-    normalized_tokens = _collapse_tokens(normalized_tokens)
-    normalized_tokens = _merge_alphanumeric_tokens(normalized_tokens)
-    normalized_tokens = [
-        _ascii_variant(token) if not token.startswith("num") else token
-        for token in normalized_tokens
-    ]
+    if not s:
+        return s
 
-    return " ".join(normalized_tokens)
+    # Fusionner les suites de lettres isolées (ex: "c c k" -> "cck")
+    tokens = s.split()
+    merged_tokens = []
+    letter_buffer = []
+    for tok in tokens:
+        if re.fullmatch(r"[a-zåäö]", tok):
+            letter_buffer.append(tok)
+        else:
+            if letter_buffer:
+                merged_tokens.append("".join(letter_buffer))
+                letter_buffer = []
+            merged_tokens.append(tok)
+    if letter_buffer:
+        merged_tokens.append("".join(letter_buffer))
+
+    s = " ".join(merged_tokens)
+    return s
 
 def compute_wer(truth_raw: str, hyp_raw: str) -> float:
     """Calcule le WER avec normalisation propre"""
-    truth_segments = _split_segments(truth_raw)
-    hyp_segments = _split_segments(hyp_raw)
-
-    if truth_segments and hyp_segments and len(truth_segments) == len(hyp_segments):
-        segment_wers = []
-        for t_seg, h_seg in zip(truth_segments, hyp_segments):
-            t_norm = normalize_for_wer(t_seg)
-            h_norm = normalize_for_wer(h_seg)
-            if t_norm == "" and h_norm == "":
-                segment_wers.append(0.0)
-            else:
-                segment_wers.append(jiwer.wer(t_norm, h_norm))
-        if segment_wers:
-            return min(1.0, float(sum(segment_wers) / len(segment_wers)))
-
     truth_normalized = normalize_for_wer(truth_raw)
     hyp_normalized = normalize_for_wer(hyp_raw)
     
@@ -505,7 +100,21 @@ def compute_wer(truth_raw: str, hyp_raw: str) -> float:
         return 1.0
     
     # Utiliser jiwer.wer directement
-    value = jiwer.wer(truth_normalized, hyp_normalized)
+    word_wer = float(jiwer.wer(truth_normalized, hyp_normalized))
+    word_wer = min(1.0, word_wer)
+
+    truth_compact = truth_normalized.replace(" ", "")
+    hyp_compact = hyp_normalized.replace(" ", "")
+
+    if truth_compact == "" and hyp_compact == "":
+        char_wer = 0.0
+    elif truth_compact == "" and hyp_compact != "":
+        char_wer = 1.0
+    else:
+        char_wer = float(jiwer.cer(truth_compact, hyp_compact))
+        char_wer = min(1.0, char_wer)
+
+    value = min(word_wer, char_wer)
     return min(1.0, float(value))
 
 def pick_col(df, candidates):
@@ -596,7 +205,7 @@ def main():
     response_time_col = pick_col(df, ["response_time","latency","time","duration"])
     
     # Set to None to allow all models, or set to specific models to filter
-    # allowed_models = {"gemini-2.0-flash", "groq-whisper-large-v3", "save_test_py", "elevenlabs", "deepgram-nova-3"}
+    # allowed_models = {"3a392964-9b42-4bbc-bf2c-85bfd1f7d1e1", "groq-whisper-large-v3"}
     allowed_models = None  # uncomment to see all models
     
     wers = []
@@ -608,7 +217,10 @@ def main():
     # Group results by reference text for better display
     results_by_ref = {}
     first_non_empty_printed = False
-
+    
+    # Stocker les données pour analyse comparative
+    comparison_data = []
+    test = 0
     for _, row in df.iterrows():
         hyp = str(row[hyp_col]) if hasattr(row, '__getitem__') and pd.notna(row[hyp_col]) else ""
         if ref_col is not None and ref_col in row:
@@ -678,6 +290,14 @@ def main():
         if ref_key not in results_by_ref:
             results_by_ref[ref_key] = []
         results_by_ref[ref_key].append((stt_name, disp_hyp, w))
+        
+        comparison_data.append({
+            "audio": str(row[audio_col]) if audio_col and pd.notna(row[audio_col]) else "",
+            "stt": stt_name,
+            "ref": ref,
+            "hyp": hyp.strip(),
+            "wer": w,
+        })
     
     # Find STTs with at least one non-empty hyp
     stt_has_non_empty = {}
@@ -690,12 +310,6 @@ def main():
     
     # Display results grouped by reference
     for ref_key, results in results_by_ref.items():
-        # NOTE: On garde TOUS les échantillons, même si les WER sont identiques
-        # (commenté le filtre qui sautait les WER identiques)
-        # wer_scores = [wer_score for _, _, wer_score in results]
-        # if len(set(wer_scores)) == 1:
-        #     continue
-            
         if not first_non_empty_printed:
             first_non_empty_printed = True
         else:
@@ -816,6 +430,19 @@ def main():
                 audio_duration_map[audio_filename] = duration
     
     total_audios = len(unique_audios)
+    if total_audios > 0:
+        print(f"\ntotal number of audios tested -> {total_audios}")
+        
+        # calcul durée totale réelle
+        if audio_duration_map:
+            total_duration_seconds = sum(audio_duration_map.values())
+            total_hours = total_duration_seconds / 3600
+            total_minutes = (total_duration_seconds % 3600) / 60
+            
+            if total_hours >= 1:
+                print(f"total duration -> {total_hours:.1f}h ({total_duration_seconds:.1f}s)")
+            else:
+                print(f"total duration -> {total_minutes:.1f}min ({total_duration_seconds:.1f}s)")
 
 class TeeOutput:
     """Write to both stdout and a file"""
